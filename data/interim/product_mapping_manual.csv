@@ -1,0 +1,1011 @@
+teks,jumlah_baris_historis,teks_benar,sku_tujuan,dasar,skor,status
+kclc urah,11,kcl curah,KCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+boitek,10,biotek,BIOTEK,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+klc curah,8,kcl curah,KCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kl curah,7,kcl curah,KCL,"skor 0.94, unggul 0.27 dari SKU lain",0.94,masuk
+kclcurah,7,kcl curah,KCL,"skor 1.00, unggul 0.41 dari SKU lain",1.0,masuk
+cgn1,6,cng1,CNG1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kcl cruah,6,kcl curah,KCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kapur dolmoite,5,kapur dolomite,DLMT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kaur dolomite,5,kapur dolomite,DLMT,"skor 0.96, unggul 0.48 dari SKU lain",0.96,masuk
+superel 840 sl,5,superel 480 sl,SUPEREL100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+urae curah,4,urea curah,UREA,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+cn-gk alsium nitrat,4,cn-g kalsium nitrat,CNG1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kapru dolomite,4,kapur dolomite,DLMT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+regent 50e c,4,regent 50 ec,"RGNT, RGNTB",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kc curah,4,kcl curah,KCL,"skor 0.94, unggul 0.27 dari SKU lain",0.94,masuk
+kapurd olomite,4,kapur dolomite,DLMT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mk ppak tani,4,mkp pak tani,MKP1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+urea ucrah,4,urea curah,UREA,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+dangke 40wp,4,dangke 40 wp,DANGKE100,"skor 1.00, unggul 0.36 dari SKU lain",1.0,masuk
+troobs 200 sl,4,trobos 200 sl,TROBOS100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+balisitc 50 sc,4,balistic 50 sc,BLSTC,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kc lcurah,4,kcl curah,KCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mpk pak tani,4,,,"ambigu: satu langkah dari beberapa SKU (MKP1, NPKPT)",,ambigu
+mp1,4,,,"ambigu: satu langkah dari beberapa SKU (M21, MKP1)",,ambigu
+nvtk,4,ntvk,NTVK,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kapur doloimte,3,kapur dolomite,DLMT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+humgirow,3,humigrow,HUMIGROW500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+metaze 80 wp,3,,,"ambigu: skor 0.96, unggul 0.08 (perlu >= 0,80 dan >= 0,10)",,ambigu
+emkape maxxi gri,3,emkape maxxi agri,"EMKAPE1, EMKAPE500","skor 0.97, unggul 0.28 dari SKU lain",0.97,masuk
+mkpp ak tani,3,mkp pak tani,MKP1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+ekmape maxxi agri,3,emkape maxxi agri,"EMKAPE1, EMKAPE500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+bioetk,3,biotek,BIOTEK,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+e-trek anti aryap,3,e-trek anti rayap,ETREKKCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kovin lpus 80p,3,kovin plus 80p,KOVINPLUS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fretiphos curah,3,fertiphos curah,FRTPHS1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+ekmape1,3,emkape1,EMKAPE1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+roundup4 86 sl,3,roundup 486 sl,"RDPB, RDPK",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+atnracol 70,3,antracol 70 wp,"ANTRCL, ANTRCL500","skor 0.82, unggul 0.29 dari SKU lain",0.82,masuk
+etrkkcl,3,etrekkcl,ETREKKCL,"skor 0.93, unggul 0.31 dari SKU lain",0.93,masuk
+aivdor 25 wp,3,avidor 25 wp,AVIDOR100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kapur dolomtie,3,kapur dolomite,DLMT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kcl cuarh,3,kcl curah,KCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mekramap,3,mekarmap,MEKARMAP1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kovinlus,3,kovinplus,KOVINPLUS,"skor 0.94, unggul 0.32 dari SKU lain",0.94,masuk
+urea cruah,3,urea curah,UREA,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kcl ucrah,3,kcl curah,KCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kapur olomite,3,kapur dolomite,DLMT,"skor 0.96, unggul 0.46 dari SKU lain",0.96,masuk
+kpur dolomite,3,kapur dolomite,DLMT,"skor 0.96, unggul 0.54 dari SKU lain",0.96,masuk
+ronudup 486 sl,3,roundup 486 sl,"RDPB, RDPK",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kovinp lus 80p,3,kovin plus 80p,KOVINPLUS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+emkpe maxxi agri,3,emkape maxxi agri,"EMKAPE1, EMKAPE500","skor 0.97, unggul 0.28 dari SKU lain",0.97,masuk
+bioek,3,biotek,BIOTEK,"skor 0.91, unggul 0.34 dari SKU lain",0.91,masuk
+vgr400,3,vlgr400,VLGR400,"skor 0.92, unggul 0.39 dari SKU lain",0.92,masuk
+emakpe1,3,emkape1,EMKAPE1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+balisitc 50,3,balistic 50 sc,BLSTC,"skor 0.82, unggul 0.21 dari SKU lain",0.82,masuk
+mkp pak tnai,3,mkp pak tani,MKP1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mkp pak atni,3,mkp pak tani,MKP1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mkp pa ktani,3,mkp pak tani,MKP1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+tspn,3,tpsn,TPSN,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+troos 200 sl,3,trobos 200 sl,TROBOS100,"skor 0.96, unggul 0.24 dari SKU lain",0.96,masuk
+supreel 480 sl,3,superel 480 sl,SUPEREL100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+trobso 200 sl,3,trobos 200 sl,TROBOS100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kovni plus 80p,3,kovin plus 80p,KOVINPLUS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gibrgo,3,gibgro,GIBGRO,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+sontan,3,spontan,SPONTAN,"skor 0.92, unggul 0.21 dari SKU lain",0.92,masuk
+e4mp,3,em4p,EM4P,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mkp pka tani,2,mkp pak tani,MKP1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+e-rek anti rayap,2,e-trek anti rayap,ETREKKCL,"skor 0.97, unggul 0.42 dari SKU lain",0.97,masuk
+uera,2,urea,UREA,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+roundup 486sl,2,roundup 486 sl,"RDPB, RDPK","skor 1.00, unggul 0.27 dari SKU lain",1.0,masuk
+deci s25 ec,2,decis 25 ec,"DCSB, DCSK",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+farmquat 27 6sl,2,farmquat 276 sl,FARMQUAT250,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+e-tre anti rayap,2,e-trek anti rayap,ETREKKCL,"skor 0.97, unggul 0.47 dari SKU lain",0.97,masuk
+mpk1,2,mkp1,MKP1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fetriphos curah,2,fertiphos curah,FRTPHS1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kcl urah,2,kcl curah,KCL,"skor 0.94, unggul 0.32 dari SKU lain",0.94,masuk
+"petrokmu 0,005 bb",2,"petrokum 0,005 bb",PETROKUM100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kapu rdolomite,2,kapur dolomite,DLMT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+trobo 200 sl,2,trobos 200 sl,TROBOS100,"skor 0.96, unggul 0.24 dari SKU lain",0.96,masuk
+decis 2 5ec,2,decis 25 ec,"DCSB, DCSK",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+superel 408 sl,2,superel 480 sl,SUPEREL100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+decs 25 ec,2,decis 25 ec,"DCSB, DCSK","skor 0.95, unggul 0.28 dari SKU lain",0.95,masuk
+dangke 4 0wp,2,dangke 40 wp,DANGKE100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fruadan 3gr,2,furadan 3gr,"FRD1, FRD2",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+emkape maxi agri,2,emkape maxxi agri,"EMKAPE1, EMKAPE500","skor 0.97, unggul 0.28 dari SKU lain",0.97,masuk
+emkape maxx iagri,2,emkape maxxi agri,"EMKAPE1, EMKAPE500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gbigro 10 sp,2,gibgro 10 sp,GIBGRO,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mlase,2,molase,MOLASE,"skor 0.91, unggul 0.34 dari SKU lain",0.91,masuk
+bufos 15 0sl,2,bufos 150 sl,BFS1L,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+suprel 480 sl,2,superel 480 sl,SUPEREL100,"skor 0.96, unggul 0.24 dari SKU lain",0.96,masuk
+avior 25,2,avidor 25 wp,AVIDOR100,"skor 0.82, unggul 0.25 dari SKU lain",0.82,masuk
+"pterokum 0,005 bb",2,"petrokum 0,005 bb",PETROKUM100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fenite 15 0od,2,fenite 150 od,"FENITE100, FENITE50",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+avidor 2 5wp,2,avidor 25 wp,AVIDOR100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kovi nplus 80p,2,kovin plus 80p,KOVINPLUS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gibgro 1 0sp,2,gibgro 10 sp,GIBGRO,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kovin plu 80p,2,kovin plus 80p,KOVINPLUS,"skor 0.96, unggul 0.35 dari SKU lain",0.96,masuk
+trobs 200 sl,2,trobos 200 sl,TROBOS100,"skor 0.96, unggul 0.24 dari SKU lain",0.96,masuk
+gibgro1 0 sp,2,gibgro 10 sp,GIBGRO,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fdr1,2,frd1,FRD1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+ureac urah,2,urea curah,UREA,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+molsae,2,molase,MOLASE,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+trobos2 00 sl,2,trobos 200 sl,TROBOS100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+avdior 25 wp,2,avidor 25 wp,AVIDOR100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kapur dloomite,2,kapur dolomite,DLMT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+furdaan 3gr,2,furadan 3gr,"FRD1, FRD2",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kapur dolomte,2,kapur dolomite,DLMT,"skor 0.96, unggul 0.53 dari SKU lain",0.96,masuk
+trobos 20 0sl,2,trobos 200 sl,TROBOS100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+e-rtek anti rayap,2,e-trek anti rayap,ETREKKCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mkpp ak,2,,,"ambigu: skor 0.75, unggul 0.25 (perlu >= 0,80 dan >= 0,10)",,ambigu
+bufs 150 sl,2,bufos 150 sl,BFS1L,"skor 0.96, unggul 0.38 dari SKU lain",0.96,masuk
+filia 25 se,2,filia 525 se,FILIA50,"skor 0.96, unggul 0.35 dari SKU lain",0.96,masuk
+trobos 200s l,2,trobos 200 sl,TROBOS100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gunting kunnig,2,gunting kuning,GKNG,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+ndx,2,nrdx,NRDX,"skor 0.86, unggul 0.42 dari SKU lain",0.86,masuk
+urea cuarh,2,urea curah,UREA,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kapurdolomite,2,kapur dolomite,DLMT,"skor 1.00, unggul 0.55 dari SKU lain",1.0,masuk
+gibgor 10,2,,,"ambigu: skor 0.78, unggul 0.16 (perlu >= 0,80 dan >= 0,10)",,ambigu
+mkp pak tni,2,mkp pak tani,MKP1,"skor 0.96, unggul 0.18 dari SKU lain",0.96,masuk
+kapur dlomite,2,kapur dolomite,DLMT,"skor 0.96, unggul 0.48 dari SKU lain",0.96,masuk
+bitoek,2,biotek,BIOTEK,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+urea cuah,2,urea curah,UREA,"skor 0.95, unggul 0.39 dari SKU lain",0.95,masuk
+asibaoron1,2,asiaboron1,ASIABORON1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+balistc 50 sc,2,balistic 50 sc,BLSTC,"skor 0.96, unggul 0.24 dari SKU lain",0.96,masuk
+furadna 3gr,2,furadan 3gr,"FRD1, FRD2",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+uera curah,2,urea curah,UREA,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fertiphso curah,2,fertiphos curah,FRTPHS1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+e-trek antir ayap,2,e-trek anti rayap,ETREKKCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kovin pls 80p,2,kovin plus 80p,KOVINPLUS,"skor 0.96, unggul 0.35 dari SKU lain",0.96,masuk
+dceis 25 ec,2,decis 25 ec,"DCSB, DCSK",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kvin plus,2,kovinplus,KOVINPLUS,"skor 0.94, unggul 0.46 dari SKU lain",0.94,masuk
+grntik,2,grnstik,GRNSTIK,"skor 0.92, unggul 0.15 dari SKU lain",0.92,masuk
+gibgro 0 sp,2,gibgro 10 sp,GIBGRO,"skor 0.96, unggul 0.14 dari SKU lain",0.96,masuk
+danke 40 wp,2,dangke 40 wp,DANGKE100,"skor 0.96, unggul 0.27 dari SKU lain",0.96,masuk
+gosong otp 276 sl,2,gosong top 276 sl,"GOSONGTOP250, GOSONGTOP500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+emkape mxxi agri,2,emkape maxxi agri,"EMKAPE1, EMKAPE500","skor 0.97, unggul 0.28 dari SKU lain",0.97,masuk
+winedr 100,2,winder100,WINDER100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fiia 525 se,2,filia 525 se,FILIA50,"skor 0.96, unggul 0.41 dari SKU lain",0.96,masuk
+cn-g kalsiumn itrat,2,cn-g kalsium nitrat,CNG1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fenite 510 od,2,fenite 150 od,"FENITE100, FENITE50",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+emkaep1,2,emkape1,EMKAPE1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kovniplus,2,kovinplus,KOVINPLUS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+emkape maxxi argi,2,emkape maxxi agri,"EMKAPE1, EMKAPE500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+et-rek anti rayap,2,e-trek anti rayap,ETREKKCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mk pak,2,,,"ambigu: skor 0.67, unggul 0.11 (perlu >= 0,80 dan >= 0,10)",,ambigu
+topsin 050 ec,2,topsin 500 ec,TPSN,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mkp pk tani,2,mkp pak tani,MKP1,"skor 0.96, unggul 0.18 dari SKU lain",0.96,masuk
+maxxigr ob,2,,,"ambigu: satu langkah dari beberapa SKU (MAXXIGROB500, MAXXIGROD500)",,ambigu
+sapporo 25 ec,2,sapporo 52 ec,SAPPORO100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+npkm utiara,2,npk mutiara,NPKM1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+torbos100,2,trobos100,TROBOS100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+dagnke 40 wp,2,dangke 40 wp,DANGKE100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mteazeb 80 wp,2,metazeb 80 wp,METAZEB1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mkp apk tani,2,mkp pak tani,MKP1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+tobos 200 sl,2,trobos 200 sl,TROBOS100,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+mkp paktani,2,mkp pak tani,MKP1,"skor 1.00, unggul 0.20 dari SKU lain",1.0,masuk
+topsin 00 ec,2,topsin 500 ec,TPSN,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+emkaep maxxi agri,2,emkape maxxi agri,"EMKAPE1, EMKAPE500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+ure acurah,2,urea curah,UREA,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+dangk e40 wp,2,dangke 40 wp,DANGKE100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+etrekckl,2,etrekkcl,ETREKKCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+e-trek anti raayp,2,e-trek anti rayap,ETREKKCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+geren stick,2,green stick,GRNSTIK,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+maxxfosate 940 sl,2,maxxfosate 490 sl,MAXXFOSATE250,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+nvk,2,ntvk,NTVK,"skor 0.86, unggul 0.29 dari SKU lain",0.86,masuk
+dmt,2,dlmt,DLMT,"skor 0.86, unggul 0.26 dari SKU lain",0.86,masuk
+np kpak tani,2,npk pak tani,NPKPT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+trobos2 00,2,trobos 200 sl,TROBOS100,"skor 0.90, unggul 0.31 dari SKU lain",0.9,masuk
+superel 480s l,2,superel 480 sl,SUPEREL100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+sumo5 0 ec,2,sumo 50 ec,SUMO80,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+supere 480 sl,2,superel 480 sl,SUPEREL100,"skor 0.96, unggul 0.24 dari SKU lain",0.96,masuk
+emakpe maxxi agri,2,emkape maxxi agri,"EMKAPE1, EMKAPE500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+guntnig ats,2,gunting ats,GATS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mp pak tani,2,,,"ambigu: skor 0.96, unggul 0.09 (perlu >= 0,80 dan >= 0,10)",,ambigu
+bioink 400 ec,2,bionik 400 ec,BIONIK100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+spuerel 480 sl,2,superel 480 sl,SUPEREL100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+trobos 00 sl,2,trobos 200 sl,TROBOS100,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+trobo s200 sl,2,trobos 200 sl,TROBOS100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+deci 25 ec,2,decis 25 ec,"DCSB, DCSK","skor 0.95, unggul 0.26 dari SKU lain",0.95,masuk
+ruondup 486 sl,2,roundup 486 sl,"RDPB, RDPK",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+abacel 1 8ec,2,abacel 18 ec,ABACEL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+metazeb 8 0wp,2,,,"ambigu: satu langkah dari beberapa SKU (MEGAZEB, METAZEB1)",,ambigu
+fastac 1 ec,2,fastac 15 ec,FSTC,"skor 0.96, unggul 0.26 dari SKU lain",0.96,masuk
+petroum100,2,petrokum100,PETROKUM100,"skor 0.95, unggul 0.31 dari SKU lain",0.95,masuk
+emkape amxxi agri,2,emkape maxxi agri,"EMKAPE1, EMKAPE500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+dngke 40 wp,2,dangke 40 wp,DANGKE100,"skor 0.96, unggul 0.34 dari SKU lain",0.96,masuk
+nkptwn1,2,npktwn1,NPKTWN1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+green tsick,2,green stick,GRNSTIK,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+e-tek anti rayap,2,e-trek anti rayap,ETREKKCL,"skor 0.97, unggul 0.42 dari SKU lain",0.97,masuk
+antracl 70 wp,2,antracol 70 wp,"ANTRCL, ANTRCL500","skor 0.96, unggul 0.24 dari SKU lain",0.96,masuk
+balistic5 0 sc,2,balistic 50 sc,BLSTC,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+cg1,2,cng1,CNG1,"skor 0.86, unggul 0.46 dari SKU lain",0.86,masuk
+dangke40 wp,2,dangke 40 wp,DANGKE100,"skor 1.00, unggul 0.36 dari SKU lain",1.0,masuk
+kovin plsu 80p,2,kovin plus 80p,KOVINPLUS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fenite 15 od,2,fenite 150 od,"FENITE100, FENITE50","skor 0.96, unggul 0.40 dari SKU lain",0.96,masuk
+nkpm1,2,npkm1,NPKM1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+ure curah,2,urea curah,UREA,"skor 0.95, unggul 0.28 dari SKU lain",0.95,masuk
+fatsac 15 ec,2,fastac 15 ec,FSTC,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kovin lpus,2,kovinplus,KOVINPLUS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+saporo 52 ec,2,sapporo 52 ec,SAPPORO100,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+trobos 20 sl,2,trobos 200 sl,TROBOS100,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+misty hand spraeyr,2,misty hand sprayer,MST 2L,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+sapporo 5 2ec,2,sapporo 52 ec,SAPPORO100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+dsck,2,dcsk,DCSK,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+atnrcl,2,antrcl,ANTRCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+windr100,2,winder100,WINDER100,"skor 0.94, unggul 0.23 dari SKU lain",0.94,masuk
+gsdlb,2,gdslb,GDSLB,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+binik100,2,bionik100,BIONIK100,"skor 0.94, unggul 0.32 dari SKU lain",0.94,masuk
+sueprel100,2,superel100,SUPEREL100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+extrapkg,2,extrapckg,EXTRAPCKG,"skor 0.94, unggul 0.41 dari SKU lain",0.94,masuk
+gmb3rl,2,gmbr3l,GMBR3L,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+extapckg,2,extrapckg,EXTRAPCKG,"skor 0.94, unggul 0.41 dari SKU lain",0.94,masuk
+gdlsd,2,gdsld,GDSLD,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kvinplus,2,kovinplus,KOVINPLUS,"skor 0.94, unggul 0.48 dari SKU lain",0.94,masuk
+marsha25,2,marshal25,MARSHAL25,"skor 0.94, unggul 0.37 dari SKU lain",0.94,masuk
+dsb,2,dcsb,DCSB,"skor 0.86, unggul 0.11 dari SKU lain",0.86,masuk
+mipcinat100,2,mipcinta100,MIPCINTA100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+dangk100,2,dangke100,DANGKE100,"skor 0.94, unggul 0.32 dari SKU lain",0.94,masuk
+superle100,2,superel100,SUPEREL100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fenit50,2,fenite50,FENITE50,"skor 0.93, unggul 0.18 dari SKU lain",0.93,masuk
+npmk1,2,npkm1,NPKM1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+cprcd00,2,cprcd100,CPRCD100,"skor 0.93, unggul 0.33 dari SKU lain",0.93,masuk
+fd2,2,frd2,FRD2,"skor 0.86, unggul 0.29 dari SKU lain",0.86,masuk
+sdtmhrn,2,sdmthrn,SDMTHRN,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gsdld,2,gdsld,GDSLD,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+jaringsbr,1,jaringbsr,JARINGBSR,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gandasli d,1,gandasil d,"GDSLD, GDSLD500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+torbos 200 sl,1,trobos 200 sl,TROBOS100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+crcd100,1,cprcd100,CPRCD100,"skor 0.93, unggul 0.26 dari SKU lain",0.93,masuk
+sponatn 400 sl,1,spontan 400 sl,SPONTAN,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+pn pak tani (ko3 putih prill),1,,,"ambigu: skor 0.98, unggul 0.09 (perlu >= 0,80 dan >= 0,10)",,ambigu
+antrcaol 70,1,antracol 70 wp,"ANTRCL, ANTRCL500","skor 0.82, unggul 0.25 dari SKU lain",0.82,masuk
+antcrl,1,antrcl,ANTRCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+npk mutaira,1,npk mutiara,NPKM1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fertipos curah,1,fertiphos curah,FRTPHS1,"skor 0.97, unggul 0.39 dari SKU lain",0.97,masuk
+anwvain 500 ec,1,anwavin 500 ec,ANWAVIN100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+jaring bauh besar,1,jaring buah besar,JARINGBSR,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fotin 610 ec,1,fostin 610 ec,FSTN100,"skor 0.96, unggul 0.32 dari SKU lain",0.96,masuk
+"ptrokum 0,005 bb",1,"petrokum 0,005 bb",PETROKUM100,"skor 0.97, unggul 0.49 dari SKU lain",0.97,masuk
+npk ca ptawon,1,npk cap tawon,NPKTWN1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+vugar 865 sl,1,vulgar 865 sl,VLGR400,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+mk pak tani,1,,,"ambigu: skor 0.96, unggul 0.09 (perlu >= 0,80 dan >= 0,10)",,ambigu
+balistic 05 sc,1,balistic 50 sc,BLSTC,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+"petrokum 00,05 bb",1,"petrokum 0,005 bb",PETROKUM100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+rumpsa 120,1,rumpas 120 ew,RMPS100,"skor 0.80, unggul 0.22 dari SKU lain",0.8,masuk
+frpths1,1,frtphs1,FRTPHS1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gibgro 10sp,1,gibgro 10 sp,GIBGRO,"skor 1.00, unggul 0.22 dari SKU lain",1.0,masuk
+alika2 47 zc,1,alika 247 zc,ALIKA50,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+anwavni 500 ec,1,anwavin 500 ec,ANWAVIN100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kresnatop 50 0sc,1,kresnatop 500 sc,KRESNATOP,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+magnesium sulfat pka tani,1,magnesium sulfat pak tani,MGSULFATE,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fenite 150o d,1,fenite 150 od,"FENITE100, FENITE50",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gnkg,1,gkng,GKNG,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gts,1,gats,GATS,"skor 0.86, unggul 0.19 dari SKU lain",0.86,masuk
+sidafso 480 sl,1,sidafos 480 sl,SIDAFOS1L,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+cuporcide 77 wp,1,cuprocide 77 wp,CPRCD100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+aacel 18 ec,1,abacel 18 ec,ABACEL,"skor 0.96, unggul 0.26 dari SKU lain",0.96,masuk
+np cap tawon,1,npk cap tawon,NPKTWN1,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+npk pak atni,1,npk pak tani,NPKPT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+asi boron,1,asia boron,ASIABORON1,"skor 0.95, unggul 0.33 dari SKU lain",0.95,masuk
+metaze b80 wp,1,,,"ambigu: satu langkah dari beberapa SKU (MEGAZEB, METAZEB1)",,ambigu
+spontank ing 400 sl,1,spontan king 400 sl,SPONTANKING,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gramoxoe 276 sl,1,gramoxone 276 sl,"GRXB, GRXK","skor 0.97, unggul 0.13 dari SKU lain",0.97,masuk
+aisa boron,1,asia boron,ASIABORON1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+rudstra 250 ec,1,rudstar 250 ec,RDSTR100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fertiphoscurah,1,fertiphos curah,FRTPHS1,"skor 1.00, unggul 0.48 dari SKU lain",1.0,masuk
+meatzeb 80 wp,1,metazeb 80 wp,METAZEB1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+superl 480 sl,1,superel 480 sl,SUPEREL100,"skor 0.96, unggul 0.24 dari SKU lain",0.96,masuk
+balistic 0 sc,1,balistic 50 sc,BLSTC,"skor 0.96, unggul 0.32 dari SKU lain",0.96,masuk
+nugrass 6 9ec,1,nugrass 69 ec,NUGRASS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+magnesiu msulfat pak tani,1,magnesium sulfat pak tani,MGSULFATE,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+trboos 200,1,trobos 200 sl,TROBOS100,"skor 0.80, unggul 0.21 dari SKU lain",0.8,masuk
+topsin500,1,topsin 500 ec,TPSN,"skor 0.90, unggul 0.31 dari SKU lain",0.9,masuk
+filia 552 se,1,filia 525 se,FILIA50,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gren tonik,1,green tonik,GRNTNK1,"skor 0.95, unggul 0.19 dari SKU lain",0.95,masuk
+mxaxigro b,1,maxxigro b,MAXXIGROB500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+wnider 100 ec,1,winder 100 ec,WINDER100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+cn-g kalsuim,1,,,"ambigu: skor 0.71, unggul 0.14 (perlu >= 0,80 dan >= 0,10)",,ambigu
+sueprel 480,1,superel 480 sl,SUPEREL100,"skor 0.82, unggul 0.19 dari SKU lain",0.82,masuk
+emkpae maxxi,1,,,"ambigu: skor 0.77, unggul 0.19 (perlu >= 0,80 dan >= 0,10)",,ambigu
+mk ppak,1,,,"ambigu: skor 0.75, unggul 0.22 (perlu >= 0,80 dan >= 0,10)",,ambigu
+bravoxone 26 sl,1,bravoxone 276 sl,BRVXN,"skor 0.97, unggul 0.13 dari SKU lain",0.97,masuk
+kresnato p500 sc,1,kresnatop 500 sc,KRESNATOP,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+filai50,1,filia50,FILIA50,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+bltc,1,blstc,BLSTC,"skor 0.89, unggul 0.39 dari SKU lain",0.89,masuk
+kinglo1n00,1,kinglon100,KINGLON100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kanitart1,1,kanitrat1,KANITRAT1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+sumo 5 ec,1,sumo 50 ec,SUMO80,"skor 0.95, unggul 0.28 dari SKU lain",0.95,masuk
+guntin kuning,1,gunting kuning,GKNG,"skor 0.96, unggul 0.32 dari SKU lain",0.96,masuk
+brvoxone 276 sl,1,bravoxone 276 sl,BRVXN,"skor 0.97, unggul 0.11 dari SKU lain",0.97,masuk
+roundup486 sl,1,roundup 486 sl,"RDPB, RDPK","skor 1.00, unggul 0.27 dari SKU lain",1.0,masuk
+polybag tanmaan,1,,,"ambigu: skor 0.79, unggul 0.00 (perlu >= 0,80 dan >= 0,10)",,ambigu
+avidr 25 wp,1,avidor 25 wp,AVIDOR100,"skor 0.96, unggul 0.38 dari SKU lain",0.96,masuk
+plenum5 0,1,plenum 50 wg,PLENUM25,"skor 0.89, unggul 0.34 dari SKU lain",0.89,masuk
+topsin 50 ec,1,topsin 500 ec,TPSN,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+kovin plus 08p,1,kovin plus 80p,KOVINPLUS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+koup 480 sl,1,konup 480 sl,KONUP,"skor 0.96, unggul 0.24 dari SKU lain",0.96,masuk
+filia 525s e,1,filia 525 se,FILIA50,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+bionki100,1,bionik100,BIONIK100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+em4 perkianan,1,,,"ambigu: skor 0.77, unggul 0.03 (perlu >= 0,80 dan >= 0,10)",,ambigu
+bfuos 150,1,,,"ambigu: skor 0.78, unggul 0.19 (perlu >= 0,80 dan >= 0,10)",,ambigu
+erosg old,1,erosgold100,EROSGOLD100,"skor 0.84, unggul 0.27 dari SKU lain",0.84,masuk
+furadan gr,1,furadan 3gr,"FRD1, FRD2","skor 0.95, unggul 0.45 dari SKU lain",0.95,masuk
+bioni k400 ec,1,bionik 400 ec,BIONIK100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+sopntan 400 sl,1,spontan 400 sl,SPONTAN,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+dange 40 wp,1,dangke 40 wp,DANGKE100,"skor 0.96, unggul 0.27 dari SKU lain",0.96,masuk
+asia bron,1,asia boron,ASIABORON1,"skor 0.95, unggul 0.33 dari SKU lain",0.95,masuk
+tircho-bact,1,tricho-bact,TRICHO500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+you stcik,1,you stick,YOUSTICK500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+magnesium sulfa pak tani,1,magnesium sulfat pak tani,MGSULFATE,"skor 0.98, unggul 0.39 dari SKU lain",0.98,masuk
+rmpas 120 ew,1,rumpas 120 ew,RMPS100,"skor 0.96, unggul 0.38 dari SKU lain",0.96,masuk
+kreslon 80,1,kreslon 480 ec,KRSLN,"skor 0.86, unggul 0.26 dari SKU lain",0.86,masuk
+metazb 80 wp,1,,,"ambigu: skor 0.96, unggul 0.08 (perlu >= 0,80 dan >= 0,10)",,ambigu
+fositn 610 ec,1,fostin 610 ec,FSTN100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+maxixgro d,1,maxxigro d,MAXXIGROD500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+balisti c50 sc,1,balistic 50 sc,BLSTC,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+bufso 150 sl,1,bufos 150 sl,BFS1L,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+metazeb 0 wp,1,,,"ambigu: skor 0.96, unggul 0.08 (perlu >= 0,80 dan >= 0,10)",,ambigu
+nordox5 6 wp,1,nordox 56 wp,NRDX,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+jetsrpay,1,jetspray,"JSP1L, JSP500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+filia 25,1,filia50,FILIA50,"skor 0.86, unggul 0.29 dari SKU lain",0.86,masuk
+aviodr 25,1,,,"ambigu: skor 0.78, unggul 0.23 (perlu >= 0,80 dan >= 0,10)",,ambigu
+mipcinta 5 wp,1,mipcinta 50 wp,MIPCINTA100,"skor 0.96, unggul 0.40 dari SKU lain",0.96,masuk
+e-trekanti rayap,1,e-trek anti rayap,ETREKKCL,"skor 1.00, unggul 0.48 dari SKU lain",1.0,masuk
+trobos 200sl,1,trobos 200 sl,TROBOS100,"skor 1.00, unggul 0.36 dari SKU lain",1.0,masuk
+farmquat 276sl,1,farmquat 276 sl,FARMQUAT250,"skor 1.00, unggul 0.47 dari SKU lain",1.0,masuk
+sponta n400 sl,1,spontan 400 sl,SPONTAN,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+cn- gkalsium nitrat,1,cn-g kalsium nitrat,CNG1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+polybag tanmaan 15x15,1,polybag tanaman 15x15,PLYBG15,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+rovil100,1,riovil100,RIOVIL100,"skor 0.94, unggul 0.31 dari SKU lain",0.94,masuk
+farmqut250,1,farmquat250,FARMQUAT250,"skor 0.95, unggul 0.39 dari SKU lain",0.95,masuk
+aia boron,1,asia boron,ASIABORON1,"skor 0.95, unggul 0.33 dari SKU lain",0.95,masuk
+e-rek anti,1,,,"ambigu: skor 0.75, unggul 0.22 (perlu >= 0,80 dan >= 0,10)",,ambigu
+sapproo 52,1,sapporo 52 ec,SAPPORO100,"skor 0.80, unggul 0.30 dari SKU lain",0.8,masuk
+regent5 0 ec,1,regent 50 ec,"RGNT, RGNTB",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+nativo 75w g,1,nativo 75 wg,NTVK,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+farmuat 276 sl,1,farmquat 276 sl,FARMQUAT250,"skor 0.97, unggul 0.37 dari SKU lain",0.97,masuk
+kovn plus 80p,1,kovin plus 80p,KOVINPLUS,"skor 0.96, unggul 0.35 dari SKU lain",0.96,masuk
+"petrokum 0,00 bb",1,"petrokum 0,005 bb",PETROKUM100,"skor 0.97, unggul 0.44 dari SKU lain",0.97,masuk
+bionik 400e c,1,bionik 400 ec,BIONIK100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+npk mutara,1,npk mutiara,NPKM1,"skor 0.95, unggul 0.23 dari SKU lain",0.95,masuk
+deb esttan 60 wp,1,de besttan 60 wp,DEBESTTAN100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+windre 100,1,winder100,WINDER100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+alik 247 zc,1,alika 247 zc,ALIKA50,"skor 0.96, unggul 0.44 dari SKU lain",0.96,masuk
+flia50,1,filia50,FILIA50,"skor 0.92, unggul 0.15 dari SKU lain",0.92,masuk
+mipcinta50,1,mipcinta 50 wp,MIPCINTA100,"skor 0.91, unggul 0.32 dari SKU lain",0.91,masuk
+supere l480,1,superel 480 sl,SUPEREL100,"skor 0.91, unggul 0.30 dari SKU lain",0.91,masuk
+mar-trx 500 ec,1,mar-trex 500 ec,MARTREX500,"skor 0.97, unggul 0.28 dari SKU lain",0.97,masuk
+samite 135e c,1,samite 135 ec,SAMITE100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+jestpray,1,jetspray,"JSP1L, JSP500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+brodaplus 77 wp,1,broadplus 77 wp,BROADPLUS40,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+bablass 940 sl,1,bablass 490 sl,BBLSS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+supere1l00,1,superel100,SUPEREL100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+bionik010,1,bionik100,BIONIK100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+balistci 50 sc,1,balistic 50 sc,BLSTC,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+zinkok pupuk mikro,1,zinkko pupuk mikro,ZNSO4,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+npkc ap tawon,1,npk cap tawon,NPKTWN1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+polbyag tanaman,1,,,"ambigu: skor 0.79, unggul 0.00 (perlu >= 0,80 dan >= 0,10)",,ambigu
+kresnatp 500 sc,1,kresnatop 500 sc,KRESNATOP,"skor 0.97, unggul 0.24 dari SKU lain",0.97,masuk
+"petroukm 0,005",1,"petrokum 0,005 bb",PETROKUM100,"skor 0.86, unggul 0.29 dari SKU lain",0.86,masuk
+troobs 200,1,trobos 200 sl,TROBOS100,"skor 0.80, unggul 0.21 dari SKU lain",0.8,masuk
+np kcap,1,,,"ambigu: skor 0.73, unggul 0.02 (perlu >= 0,80 dan >= 0,10)",,ambigu
+e-trk anti,1,,,"ambigu: skor 0.75, unggul 0.20 (perlu >= 0,80 dan >= 0,10)",,ambigu
+tricho-bct,1,tricho-bact,TRICHO500,"skor 0.95, unggul 0.53 dari SKU lain",0.95,masuk
+fertihpos curah,1,fertiphos curah,FRTPHS1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+npkcap tawon,1,npk cap tawon,NPKTWN1,"skor 1.00, unggul 0.33 dari SKU lain",1.0,masuk
+mipcinta 05 wp,1,mipcinta 50 wp,MIPCINTA100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+ppuk amazing grow pertumbuhan,1,,,"ambigu: skor 0.98, unggul 0.07 (perlu >= 0,80 dan >= 0,10)",,ambigu
+pn pak tani (kno3 puih kristal),1,,,"ambigu: skor 0.98, unggul 0.09 (perlu >= 0,80 dan >= 0,10)",,ambigu
+farmquat 276s l,1,farmquat 276 sl,FARMQUAT250,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gosong top 276s l,1,gosong top 276 sl,"GOSONGTOP250, GOSONGTOP500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+pterokum100,1,petrokum100,PETROKUM100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+e-trek anti ayap,1,e-trek anti rayap,ETREKKCL,"skor 0.97, unggul 0.47 dari SKU lain",0.97,masuk
+e-treka nti,1,e-trek anti rayap,ETREKKCL,"skor 0.80, unggul 0.28 dari SKU lain",0.8,masuk
+trobos 020,1,trobos100,TROBOS100,"skor 0.89, unggul 0.30 dari SKU lain",0.89,masuk
+avidr 25,1,avidor 25 wp,AVIDOR100,"skor 0.82, unggul 0.25 dari SKU lain",0.82,masuk
+supreel100,1,superel100,SUPEREL100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+plybag tanaman,1,,,"ambigu: skor 0.81, unggul 0.00 (perlu >= 0,80 dan >= 0,10)",,ambigu
+sum 50 ec,1,sumo 50 ec,SUMO80,"skor 0.95, unggul 0.28 dari SKU lain",0.95,masuk
+winder100 ec,1,winder 100 ec,WINDER100,"skor 1.00, unggul 0.38 dari SKU lain",1.0,masuk
+cn-g kalsum,1,,,"ambigu: skor 0.74, unggul 0.14 (perlu >= 0,80 dan >= 0,10)",,ambigu
+topsi 500 ec,1,topsin 500 ec,TPSN,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+matador 5 ec,1,matador 25 ec,MTDR,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+kovi plus,1,kovinplus,KOVINPLUS,"skor 0.94, unggul 0.38 dari SKU lain",0.94,masuk
+pupuk amazing row pertumbuhan,1,,,"ambigu: skor 0.98, unggul 0.07 (perlu >= 0,80 dan >= 0,10)",,ambigu
+furaan 3gr,1,furadan 3gr,"FRD1, FRD2","skor 0.95, unggul 0.48 dari SKU lain",0.95,masuk
+aabcel,1,abacel,ABACEL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+pupuk amazng grow pertumbuhan,1,,,"ambigu: skor 0.98, unggul 0.07 (perlu >= 0,80 dan >= 0,10)",,ambigu
+gandaisl b,1,gandasil b,"GDSLB, GDSLB500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kapur doloite,1,kapur dolomite,DLMT,"skor 0.96, unggul 0.51 dari SKU lain",0.96,masuk
+sidamethrin 50e c,1,sidamethrin 50 ec,SDMTHRN,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+naivo 75,1,nativo 75 wg,NTVK,"skor 0.82, unggul 0.32 dari SKU lain",0.82,masuk
+bravotop 55 5sl,1,bravotop 555 sl,BRVTP1L,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+ambn500,1,ambtn500,AMBTN500,"skor 0.93, unggul 0.31 dari SKU lain",0.93,masuk
+calsiums uper,1,calsium super,CALSIUMSPR1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gmrb3l,1,gmbr3l,GMBR3L,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gbgro panen 20 sp,1,gibgro panen 20 sp,GIBGROPN,"skor 0.97, unggul 0.28 dari SKU lain",0.97,masuk
+huigrow,1,humigrow,HUMIGROW500,"skor 0.93, unggul 0.31 dari SKU lain",0.93,masuk
+pupuk amzaing grow pertumbuhan,1,pupuk amazing grow pertumbuhan,AGT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+npk capt awon,1,npk cap tawon,NPKTWN1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gunitng ats,1,gunting ats,GATS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+pn pak tani (kno3 putih kirstal),1,pn pak tani (kno3 putih kristal),KNOPTH1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+suom80,1,sumo80,SUMO80,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fastsocre,1,fastscore,FSTSCR500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+eros gold 0.57/30 df,1,eros gold 0.75/30 df,EROSGOLD100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+konup480 sl,1,konup 480 sl,KONUP,"skor 1.00, unggul 0.27 dari SKU lain",1.0,masuk
+suprel100,1,superel100,SUPEREL100,"skor 0.95, unggul 0.24 dari SKU lain",0.95,masuk
+fertphos curah,1,fertiphos curah,FRTPHS1,"skor 0.97, unggul 0.39 dari SKU lain",0.97,masuk
+npk acp tawon,1,npk cap tawon,NPKTWN1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+broadplus 7 7wp,1,broadplus 77 wp,BROADPLUS40,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+amazing gorw,1,,,"ambigu: skor 0.56, unggul 0.01 (perlu >= 0,80 dan >= 0,10)",,ambigu
+broadplsu40,1,broadplus40,BROADPLUS40,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+emkape maxxiagri,1,emkape maxxi agri,"EMKAPE1, EMKAPE500","skor 1.00, unggul 0.31 dari SKU lain",1.0,masuk
+instaax 240 sl,1,instamax 240 sl,INSTAMAX1L,"skor 0.97, unggul 0.30 dari SKU lain",0.97,masuk
+feinte 150 od,1,fenite 150 od,"FENITE100, FENITE50",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+em4 eprtanian,1,em4 pertanian,EM4K,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mipcinat 50 wp,1,mipcinta 50 wp,MIPCINTA100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+npkp ak tani,1,npk pak tani,NPKPT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+em4 petranian,1,em4 pertanian,EM4K,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kresnacid 520 ec,1,kresnacid 250 ec,KRSNCD,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+furada n3gr,1,furadan 3gr,"FRD1, FRD2",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gunitng kuning,1,gunting kuning,GKNG,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+bufos1 50 sl,1,bufos 150 sl,BFS1L,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+bionik 00 ec,1,bionik 400 ec,BIONIK100,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+sponta n400,1,spontan 400 sl,SPONTAN,"skor 0.91, unggul 0.14 dari SKU lain",0.91,masuk
+riovi l50 sc,1,riovil 50 sc,RIOVIL100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+farmquta 276 sl,1,farmquat 276 sl,FARMQUAT250,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+pnp ak tani (kno3 putih kristal),1,pn pak tani (kno3 putih kristal),KNOPTH1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+farmquat50,1,farmquat250,FARMQUAT250,"skor 0.95, unggul 0.38 dari SKU lain",0.95,masuk
+abacl 18,1,abacel 18 ec,ABACEL,"skor 0.82, unggul 0.32 dari SKU lain",0.82,masuk
+fostin 610ec,1,fostin 610 ec,FSTN100,"skor 1.00, unggul 0.36 dari SKU lain",1.0,masuk
+dngke 40,1,dangke 40 wp,DANGKE100,"skor 0.82, unggul 0.34 dari SKU lain",0.82,masuk
+e-trek anit rayap,1,e-trek anti rayap,ETREKKCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+"petrokum ,0005 bb",1,"petrokum 0,005 bb",PETROKUM100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+nordox 56wp,1,nordox 56 wp,NRDX,"skor 1.00, unggul 0.48 dari SKU lain",1.0,masuk
+manztae 82 wp,1,manzate 82 wp,MANZATE500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+superel010,1,superel100,SUPEREL100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+metaze b80,1,,,"ambigu: skor 0.90, unggul 0.10 (perlu >= 0,80 dan >= 0,10)",,ambigu
+gadasil b,1,gandasil b,"GDSLB, GDSLB500","skor 0.95, unggul 0.11 dari SKU lain",0.95,masuk
+tricoh500,1,tricho500,TRICHO500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+windr 100,1,winder100,WINDER100,"skor 0.94, unggul 0.23 dari SKU lain",0.94,masuk
+you stck,1,you stick,YOUSTICK500,"skor 0.94, unggul 0.39 dari SKU lain",0.94,masuk
+em4 pertainan,1,em4 pertanian,EM4K,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mpk pak,1,,,"ambigu: skor 0.63, unggul 0.00 (perlu >= 0,80 dan >= 0,10)",,ambigu
+manzate82,1,manzate 82 wp,MANZATE500,"skor 0.90, unggul 0.35 dari SKU lain",0.9,masuk
+nkp cap,1,,,"ambigu: skor 0.60, unggul 0.05 (perlu >= 0,80 dan >= 0,10)",,ambigu
+avidor25 wp,1,avidor 25 wp,AVIDOR100,"skor 1.00, unggul 0.42 dari SKU lain",1.0,masuk
+frtiphos curah,1,fertiphos curah,FRTPHS1,"skor 0.97, unggul 0.39 dari SKU lain",0.97,masuk
+fila 525 se,1,filia 525 se,FILIA50,"skor 0.96, unggul 0.41 dari SKU lain",0.96,masuk
+amaing grow,1,,,"ambigu: skor 0.67, unggul 0.04 (perlu >= 0,80 dan >= 0,10)",,ambigu
+antacol 70,1,antracol 70 wp,"ANTRCL, ANTRCL500","skor 0.86, unggul 0.30 dari SKU lain",0.86,masuk
+sumo 5 0ec,1,sumo 50 ec,SUMO80,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+samte 135 ec,1,samite 135 ec,SAMITE100,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+"petrokum0 ,005 bb",1,"petrokum 0,005 bb",PETROKUM100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+trobos200 sl,1,trobos 200 sl,TROBOS100,"skor 1.00, unggul 0.36 dari SKU lain",1.0,masuk
+puupk amazing grow pembuahan,1,pupuk amazing grow pembuahan,AGB,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+polybag tanama n50x50,1,polybag tanaman 50x50,PLYBG50,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gandasi ld,1,,,"ambigu: satu langkah dari beberapa SKU (GDSLB, GDSLB500, GDSLD, GDSLD500)",,ambigu
+kovnplus,1,kovinplus,KOVINPLUS,"skor 0.94, unggul 0.32 dari SKU lain",0.94,masuk
+polybga tanaman,1,,,"ambigu: skor 0.79, unggul 0.00 (perlu >= 0,80 dan >= 0,10)",,ambigu
+acgel 500 sl,1,agcel 500 sl,AGCEL250,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+sidatna 410 sl,1,sidatan 410 sl,SIDATAN400,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gbigro 10,1,,,"ambigu: skor 0.78, unggul 0.16 (perlu >= 0,80 dan >= 0,10)",,ambigu
+b1liquinox,1,b1 liquinox,LIQ,"skor 1.00, unggul 0.56 dari SKU lain",1.0,masuk
+e-trek anti ryap,1,e-trek anti rayap,ETREKKCL,"skor 0.97, unggul 0.42 dari SKU lain",0.97,masuk
+fliia 525 se,1,filia 525 se,FILIA50,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+ultradap paktani,1,ultradap pak tani,ULTRDP,"skor 1.00, unggul 0.36 dari SKU lain",1.0,masuk
+riovil5 0 sc,1,riovil 50 sc,RIOVIL100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+jaing buah besar,1,jaring buah besar,JARINGBSR,"skor 0.97, unggul 0.21 dari SKU lain",0.97,masuk
+filia 52 5se,1,filia 525 se,FILIA50,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+"perokum 0,005",1,"petrokum 0,005 bb",PETROKUM100,"skor 0.89, unggul 0.37 dari SKU lain",0.89,masuk
+metazeb 80wp,1,,,"ambigu: satu langkah dari beberapa SKU (MEGAZEB, METAZEB1)",,ambigu
+jaringbuah besar,1,jaring buah besar,JARINGBSR,"skor 1.00, unggul 0.23 dari SKU lain",1.0,masuk
+plnum 50 wg,1,plenum 50 wg,PLENUM25,"skor 0.96, unggul 0.37 dari SKU lain",0.96,masuk
+asai boron,1,asia boron,ASIABORON1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+dagnke 40,1,,,"ambigu: skor 0.78, unggul 0.22 (perlu >= 0,80 dan >= 0,10)",,ambigu
+avidor2 5 wp,1,avidor 25 wp,AVIDOR100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+pupuk aamzing grow pertumbuhan,1,pupuk amazing grow pertumbuhan,AGT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+e-tre kanti rayap,1,e-trek anti rayap,ETREKKCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mdtr,1,mtdr,MTDR,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+sperel 480 sl,1,superel 480 sl,SUPEREL100,"skor 0.96, unggul 0.27 dari SKU lain",0.96,masuk
+superel 480sl,1,superel 480 sl,SUPEREL100,"skor 1.00, unggul 0.33 dari SKU lain",1.0,masuk
+roundup 48 6sl,1,roundup 486 sl,"RDPB, RDPK",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+jetpsray,1,jetspray,"JSP1L, JSP500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+etrekcl,1,etrekkcl,ETREKKCL,"skor 0.93, unggul 0.31 dari SKU lain",0.93,masuk
+emkap emaxxi,1,emkape maxxi agri,"EMKAPE1, EMKAPE500","skor 0.85, unggul 0.32 dari SKU lain",0.85,masuk
+fentie100,1,fenite100,FENITE100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fente50,1,fenite50,FENITE50,"skor 0.93, unggul 0.18 dari SKU lain",0.93,masuk
+marsahl 25 ds,1,marshal 25 ds,MARSHAL25,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+deics 25 ec,1,decis 25 ec,"DCSB, DCSK",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+pupuk amzing grow pembuahan,1,,,"ambigu: skor 0.98, unggul 0.07 (perlu >= 0,80 dan >= 0,10)",,ambigu
+magnesium sulaft,1,,,"ambigu: skor 0.76, unggul 0.21 (perlu >= 0,80 dan >= 0,10)",,ambigu
+mteazeb 80,1,,,"ambigu: skor 0.80, unggul 0.00 (perlu >= 0,80 dan >= 0,10)",,ambigu
+riovil50,1,riovil 50 sc,RIOVIL100,"skor 0.89, unggul 0.30 dari SKU lain",0.89,masuk
+plenu m50 wg,1,plenum 50 wg,PLENUM25,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+anwavin 050 ec,1,anwavin 500 ec,ANWAVIN100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+dangke4 0,1,dangke 40 wp,DANGKE100,"skor 0.89, unggul 0.33 dari SKU lain",0.89,masuk
+polybag tanaamn,1,,,"ambigu: skor 0.79, unggul 0.00 (perlu >= 0,80 dan >= 0,10)",,ambigu
+kapr dolomite,1,kapur dolomite,DLMT,"skor 0.96, unggul 0.48 dari SKU lain",0.96,masuk
+avdor 25 wp,1,avidor 25 wp,AVIDOR100,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+feite100,1,fenite100,FENITE100,"skor 0.94, unggul 0.19 dari SKU lain",0.94,masuk
+superel 48 0sl,1,superel 480 sl,SUPEREL100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+samite 15 ec,1,samite 135 ec,SAMITE100,"skor 0.96, unggul 0.21 dari SKU lain",0.96,masuk
+mkp ak,1,,,"ambigu: skor 0.67, unggul 0.14 (perlu >= 0,80 dan >= 0,10)",,ambigu
+abacel 8 ec,1,abacel 18 ec,ABACEL,"skor 0.96, unggul 0.32 dari SKU lain",0.96,masuk
+dagke 40,1,dangke 40 wp,DANGKE100,"skor 0.82, unggul 0.29 dari SKU lain",0.82,masuk
+mekamrap1,1,mekarmap1,MEKARMAP1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+winde r100,1,winder100,WINDER100,"skor 1.00, unggul 0.33 dari SKU lain",1.0,masuk
+dankge 40,1,,,"ambigu: skor 0.78, unggul 0.22 (perlu >= 0,80 dan >= 0,10)",,ambigu
+explore 250e c,1,explore 250 ec,EXPLORE80,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+green stck,1,green stick,GRNSTIK,"skor 0.95, unggul 0.19 dari SKU lain",0.95,masuk
+e-trek nati rayap,1,e-trek anti rayap,ETREKKCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+trobso100,1,trobos100,TROBOS100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+supeel 480,1,superel 480 sl,SUPEREL100,"skor 0.86, unggul 0.28 dari SKU lain",0.86,masuk
+plenum 50wg,1,plenum 50 wg,PLENUM25,"skor 1.00, unggul 0.44 dari SKU lain",1.0,masuk
+b1 liqunox,1,b1 liquinox,LIQ,"skor 0.95, unggul 0.47 dari SKU lain",0.95,masuk
+bufos 510 sl,1,bufos 150 sl,BFS1L,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+npkwn1,1,npktwn1,NPKTWN1,"skor 0.92, unggul 0.19 dari SKU lain",0.92,masuk
+supere l480 sl,1,superel 480 sl,SUPEREL100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+roundpu 486 sl,1,roundup 486 sl,"RDPB, RDPK",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+antarcol 70 wp,1,antracol 70 wp,"ANTRCL, ANTRCL500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+buofs 150 sl,1,bufos 150 sl,BFS1L,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+filia5 25 se,1,filia 525 se,FILIA50,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+avidor 52 wp,1,avidor 25 wp,AVIDOR100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+awnavin 500,1,anwavin 500 ec,ANWAVIN100,"skor 0.82, unggul 0.19 dari SKU lain",0.82,masuk
+eros ogld 0.75/30 df,1,eros gold 0.75/30 df,EROSGOLD100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+tamarcon 500,1,tamacron 500 ec,TAMACRON,"skor 0.83, unggul 0.13 dari SKU lain",0.83,masuk
+mpcinta 50,1,mipcinta 50 wp,MIPCINTA100,"skor 0.86, unggul 0.30 dari SKU lain",0.86,masuk
+amazing growb ooster kelengkeng,1,amazing grow booster kelengkeng,AGL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+pupuk amazng grow pembuahan,1,,,"ambigu: skor 0.98, unggul 0.07 (perlu >= 0,80 dan >= 0,10)",,ambigu
+mipcnita 50,1,mipcinta 50 wp,MIPCINTA100,"skor 0.82, unggul 0.23 dari SKU lain",0.82,masuk
+npkmutiara,1,npk mutiara,NPKM1,"skor 1.00, unggul 0.23 dari SKU lain",1.0,masuk
+cn-gk alsium,1,,,"ambigu: skor 0.79, unggul 0.12 (perlu >= 0,80 dan >= 0,10)",,ambigu
+em4 perkianan & tambak,1,em4 perikanan & tambak,EM4P,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mkp apk,1,,,"ambigu: skor 0.63, unggul 0.01 (perlu >= 0,80 dan >= 0,10)",,ambigu
+famquat 276,1,farmquat 276 sl,FARMQUAT250,"skor 0.87, unggul 0.40 dari SKU lain",0.87,masuk
+filia 255 se,1,filia 525 se,FILIA50,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+graomxone 276,1,,,"ambigu: skor 0.85, unggul 0.08 (perlu >= 0,80 dan >= 0,10)",,ambigu
+anwavin5 00 ec,1,anwavin 500 ec,ANWAVIN100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+paket perumbuhan,1,,,"ambigu: skor 0.97, unggul 0.07 (perlu >= 0,80 dan >= 0,10)",,ambigu
+sarlon 665,1,starlon 665 ec,STARLON100,"skor 0.86, unggul 0.30 dari SKU lain",0.86,masuk
+mashal 25 ds,1,marshal 25 ds,MARSHAL25,"skor 0.96, unggul 0.40 dari SKU lain",0.96,masuk
+riovil 50s c,1,riovil 50 sc,RIOVIL100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kapu dolomite,1,kapur dolomite,DLMT,"skor 0.96, unggul 0.48 dari SKU lain",0.96,masuk
+avido r25,1,avidor 25 wp,AVIDOR100,"skor 0.89, unggul 0.26 dari SKU lain",0.89,masuk
+sueprel 480 sl,1,superel 480 sl,SUPEREL100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+decis 25e c,1,decis 25 ec,"DCSB, DCSK",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+farmquat 726,1,farmquat 276 sl,FARMQUAT250,"skor 0.83, unggul 0.39 dari SKU lain",0.83,masuk
+ekape maxxi agri,1,emkape maxxi agri,"EMKAPE1, EMKAPE500","skor 0.97, unggul 0.23 dari SKU lain",0.97,masuk
+antrcl00,1,,,"ambigu: skor 0.94, unggul 0.08 (perlu >= 0,80 dan >= 0,10)",,ambigu
+pn pak tani (kno3 putih rpill),1,pn pak tani (kno3 putih prill),KNOPTH2,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+prevathn 50,1,prevathon 50 sc,PREVATHON100,"skor 0.87, unggul 0.31 dari SKU lain",0.87,masuk
+gebor air,1,gembor air,GMBR3L,"skor 0.95, unggul 0.45 dari SKU lain",0.95,masuk
+dithane m-45 0 wp,1,dithane m-45 80 wp,DITHANE200,"skor 0.97, unggul 0.28 dari SKU lain",0.97,masuk
+hmuigrow,1,humigrow,HUMIGROW500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mipcinta50 wp,1,mipcinta 50 wp,MIPCINTA100,"skor 1.00, unggul 0.44 dari SKU lain",1.0,masuk
+gosongtpo500,1,gosongtop500,GOSONGTOP500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+sidafos 840 sl,1,sidafos 480 sl,SIDAFOS1L,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+emkape mxaxi agri,1,emkape maxxi agri,"EMKAPE1, EMKAPE500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+bio calsum,1,bio calsium,BIOCALSIUM1,"skor 0.95, unggul 0.35 dari SKU lain",0.95,masuk
+sappor o52 ec,1,sapporo 52 ec,SAPPORO100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+metsulindo plu 80wp,1,metsulindo plus 80wp,MTSLNDO,"skor 0.97, unggul 0.36 dari SKU lain",0.97,masuk
+fertiphos cuarh,1,fertiphos curah,FRTPHS1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+rounudp 486,1,roundup 486 sl,"RDPB, RDPK","skor 0.82, unggul 0.21 dari SKU lain",0.82,masuk
+fetiphos curah,1,fertiphos curah,FRTPHS1,"skor 0.97, unggul 0.39 dari SKU lain",0.97,masuk
+avido r25 wp,1,avidor 25 wp,AVIDOR100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+nkm1,1,npkm1,NPKM1,"skor 0.89, unggul 0.32 dari SKU lain",0.89,masuk
+widner 100,1,winder100,WINDER100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+dithae200,1,dithane200,DITHANE200,"skor 0.95, unggul 0.36 dari SKU lain",0.95,masuk
+polybag tanaamn 35x35,1,polybag tanaman 35x35,PLYBG35,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+em4 ertanian,1,em4 pertanian,EM4K,"skor 0.96, unggul 0.34 dari SKU lain",0.96,masuk
+alika 27 zc,1,alika 247 zc,ALIKA50,"skor 0.96, unggul 0.35 dari SKU lain",0.96,masuk
+fostin6 10 ec,1,fostin 610 ec,FSTN100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+dagke100,1,dangke100,DANGKE100,"skor 0.94, unggul 0.35 dari SKU lain",0.94,masuk
+supreel 480,1,superel 480 sl,SUPEREL100,"skor 0.82, unggul 0.26 dari SKU lain",0.82,masuk
+bitek,1,biotek,BIOTEK,"skor 0.91, unggul 0.45 dari SKU lain",0.91,masuk
+petrogeo l800l,1,petrogeol 800l,PTRGNL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+bltsc,1,blstc,BLSTC,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+e4 pertanian,1,em4 pertanian,EM4K,"skor 0.96, unggul 0.34 dari SKU lain",0.96,masuk
+goson gtop,1,,,"ambigu: skor 0.86, unggul 0.00 (perlu >= 0,80 dan >= 0,10)",,ambigu
+koin plus 80p,1,kovin plus 80p,KOVINPLUS,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+micpinta 50 wp,1,mipcinta 50 wp,MIPCINTA100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+amazign grow booster kelengkeng,1,amazing grow booster kelengkeng,AGL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+topsi n500 ec,1,topsin 500 ec,TPSN,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+pupuk amazing grow pertumubhan,1,pupuk amazing grow pertumbuhan,AGT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+ppuk amazing,1,,,"ambigu: skor 0.61, unggul 0.01 (perlu >= 0,80 dan >= 0,10)",,ambigu
+frmquat 276 sl,1,farmquat 276 sl,FARMQUAT250,"skor 0.97, unggul 0.37 dari SKU lain",0.97,masuk
+alika 427 zc,1,alika 247 zc,ALIKA50,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+winder010,1,winder100,WINDER100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+tm a6,1,,,"ambigu: skor 0.62, unggul 0.12 (perlu >= 0,80 dan >= 0,10)",,ambigu
+maxxfosate490 sl,1,maxxfosate 490 sl,MAXXFOSATE250,"skor 1.00, unggul 0.40 dari SKU lain",1.0,masuk
+balistic 5 0sc,1,balistic 50 sc,BLSTC,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+farmuqat 276 sl,1,farmquat 276 sl,FARMQUAT250,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+nptkwn1,1,npktwn1,NPKTWN1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fosin 610,1,fostin 610 ec,FSTN100,"skor 0.84, unggul 0.27 dari SKU lain",0.84,masuk
+kapur dolmite,1,kapur dolomite,DLMT,"skor 0.96, unggul 0.48 dari SKU lain",0.96,masuk
+bufos 50 sl,1,bufos 150 sl,BFS1L,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+spontan ikng 400 sl,1,spontan king 400 sl,SPONTANKING,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mar-trex500 ec,1,mar-trex 500 ec,MARTREX500,"skor 1.00, unggul 0.38 dari SKU lain",1.0,masuk
+polybag tanaman 151x5,1,polybag tanaman 15x15,PLYBG15,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+ganadsil d,1,gandasil d,"GDSLD, GDSLD500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+maxigro b,1,maxxigro b,MAXXIGROB500,"skor 0.95, unggul 0.11 dari SKU lain",0.95,masuk
+mipcinta 0 wp,1,mipcinta 50 wp,MIPCINTA100,"skor 0.96, unggul 0.32 dari SKU lain",0.96,masuk
+em4 perikana & tambak,1,em4 perikanan & tambak,EM4P,"skor 0.98, unggul 0.38 dari SKU lain",0.98,masuk
+score 25 0ec,1,score 250 ec,SCR80,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+trboos 200 sl,1,trobos 200 sl,TROBOS100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+roundu p486 sl,1,roundup 486 sl,"RDPB, RDPK",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+pegauss 500 sc,1,pegasus 500 sc,PEGASUS80,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+plenu 50 wg,1,plenum 50 wg,PLENUM25,"skor 0.96, unggul 0.40 dari SKU lain",0.96,masuk
+roundup 846,1,roundup 486 sl,"RDPB, RDPK","skor 0.82, unggul 0.29 dari SKU lain",0.82,masuk
+emkape maxix agri,1,emkape maxxi agri,"EMKAPE1, EMKAPE500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+prevathno 50,1,prevathon 50 sc,PREVATHON100,"skor 0.83, unggul 0.26 dari SKU lain",0.83,masuk
+npk cpa tawon,1,npk cap tawon,NPKTWN1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+meakrmap,1,mekarmap,MEKARMAP1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+bioc alsium,1,bio calsium,BIOCALSIUM1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+natiov 75 wg,1,nativo 75 wg,NTVK,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mazate 82,1,manzate 82 wp,MANZATE500,"skor 0.84, unggul 0.27 dari SKU lain",0.84,masuk
+e-trek atni,1,,,"ambigu: skor 0.72, unggul 0.17 (perlu >= 0,80 dan >= 0,10)",,ambigu
+regent 5 0ec,1,regent 50 ec,"RGNT, RGNTB",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+spporo 52 ec,1,sapporo 52 ec,SAPPORO100,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+npk pa ktani,1,npk pak tani,NPKPT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+antraco 70 wp,1,antracol 70 wp,"ANTRCL, ANTRCL500","skor 0.96, unggul 0.24 dari SKU lain",0.96,masuk
+grntsik,1,grnstik,GRNSTIK,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+winder 00 ec,1,winder 100 ec,WINDER100,"skor 0.96, unggul 0.27 dari SKU lain",0.96,masuk
+npkpak tani,1,npk pak tani,NPKPT,"skor 1.00, unggul 0.20 dari SKU lain",1.0,masuk
+kovi plus 80p,1,kovin plus 80p,KOVINPLUS,"skor 0.96, unggul 0.35 dari SKU lain",0.96,masuk
+gree stick,1,green stick,GRNSTIK,"skor 0.95, unggul 0.19 dari SKU lain",0.95,masuk
+roundup 48 sl,1,roundup 486 sl,"RDPB, RDPK","skor 0.96, unggul 0.16 dari SKU lain",0.96,masuk
+vulagr 865,1,vulgar 865 sl,VLGR400,"skor 0.80, unggul 0.35 dari SKU lain",0.8,masuk
+tobos 200,1,trobos 200 sl,TROBOS100,"skor 0.84, unggul 0.25 dari SKU lain",0.84,masuk
+em4 perikanan &tambak,1,em4 perikanan & tambak,EM4P,"skor 1.00, unggul 0.35 dari SKU lain",1.0,masuk
+paket pertubuhan,1,paket pertumbuhan,PAKETTUMBUH250,"skor 0.97, unggul 0.13 dari SKU lain",0.97,masuk
+sponatn 400,1,spontan 400 sl,SPONTAN,"skor 0.82, unggul 0.12 dari SKU lain",0.82,masuk
+emkape maxx agri,1,emkape maxxi agri,"EMKAPE1, EMKAPE500","skor 0.97, unggul 0.28 dari SKU lain",0.97,masuk
+e-trek ati rayap,1,e-trek anti rayap,ETREKKCL,"skor 0.97, unggul 0.42 dari SKU lain",0.97,masuk
+fliia 525,1,,,"ambigu: skor 0.78, unggul 0.25 (perlu >= 0,80 dan >= 0,10)",,ambigu
+superel4 80 sl,1,superel 480 sl,SUPEREL100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gnting kuning,1,gunting kuning,GKNG,"skor 0.96, unggul 0.38 dari SKU lain",0.96,masuk
+tposin 500 ec,1,topsin 500 ec,TPSN,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+riovil00,1,riovil100,RIOVIL100,"skor 0.94, unggul 0.35 dari SKU lain",0.94,masuk
+gosong top 267 sl,1,gosong top 276 sl,"GOSONGTOP250, GOSONGTOP500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+samtie 135 ec,1,samite 135 ec,SAMITE100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+spotnan 400 sl,1,spontan 400 sl,SPONTAN,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mekamrap,1,mekarmap,MEKARMAP1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+pn pk tani (kno3 putih kristal),1,,,"ambigu: skor 0.98, unggul 0.09 (perlu >= 0,80 dan >= 0,10)",,ambigu
+superle 480 sl,1,superel 480 sl,SUPEREL100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gandasl d,1,gandasil d,"GDSLD, GDSLD500","skor 0.95, unggul 0.11 dari SKU lain",0.95,masuk
+feite 150 od,1,fenite 150 od,"FENITE100, FENITE50","skor 0.96, unggul 0.38 dari SKU lain",0.96,masuk
+goson top 276 sl,1,gosong top 276 sl,"GOSONGTOP250, GOSONGTOP500","skor 0.97, unggul 0.28 dari SKU lain",0.97,masuk
+topsin5 00 ec,1,topsin 500 ec,TPSN,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+samite1 35 ec,1,samite 135 ec,SAMITE100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kovin plus 0p,1,kovin plus 80p,KOVINPLUS,"skor 0.96, unggul 0.35 dari SKU lain",0.96,masuk
+plenm 50 wg,1,plenum 50 wg,PLENUM25,"skor 0.96, unggul 0.37 dari SKU lain",0.96,masuk
+mesulindo plus,1,metsulindo plus 80wp,MTSLNDO,"skor 0.84, unggul 0.29 dari SKU lain",0.84,masuk
+aviodr 25 wp,1,avidor 25 wp,AVIDOR100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kcl crah,1,kcl curah,KCL,"skor 0.94, unggul 0.38 dari SKU lain",0.94,masuk
+tm4a00,1,tma400,TMA400,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+widner 100 ec,1,winder 100 ec,WINDER100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+regetn 50,1,,,"ambigu: skor 0.78, unggul 0.20 (perlu >= 0,80 dan >= 0,10)",,ambigu
+avidro100,1,avidor100,AVIDOR100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+pupukamazing,1,,,"ambigu: skor 0.65, unggul 0.03 (perlu >= 0,80 dan >= 0,10)",,ambigu
+emkae1,1,emkape1,EMKAPE1,"skor 0.92, unggul 0.25 dari SKU lain",0.92,masuk
+abacl 18 ec,1,abacel 18 ec,ABACEL,"skor 0.96, unggul 0.26 dari SKU lain",0.96,masuk
+metazeb 8 wp,1,,,"ambigu: skor 0.96, unggul 0.08 (perlu >= 0,80 dan >= 0,10)",,ambigu
+em4 pretanian,1,em4 pertanian,EM4K,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+blistic 50 sc,1,balistic 50 sc,BLSTC,"skor 0.96, unggul 0.27 dari SKU lain",0.96,masuk
+farmqaut250,1,farmquat250,FARMQUAT250,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+dangke4 0 wp,1,dangke 40 wp,DANGKE100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+filia 55 se,1,filia 525 se,FILIA50,"skor 0.96, unggul 0.35 dari SKU lain",0.96,masuk
+polybag tanamna 35x35,1,polybag tanaman 35x35,PLYBG35,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+tm400,1,tma400,TMA400,"skor 0.91, unggul 0.38 dari SKU lain",0.91,masuk
+kapur odlomite,1,kapur dolomite,DLMT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+magnesium sulfat pakt ani,1,magnesium sulfat pak tani,MGSULFATE,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+maxxigrod050,1,maxxigrod500,MAXXIGROD500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+filia525 se,1,filia 525 se,FILIA50,"skor 1.00, unggul 0.48 dari SKU lain",1.0,masuk
+kapur doolmite,1,kapur dolomite,DLMT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+msulfate,1,mgsulfate,MGSULFATE,"skor 0.94, unggul 0.46 dari SKU lain",0.94,masuk
+kvin plus 80p,1,kovin plus 80p,KOVINPLUS,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+bfuos 150 sl,1,bufos 150 sl,BFS1L,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+balisic 50,1,balistic 50 sc,BLSTC,"skor 0.86, unggul 0.24 dari SKU lain",0.86,masuk
+preavthon 50 sc,1,prevathon 50 sc,PREVATHON100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kersnacid 250 ec,1,kresnacid 250 ec,KRSNCD,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+jarinbgsr,1,jaringbsr,JARINGBSR,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+dangek100,1,dangke100,DANGKE100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+anwavi1n00,1,anwavin100,ANWAVIN100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+pn ak,1,,,"ambigu: skor 0.55, unggul 0.00 (perlu >= 0,80 dan >= 0,10)",,ambigu
+gigro,1,gibgro,GIBGRO,"skor 0.91, unggul 0.14 dari SKU lain",0.91,masuk
+pupuk amazing gro pembuahan,1,,,"ambigu: skor 0.98, unggul 0.07 (perlu >= 0,80 dan >= 0,10)",,ambigu
+antraclo 70 wp,1,antracol 70 wp,"ANTRCL, ANTRCL500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+nativo 7 5wg,1,nativo 75 wg,NTVK,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kcl cuah,1,kcl curah,KCL,"skor 0.94, unggul 0.38 dari SKU lain",0.94,masuk
+emakpe maxxi,1,,,"ambigu: skor 0.77, unggul 0.25 (perlu >= 0,80 dan >= 0,10)",,ambigu
+bionik 400ec,1,bionik 400 ec,BIONIK100,"skor 1.00, unggul 0.33 dari SKU lain",1.0,masuk
+frtps1,1,frtphs1,FRTPHS1,"skor 0.92, unggul 0.30 dari SKU lain",0.92,masuk
+knaon 400,1,,,"ambigu: skor 0.78, unggul 0.11 (perlu >= 0,80 dan >= 0,10)",,ambigu
+abacle 18 ec,1,abacel 18 ec,ABACEL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+poc mira flora,1,poc mitra flora,POCMF1L,"skor 0.97, unggul 0.41 dari SKU lain",0.97,masuk
+npk mutiraa,1,npk mutiara,NPKM1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+zinkko pupuk imkro,1,zinkko pupuk mikro,ZNSO4,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+b1 lqiuinox,1,b1 liquinox,LIQ,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+trobs100,1,trobos100,TROBOS100,"skor 0.94, unggul 0.19 dari SKU lain",0.94,masuk
+yo ustick,1,you stick,YOUSTICK500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+e-terk anti rayap,1,e-trek anti rayap,ETREKKCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+em4p erikanan & tambak,1,em4 perikanan & tambak,EM4P,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+rgeent 50,1,,,"ambigu: skor 0.78, unggul 0.16 (perlu >= 0,80 dan >= 0,10)",,ambigu
+em4 perikanan & tmabak,1,em4 perikanan & tambak,EM4P,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kovin plus80p,1,kovin plus 80p,KOVINPLUS,"skor 1.00, unggul 0.39 dari SKU lain",1.0,masuk
+kpaur dolomite,1,kapur dolomite,DLMT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+binoik 400,1,bionik 400 ec,BIONIK100,"skor 0.80, unggul 0.10 dari SKU lain",0.8,masuk
+polybga tanaman 35x35,1,polybag tanaman 35x35,PLYBG35,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+supeel100,1,superel100,SUPEREL100,"skor 0.95, unggul 0.36 dari SKU lain",0.95,masuk
+gunting ts,1,gunting ats,GATS,"skor 0.95, unggul 0.28 dari SKU lain",0.95,masuk
+npk utiara,1,npk mutiara,NPKM1,"skor 0.95, unggul 0.23 dari SKU lain",0.95,masuk
+sponan king 400 sl,1,spontan king 400 sl,SPONTANKING,"skor 0.97, unggul 0.16 dari SKU lain",0.97,masuk
+rounup 486,1,roundup 486 sl,"RDPB, RDPK","skor 0.86, unggul 0.22 dari SKU lain",0.86,masuk
+abcel,1,abacel,ABACEL,"skor 0.91, unggul 0.29 dari SKU lain",0.91,masuk
+guntnig kuning,1,gunting kuning,GKNG,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+metzeb 80 wp,1,,,"ambigu: skor 0.96, unggul 0.08 (perlu >= 0,80 dan >= 0,10)",,ambigu
+polybag atnaman 35x35,1,polybag tanaman 35x35,PLYBG35,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mkp ak tani,1,mkp pak tani,MKP1,"skor 0.96, unggul 0.12 dari SKU lain",0.96,masuk
+balitsic 50 sc,1,balistic 50 sc,BLSTC,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+aivdor100,1,avidor100,AVIDOR100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+bioink 400,1,bionik 400 ec,BIONIK100,"skor 0.80, unggul 0.24 dari SKU lain",0.8,masuk
+anwavin 500e c,1,anwavin 500 ec,ANWAVIN100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+ticho-bact,1,tricho-bact,TRICHO500,"skor 0.95, unggul 0.53 dari SKU lain",0.95,masuk
+geren tonik,1,green tonik,GRNTNK1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+rondup 486 sl,1,roundup 486 sl,"RDPB, RDPK","skor 0.96, unggul 0.16 dari SKU lain",0.96,masuk
+superel 48 sl,1,superel 480 sl,SUPEREL100,"skor 0.96, unggul 0.32 dari SKU lain",0.96,masuk
+dagnke100,1,dangke100,DANGKE100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+pupuk amazing grow pertmubuhan,1,pupuk amazing grow pertumbuhan,AGT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+trobo1s00,1,trobos100,TROBOS100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+m-21 deocmposer,1,m-21 decomposer,M21,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fostin 10 ec,1,fostin 610 ec,FSTN100,"skor 0.96, unggul 0.24 dari SKU lain",0.96,masuk
+mar-rtex 500 ec,1,mar-trex 500 ec,MARTREX500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+e4m peternakan,1,em4 peternakan,EM4C,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+abaecl 18,1,,,"ambigu: skor 0.78, unggul 0.28 (perlu >= 0,80 dan >= 0,10)",,ambigu
+instamax 240sl,1,instamax 240 sl,INSTAMAX1L,"skor 1.00, unggul 0.41 dari SKU lain",1.0,masuk
+abacel 81 ec,1,abacel 18 ec,ABACEL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kovin puls,1,kovinplus,KOVINPLUS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fstac 15 ec,1,fastac 15 ec,FSTC,"skor 0.96, unggul 0.26 dari SKU lain",0.96,masuk
+cn-g kalsuim nitrat,1,cn-g kalsium nitrat,CNG1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+babalss 490 sl,1,bablass 490 sl,BBLSS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+matdaor 25 ec,1,matador 25 ec,MTDR,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+windre 100 ec,1,winder 100 ec,WINDER100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+emkae maxxi agri,1,emkape maxxi agri,"EMKAPE1, EMKAPE500","skor 0.97, unggul 0.23 dari SKU lain",0.97,masuk
+dtihane m-45,1,,,"ambigu: skor 0.77, unggul 0.27 (perlu >= 0,80 dan >= 0,10)",,ambigu
+superel480 sl,1,superel 480 sl,SUPEREL100,"skor 1.00, unggul 0.36 dari SKU lain",1.0,masuk
+fenie50,1,fenite50,FENITE50,"skor 0.93, unggul 0.18 dari SKU lain",0.93,masuk
+antraclo 70,1,antracol 70 wp,"ANTRCL, ANTRCL500","skor 0.82, unggul 0.25 dari SKU lain",0.82,masuk
+winde r100 ec,1,winder 100 ec,WINDER100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+farmquat 267 sl,1,farmquat 276 sl,FARMQUAT250,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+aabcel 18 ec,1,abacel 18 ec,ABACEL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+smaite 135,1,samite 135 ec,SAMITE100,"skor 0.80, unggul 0.25 dari SKU lain",0.8,masuk
+maxxgro b,1,maxxigro b,MAXXIGROB500,"skor 0.95, unggul 0.11 dari SKU lain",0.95,masuk
+ekmape maxxi,1,,,"ambigu: skor 0.77, unggul 0.24 (perlu >= 0,80 dan >= 0,10)",,ambigu
+aotnik 6.0,1,atonik 6.0 l,ATNK,"skor 0.84, unggul 0.28 dari SKU lain",0.84,masuk
+amazing growbooster kelengkeng,1,amazing grow booster kelengkeng,AGL,"skor 1.00, unggul 0.49 dari SKU lain",1.0,masuk
+npk muitara,1,npk mutiara,NPKM1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+pnp ak,1,,,"ambigu: skor 0.60, unggul 0.00 (perlu >= 0,80 dan >= 0,10)",,ambigu
+se top 525 sl,1,see top 525 sl,SEETOP1L,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+e-trke anti rayap,1,e-trek anti rayap,ETREKKCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+emkae maxxi,1,emkape maxxi agri,"EMKAPE1, EMKAPE500","skor 0.80, unggul 0.24 dari SKU lain",0.8,masuk
+winder 10 ec,1,winder 100 ec,WINDER100,"skor 0.96, unggul 0.32 dari SKU lain",0.96,masuk
+mekarap1,1,mekarmap1,MEKARMAP1,"skor 0.94, unggul 0.27 dari SKU lain",0.94,masuk
+rumpsa 120 ew,1,rumpas 120 ew,RMPS100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fastac1 5 ec,1,fastac 15 ec,FSTC,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+klimax2 0 ec,1,klimax 20 ec,KLIMAX,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+dmlt,1,dlmt,DLMT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+balitic 50 sc,1,balistic 50 sc,BLSTC,"skor 0.96, unggul 0.24 dari SKU lain",0.96,masuk
+nk cap,1,,,"ambigu: skor 0.63, unggul 0.03 (perlu >= 0,80 dan >= 0,10)",,ambigu
+stbn100,1,,,"ambigu: skor 0.93, unggul 0.07 (perlu >= 0,80 dan >= 0,10)",,ambigu
+gandaisl d,1,gandasil d,"GDSLD, GDSLD500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+agcl 500 sl,1,agcel 500 sl,AGCEL250,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+danke 40,1,dangke 40 wp,DANGKE100,"skor 0.82, unggul 0.23 dari SKU lain",0.82,masuk
+maxxirgo b,1,maxxigro b,MAXXIGROB500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+natio 75 wg,1,nativo 75 wg,NTVK,"skor 0.96, unggul 0.35 dari SKU lain",0.96,masuk
+sidatan 140 sl,1,sidatan 410 sl,SIDATAN400,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+winder 100e c,1,winder 100 ec,WINDER100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+ambtiion,1,ambition,AMBTN500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+starlon 665ec,1,starlon 665 ec,STARLON100,"skor 1.00, unggul 0.33 dari SKU lain",1.0,masuk
+pupku amazing,1,,,"ambigu: skor 0.59, unggul 0.02 (perlu >= 0,80 dan >= 0,10)",,ambigu
+spuerel 480,1,superel 480 sl,SUPEREL100,"skor 0.82, unggul 0.18 dari SKU lain",0.82,masuk
+braodplus 77 wp,1,broadplus 77 wp,BROADPLUS40,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+agce 500 sl,1,agcel 500 sl,AGCEL250,"skor 0.96, unggul 0.32 dari SKU lain",0.96,masuk
+em4 prikanan & tambak,1,em4 perikanan & tambak,EM4P,"skor 0.98, unggul 0.38 dari SKU lain",0.98,masuk
+tma 6865 sl,1,tma 6 865 sl,TMA400,"skor 1.00, unggul 0.33 dari SKU lain",1.0,masuk
+antrcl050,1,antrcl500,ANTRCL500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+bailstic 50 sc,1,balistic 50 sc,BLSTC,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+regent 05 ec,1,regent 50 ec,"RGNT, RGNTB",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+furadan g3r,1,furadan 3gr,"FRD1, FRD2",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+superel 40 sl,1,superel 480 sl,SUPEREL100,"skor 0.96, unggul 0.32 dari SKU lain",0.96,masuk
+gibgr o10 sp,1,gibgro 10 sp,GIBGRO,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+tma 6 865s l,1,tma 6 865 sl,TMA400,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+saporo 52,1,sapporo 52 ec,SAPPORO100,"skor 0.84, unggul 0.25 dari SKU lain",0.84,masuk
+nativo 75wg,1,nativo 75 wg,NTVK,"skor 1.00, unggul 0.48 dari SKU lain",1.0,masuk
+samite 315 ec,1,samite 135 ec,SAMITE100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+torbos 200,1,trobos 200 sl,TROBOS100,"skor 0.80, unggul 0.21 dari SKU lain",0.8,masuk
+pn pak tani (kno3 putihk ristal),1,pn pak tani (kno3 putih kristal),KNOPTH1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gramoxoe 276,1,gramoxone 276 sl,"GRXB, GRXK","skor 0.88, unggul 0.16 dari SKU lain",0.88,masuk
+strlon 665,1,starlon 665 ec,STARLON100,"skor 0.86, unggul 0.33 dari SKU lain",0.86,masuk
+kovin plus8 0p,1,kovin plus 80p,KOVINPLUS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mts 2l,1,mst 2l,MST 2L,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+binoik100,1,bionik100,BIONIK100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+dangke 4 wp,1,dangke 40 wp,DANGKE100,"skor 0.96, unggul 0.34 dari SKU lain",0.96,masuk
+abcel 18 ec,1,abacel 18 ec,ABACEL,"skor 0.96, unggul 0.35 dari SKU lain",0.96,masuk
+polbyag tanaman 35x35,1,polybag tanaman 35x35,PLYBG35,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kreslo 480 ec,1,kreslon 480 ec,KRSLN,"skor 0.96, unggul 0.32 dari SKU lain",0.96,masuk
+e4m perikanan & tambak,1,em4 perikanan & tambak,EM4P,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+trobos 00,1,trobos100,TROBOS100,"skor 0.94, unggul 0.32 dari SKU lain",0.94,masuk
+pupku amazing grow pertumbuhan,1,pupuk amazing grow pertumbuhan,AGT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+supere 480,1,superel 480 sl,SUPEREL100,"skor 0.86, unggul 0.28 dari SKU lain",0.86,masuk
+em4 petanian,1,em4 pertanian,EM4K,"skor 0.96, unggul 0.27 dari SKU lain",0.96,masuk
+biocalsum1,1,biocalsium1,BIOCALSIUM1,"skor 0.95, unggul 0.28 dari SKU lain",0.95,masuk
+gibgro 1 sp,1,gibgro 10 sp,GIBGRO,"skor 0.96, unggul 0.14 dari SKU lain",0.96,masuk
+kovin plu s80p,1,kovin plus 80p,KOVINPLUS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+humgrow,1,humigrow,HUMIGROW500,"skor 0.93, unggul 0.36 dari SKU lain",0.93,masuk
+konup 480s l,1,konup 480 sl,KONUP,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+anracol 70 wp,1,antracol 70 wp,"ANTRCL, ANTRCL500","skor 0.96, unggul 0.32 dari SKU lain",0.96,masuk
+gunting tas,1,gunting ats,GATS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+krln,1,krsln,KRSLN,"skor 0.89, unggul 0.29 dari SKU lain",0.89,masuk
+kvoin plus,1,kovinplus,KOVINPLUS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+"petorkum 0,005",1,"petrokum 0,005 bb",PETROKUM100,"skor 0.86, unggul 0.36 dari SKU lain",0.86,masuk
+maxxigo b,1,maxxigro b,MAXXIGROB500,"skor 0.95, unggul 0.11 dari SKU lain",0.95,masuk
+pupuk amazing rgow pertumbuhan,1,pupuk amazing grow pertumbuhan,AGT,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+avido 25 wp,1,avidor 25 wp,AVIDOR100,"skor 0.96, unggul 0.35 dari SKU lain",0.96,masuk
+kovin lus 80p,1,kovin plus 80p,KOVINPLUS,"skor 0.96, unggul 0.34 dari SKU lain",0.96,masuk
+greens tick,1,green stick,GRNSTIK,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+ertekkcl,1,etrekkcl,ETREKKCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+"petroku 0,005 bb",1,"petrokum 0,005 bb",PETROKUM100,"skor 0.97, unggul 0.44 dari SKU lain",0.97,masuk
+manzat 82 wp,1,manzate 82 wp,MANZATE500,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+fenit 150 od,1,fenite 150 od,"FENITE100, FENITE50","skor 0.96, unggul 0.38 dari SKU lain",0.96,masuk
+anwaivn 500 ec,1,anwavin 500 ec,ANWAVIN100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+e-treka nti rayap,1,e-trek anti rayap,ETREKKCL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+"petrkum 0,005 bb",1,"petrokum 0,005 bb",PETROKUM100,"skor 0.97, unggul 0.47 dari SKU lain",0.97,masuk
+roundup 468 sl,1,roundup 486 sl,"RDPB, RDPK",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+bravtop 555 sl,1,bravotop 555 sl,BRVTP1L,"skor 0.97, unggul 0.33 dari SKU lain",0.97,masuk
+amazing gow,1,,,"ambigu: skor 0.57, unggul 0.00 (perlu >= 0,80 dan >= 0,10)",,ambigu
+eplore 250,1,explore 250 ec,EXPLORE80,"skor 0.86, unggul 0.22 dari SKU lain",0.86,masuk
+spontaning,1,spontanking,SPONTANKING,"skor 0.95, unggul 0.13 dari SKU lain",0.95,masuk
+amnionano,1,amino nano,AMINONANO,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+bsltc,1,blstc,BLSTC,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kovinlpus,1,kovinplus,KOVINPLUS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kinlgon100,1,kinglon100,KINGLON100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+pakegtdsl,1,paketgdsl,PAKETGDSL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gnrstik,1,grnstik,GRNSTIK,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+etrapckg,1,extrapckg,EXTRAPCKG,"skor 0.94, unggul 0.41 dari SKU lain",0.94,masuk
+triho500,1,tricho500,TRICHO500,"skor 0.94, unggul 0.35 dari SKU lain",0.94,masuk
+fneite100,1,fenite100,FENITE100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+farmuqat250,1,farmquat250,FARMQUAT250,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+dankge100,1,dangke100,DANGKE100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+superel00,1,superel100,SUPEREL100,"skor 0.95, unggul 0.31 dari SKU lain",0.95,masuk
+e4mk,1,em4k,EM4K,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+npktnw1,1,npktwn1,NPKTWN1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+winedr100,1,winder100,WINDER100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mekramap1,1,mekarmap1,MEKARMAP1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+extrackg,1,extrapckg,EXTRAPCKG,"skor 0.94, unggul 0.41 dari SKU lain",0.94,masuk
+sdatan400,1,sidatan400,SIDATAN400,"skor 0.95, unggul 0.28 dari SKU lain",0.95,masuk
+ekape1,1,emkape1,EMKAPE1,"skor 0.92, unggul 0.25 dari SKU lain",0.92,masuk
+maxxigro5d00,1,maxxigrod500,MAXXIGROD500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+rpb,1,rdpb,RDPB,"skor 0.86, unggul 0.29 dari SKU lain",0.86,masuk
+exrtapckg,1,extrapckg,EXTRAPCKG,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+troos100,1,trobos100,TROBOS100,"skor 0.94, unggul 0.27 dari SKU lain",0.94,masuk
+feinte50,1,fenite50,FENITE50,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+avidr100,1,avidor100,AVIDOR100,"skor 0.94, unggul 0.23 dari SKU lain",0.94,masuk
+spotan,1,spontan,SPONTAN,"skor 0.92, unggul 0.21 dari SKU lain",0.92,masuk
+humgrow500,1,humigrow500,HUMIGROW500,"skor 0.95, unggul 0.31 dari SKU lain",0.95,masuk
+extrpackg,1,extrapckg,EXTRAPCKG,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+jaingbsr,1,jaringbsr,JARINGBSR,"skor 0.94, unggul 0.23 dari SKU lain",0.94,masuk
+ta400,1,tma400,TMA400,"skor 0.91, unggul 0.24 dari SKU lain",0.91,masuk
+fiila50,1,filia50,FILIA50,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+ftrphs1,1,frtphs1,FRTPHS1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kovipnlus,1,kovinplus,KOVINPLUS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+koinplus,1,kovinplus,KOVINPLUS,"skor 0.94, unggul 0.32 dari SKU lain",0.94,masuk
+plygb15,1,plybg15,PLYBG15,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+emape500,1,emkape500,EMKAPE500,"skor 0.94, unggul 0.27 dari SKU lain",0.94,masuk
+erogsold100,1,erosgold100,EROSGOLD100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+maxxfoate250,1,maxxfosate250,MAXXFOSATE250,"skor 0.96, unggul 0.32 dari SKU lain",0.96,masuk
+fila50,1,filia50,FILIA50,"skor 0.92, unggul 0.25 dari SKU lain",0.92,masuk
+trbos100,1,trobos100,TROBOS100,"skor 0.94, unggul 0.19 dari SKU lain",0.94,masuk
+petrokum010,1,petrokum100,PETROKUM100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+rgtnb,1,rgntb,RGNTB,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+winder00,1,winder100,WINDER100,"skor 0.94, unggul 0.35 dari SKU lain",0.94,masuk
+ndrx,1,nrdx,NRDX,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+pertokum100,1,petrokum100,PETROKUM100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+extracpkg,1,extrapckg,EXTRAPCKG,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+bbsls,1,bblss,BBLSS,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+extarpckg,1,extrapckg,EXTRAPCKG,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+krsenatop,1,kresnatop,KRESNATOP,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+sum80,1,sumo80,SUMO80,"skor 0.91, unggul 0.31 dari SKU lain",0.91,masuk
+kaitrat1,1,kanitrat1,KANITRAT1,"skor 0.94, unggul 0.20 dari SKU lain",0.94,masuk
+abacel 18 ec aslib ergaransi,1,,,"ambigu: skor 0.60, unggul 0.20 (perlu >= 0,80 dan >= 0,10)",,ambigu
+decis 25 ec- murah,1,,,"ambigu: skor 0.76, unggul 0.21 (perlu >= 0,80 dan >= 0,10)",,ambigu
+emkape maxxi agrio riginal,1,,,"ambigu: skor 0.79, unggul 0.21 (perlu >= 0,80 dan >= 0,10)",,ambigu
+paket gandsail b dan d,1,paket gandasil b dan d,PAKETGDSL,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fertiphosc urah,1,fertiphos curah,FRTPHS1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+avidor 25w p,1,avidor 25 wp,AVIDOR100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+tma 6 865 sl ready stcok,1,,,"ambigu: skor 0.67, unggul 0.20 (perlu >= 0,80 dan >= 0,10)",,ambigu
+extra kardu + bubblewrap,1,extra kardus + bubblewrap,EXTRAPCKG,"skor 0.98, unggul 0.54 dari SKU lain",0.98,masuk
+mipcinta 50w p,1,mipcinta 50 wp,MIPCINTA100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+em4 peikanan & tambak,1,em4 perikanan & tambak,EM4P,"skor 0.98, unggul 0.38 dari SKU lain",0.98,masuk
+naitvo 75 wg,1,nativo 75 wg,NTVK,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+npk cap tawon - urah,1,npk cap tawon,NPKTWN1,"skor 0.81, unggul 0.25 dari SKU lain",0.81,masuk
+gembro air,1,gembor air,GMBR3L,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gosong tpo 276 sl,1,gosong top 276 sl,"GOSONGTOP250, GOSONGTOP500",tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+superel 480 sl asli beraransi,1,,,"ambigu: skor 0.65, unggul 0.21 (perlu >= 0,80 dan >= 0,10)",,ambigu
+pupuk amazin grow pembuahan,1,,,"ambigu: skor 0.98, unggul 0.07 (perlu >= 0,80 dan >= 0,10)",,ambigu
+mkp pak tani read stock,1,,,"ambigu: skor 0.69, unggul 0.12 (perlu >= 0,80 dan >= 0,10)",,ambigu
+trobos 200 slasli bergaransi,1,,,"ambigu: skor 0.63, unggul 0.19 (perlu >= 0,80 dan >= 0,10)",,ambigu
+npk mutiara growre,1,npk mutiara grower,NPKMGRW,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fertiphos curah - muah,1,fertiphos curah,FRTPHS1,"skor 0.85, unggul 0.37 dari SKU lain",0.85,masuk
+furadan 3gr ready tsock,1,,,"ambigu: skor 0.67, unggul 0.22 (perlu >= 0,80 dan >= 0,10)",,ambigu
+calsium super readys tock,1,,,"ambigu: skor 0.71, unggul 0.20 (perlu >= 0,80 dan >= 0,10)",,ambigu
+balistic 50sc,1,balistic 50 sc,BLSTC,"skor 1.00, unggul 0.36 dari SKU lain",1.0,masuk
+polybag tanaman 50x50 asi bergaransi,1,,,"ambigu: skor 0.75, unggul 0.08 (perlu >= 0,80 dan >= 0,10)",,ambigu
+em4 perikanan & tambak ready sotck,1,,,"ambigu: skor 0.79, unggul 0.30 (perlu >= 0,80 dan >= 0,10)",,ambigu
+fertihos curah,1,fertiphos curah,FRTPHS1,"skor 0.97, unggul 0.39 dari SKU lain",0.97,masuk
+"petrokum 0,005 bb asli bergaarnsi",1,,,"ambigu: skor 0.68, unggul 0.24 (perlu >= 0,80 dan >= 0,10)",,ambigu
+decis 25 ec murah,1,,,"ambigu: skor 0.79, unggul 0.23 (perlu >= 0,80 dan >= 0,10)",,ambigu
+aidor 25 wp,1,avidor 25 wp,AVIDOR100,"skor 0.96, unggul 0.29 dari SKU lain",0.96,masuk
+extra kardus bubblewrap,1,extra kardus + bubblewrap,EXTRAPCKG,"skor 0.98, unggul 0.54 dari SKU lain",0.98,masuk
+tma 6 65 sl,1,tma 6 865 sl,TMA400,"skor 0.96, unggul 0.38 dari SKU lain",0.96,masuk
+polybag tanaman3 5x35,1,polybag tanaman 35x35,PLYBG35,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+extra karuds + bubblewrap,1,extra kardus + bubblewrap,EXTRAPCKG,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+eros gold 0.75/30 df - umrah,1,eros gold 0.75/30 df,EROSGOLD100,"skor 0.85, unggul 0.41 dari SKU lain",0.85,masuk
+cn-g kasium nitrat,1,cn-g kalsium nitrat,CNG1,"skor 0.97, unggul 0.33 dari SKU lain",0.97,masuk
+fasta 15 ec,1,fastac 15 ec,FSTC,"skor 0.96, unggul 0.18 dari SKU lain",0.96,masuk
+polybag tanaman 50x50 asli bergarasi,1,,,"ambigu: skor 0.75, unggul 0.08 (perlu >= 0,80 dan >= 0,10)",,ambigu
+gibgro 10 sp asli bergaarnsi,1,,,"ambigu: skor 0.60, unggul 0.10 (perlu >= 0,80 dan >= 0,10)",,ambigu
+wnder 100 ec,1,winder 100 ec,WINDER100,"skor 0.96, unggul 0.34 dari SKU lain",0.96,masuk
+emkape maxxi agrir eady stock,1,,,"ambigu: skor 0.75, unggul 0.21 (perlu >= 0,80 dan >= 0,10)",,ambigu
+trobos 200 sl orgiinal,1,,,"ambigu: skor 0.74, unggul 0.23 (perlu >= 0,80 dan >= 0,10)",,ambigu
+sumo 50e c,1,sumo 50 ec,SUMO80,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fenite 150 od oriignal,1,,,"ambigu: skor 0.74, unggul 0.33 (perlu >= 0,80 dan >= 0,10)",,ambigu
+pupuk amazign grow pembuahan,1,pupuk amazing grow pembuahan,AGB,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+cuprocide 77 w pready stock,1,,,"ambigu: skor 0.72, unggul 0.29 (perlu >= 0,80 dan >= 0,10)",,ambigu
+sdiafos 480 sl,1,sidafos 480 sl,SIDAFOS1L,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+suerel 480 sl,1,superel 480 sl,SUPEREL100,"skor 0.96, unggul 0.27 dari SKU lain",0.96,masuk
+superel 480 sl orignial,1,,,"ambigu: skor 0.76, unggul 0.25 (perlu >= 0,80 dan >= 0,10)",,ambigu
+broadplus 77 pw,1,broadplus 77 wp,BROADPLUS40,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+em4 pertanain,1,em4 pertanian,EM4K,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gibgo 10 sp,1,gibgro 10 sp,GIBGRO,"skor 0.96, unggul 0.25 dari SKU lain",0.96,masuk
+"petrokum 0,005 bb orginal",1,"petrokum 0,005 bb",PETROKUM100,"skor 0.81, unggul 0.35 dari SKU lain",0.81,masuk
+gren stick,1,green stick,GRNSTIK,"skor 0.95, unggul 0.19 dari SKU lain",0.95,masuk
+trobos 200 sl oriinal,1,,,"ambigu: skor 0.76, unggul 0.23 (perlu >= 0,80 dan >= 0,10)",,ambigu
+suerel100,1,superel100,SUPEREL100,"skor 0.95, unggul 0.32 dari SKU lain",0.95,masuk
+fenit5e0,1,fenite50,FENITE50,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+sdmhtrn,1,sdmthrn,SDMTHRN,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+wnider100,1,winder100,WINDER100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mkarmap1,1,mekarmap1,MEKARMAP1,"skor 0.94, unggul 0.27 dari SKU lain",0.94,masuk
+krscnd,1,krsncd,KRSNCD,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+aiaboron1,1,asiaboron1,ASIABORON1,"skor 0.95, unggul 0.36 dari SKU lain",0.95,masuk
+metazb1,1,metazeb1,METAZEB1,"skor 0.93, unggul 0.22 dari SKU lain",0.93,masuk
+knpth1,1,knopth1,KNOPTH1,"skor 0.92, unggul 0.15 dari SKU lain",0.92,masuk
+avdior100,1,avidor100,AVIDOR100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+mguslfate,1,mgsulfate,MGSULFATE,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kc5l0kg,1,kcl50kg,KCL50KG,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+humgirow500,1,humigrow500,HUMIGROW500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+npkryml,1,npkyrml,NPKYRML,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fili50,1,filia50,FILIA50,"skor 0.92, unggul 0.30 dari SKU lain",0.92,masuk
+amionano,1,aminonano,AMINONANO,"skor 0.94, unggul 0.32 dari SKU lain",0.94,masuk
+gxrk,1,grxk,GRXK,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+penum25,1,plenum25,PLENUM25,"skor 0.93, unggul 0.36 dari SKU lain",0.93,masuk
+gdsld050,1,gdsld500,GDSLD500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+grsntik,1,grnstik,GRNSTIK,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gibrgopn,1,gibgropn,GIBGROPN,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+ftsn100,1,fstn100,FSTN100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fd1,1,frd1,FRD1,"skor 0.86, unggul 0.29 dari SKU lain",0.86,masuk
+bvrtp1l,1,brvtp1l,BRVTP1L,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+pleum25,1,plenum25,PLENUM25,"skor 0.93, unggul 0.36 dari SKU lain",0.93,masuk
+vlg4r00,1,vlgr400,VLGR400,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+rpdb,1,rdpb,RDPB,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gxrb,1,grxb,GRXB,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+exploer80,1,explore80,EXPLORE80,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+broadpus40,1,broadplus40,BROADPLUS40,"skor 0.95, unggul 0.48 dari SKU lain",0.95,masuk
+grtnk1,1,grntnk1,GRNTNK1,"skor 0.92, unggul 0.30 dari SKU lain",0.92,masuk
+bbss,1,bblss,BBLSS,"skor 0.89, unggul 0.45 dari SKU lain",0.89,masuk
+knup,1,konup,KONUP,"skor 0.89, unggul 0.34 dari SKU lain",0.89,masuk
+tricho00,1,tricho500,TRICHO500,"skor 0.94, unggul 0.35 dari SKU lain",0.94,masuk
+konpth2,1,knopth2,KNOPTH2,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+antk,1,atnk,ATNK,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+uea50kg,1,urea50kg,UREA50KG,"skor 0.93, unggul 0.36 dari SKU lain",0.93,masuk
+frtps50kg,1,frtphs50kg,FRTPHS50KG,"skor 0.95, unggul 0.33 dari SKU lain",0.95,masuk
+dscb,1,dcsb,DCSB,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+fdr2,1,frd2,FRD2,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+instama1l,1,instamax1l,INSTAMAX1L,"skor 0.95, unggul 0.36 dari SKU lain",0.95,masuk
+strbn00,1,strbn100,STRBN100,"skor 0.93, unggul 0.22 dari SKU lain",0.93,masuk
+rngtb,1,rgntb,RGNTB,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+dithne200,1,dithane200,DITHANE200,"skor 0.95, unggul 0.39 dari SKU lain",0.95,masuk
+samte100,1,samite100,SAMITE100,"skor 0.94, unggul 0.27 dari SKU lain",0.94,masuk
+asmtrtop50,1,amstrtop50,AMSTRTOP50,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+knorh2,1,knomrh2,KNOMRH2,"skor 0.92, unggul 0.15 dari SKU lain",0.92,masuk
+mipcinta00,1,mipcinta100,MIPCINTA100,"skor 0.95, unggul 0.39 dari SKU lain",0.95,masuk
+cprc1d00,1,cprcd100,CPRCD100,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+bvrxn,1,brvxn,BRVXN,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+krlsn,1,krsln,KRSLN,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gxb,1,grxb,GRXB,"skor 0.86, unggul 0.19 dari SKU lain",0.86,masuk
+pgasus80,1,pegasus80,PEGASUS80,"skor 0.94, unggul 0.37 dari SKU lain",0.94,masuk
+gmb3l,1,gmbr3l,GMBR3L,"skor 0.91, unggul 0.41 dari SKU lain",0.91,masuk
+nkpyrml,1,npkyrml,NPKYRML,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+asaiboron1,1,asiaboron1,ASIABORON1,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+gosongotp500,1,gosongtop500,GOSONGTOP500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+plyb2g5,1,plybg25,PLYBG25,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+pakebuah250,1,paketbuah250,PAKETBUAH250,"skor 0.96, unggul 0.16 dari SKU lain",0.96,masuk
+kyrs050,1,kyrs500,KYRS500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+ftsscr500,1,fstscr500,FSTSCR500,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+maxxigrd500,1,,,"ambigu: skor 0.96, unggul 0.09 (perlu >= 0,80 dan >= 0,10)",,ambigu
+plygb30,1,plybg30,PLYBG30,tukar dua huruf bersebelahan (satu-satunya SKU berjarak satu langkah),1.0,masuk
+kresnaat40,1,kresnabat40,KRESNABAT40,"skor 0.95, unggul 0.21 dari SKU lain",0.95,masuk
+komrh2,1,knomrh2,KNOMRH2,"skor 0.92, unggul 0.30 dari SKU lain",0.92,masuk
+trico500,1,tricho500,TRICHO500,"skor 0.94, unggul 0.23 dari SKU lain",0.94,masuk

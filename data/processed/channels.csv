@@ -1,0 +1,5 @@
+channel_id,kanal,kode,jenis,dasar_pendapatan,frekuensi_data
+1,Offline,OFF,toko fisik,subtotal nota,harian (nota)
+2,Shopee,SHP,marketplace,netto,laporan bulanan
+3,Tokopedia,TKP,marketplace,netto,laporan bulanan
+4,TikTok Shop,TTS,marketplace,netto,laporan bulanan

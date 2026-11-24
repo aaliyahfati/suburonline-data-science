@@ -1,0 +1,7 @@
+kanal,periode_mulai,data_complete_until,catatan
+Offline,2023-11-01,2026-10-31,rekap harian dari nota toko
+Shopee,2025-02-01,2026-10-31,"laporan bulanan; stok berkurang saat laporan diimpor (akhir bulan), jadi stok sistem tengah bulan bisa lebih tinggi dari fisik. Analisis penjualan dan forecast memakai order_date"
+TikTok Shop,2025-06-01,2026-10-31,"laporan bulanan; stok berkurang saat laporan diimpor (akhir bulan), jadi stok sistem tengah bulan bisa lebih tinggi dari fisik. Analisis penjualan dan forecast memakai order_date"
+Tokopedia,2025-02-01,2026-10-31,"laporan bulanan; stok berkurang saat laporan diimpor (akhir bulan), jadi stok sistem tengah bulan bisa lebih tinggi dari fisik. Analisis penjualan dan forecast memakai order_date"
+Stok (restok/retur/pemecahan/rakit),2023-11-04,2026-10-31,pencatatan gudang
+Metrik marketplace,2025-02-01,2026-10-31,metrik bulanan dari dashboard platform

@@ -1,0 +1,2275 @@
+sumber,teks,contoh_teks_asli,jumlah_baris,baris_masuk,aturan,sku_hasil,status
+offline,aabcel,AABCEL,1,1,mapping tersimpan -> kode,ABACEL,masuk
+offline,aabcel 18 ec,Aabcel 18 EC,1,1,mapping tersimpan -> nama,ABACEL,masuk
+offline,aacel 18 ec,Aacel 18 EC,1,1,mapping tersimpan -> nama,ABACEL,masuk
+offline,abacel,ABACEL,46,46,kode,ABACEL,masuk
+offline,abacel 1 8ec,Abacel 1 8EC,2,2,mapping tersimpan -> nama,ABACEL,masuk
+offline,abacel 18,Abacel 18,79,79,nama terpotong,ABACEL,masuk
+offline,abacel 18 ec,ABACEL 18 EC,285,285,nama,ABACEL,masuk
+offline,abacel 8 ec,Abacel 8 EC,1,1,mapping tersimpan -> nama,ABACEL,masuk
+offline,abacel 81 ec,ABACEL 81 EC,1,1,mapping tersimpan -> nama,ABACEL,masuk
+offline,abacl 18,Abacl 18,1,1,mapping tersimpan -> nama,ABACEL,masuk
+offline,abacl 18 ec,Abacl 18 EC,1,1,mapping tersimpan -> nama,ABACEL,masuk
+offline,abacle 18 ec,Abacle 18 EC,1,1,mapping tersimpan -> nama,ABACEL,masuk
+offline,abaecl 18,Abaecl 18,1,0,tidak dikenal,,ditolak
+offline,abcel,ABCEL,1,1,mapping tersimpan -> kode,ABACEL,masuk
+offline,abcel 18 ec,abcel 18 ec,1,1,mapping tersimpan -> nama,ABACEL,masuk
+offline,acgel 500 sl,ACGEL 500 SL,1,1,mapping tersimpan -> nama,AGCEL250,masuk
+offline,agb,AGB,23,23,kode,AGB,masuk
+offline,agce 500 sl,agce 500 sl,1,1,mapping tersimpan -> nama,AGCEL250,masuk
+offline,agcel 500,Agcel 500,33,33,nama terpotong,AGCEL250,masuk
+offline,agcel 500 sl,AGCEL 500 SL,106,106,nama,AGCEL250,masuk
+offline,agcel250,AGCEL250,19,19,kode,AGCEL250,masuk
+offline,agcl 500 sl,Agcl 500 SL,1,1,mapping tersimpan -> nama,AGCEL250,masuk
+offline,agl,AGL,39,39,kode,AGL,masuk
+offline,agt,AGT,68,68,kode,AGT,masuk
+offline,aia boron,aia boron,1,1,mapping tersimpan -> nama,ASIABORON1,masuk
+offline,aisa boron,Aisa Boron,1,1,mapping tersimpan -> nama,ASIABORON1,masuk
+offline,aivdor 25 wp,Aivdor 25 WP,2,2,mapping tersimpan -> nama,AVIDOR100,masuk
+offline,aivdor100,AIVDOR100,1,1,mapping tersimpan -> kode,AVIDOR100,masuk
+offline,alik 247 zc,alik 247 zc,1,1,mapping tersimpan -> nama,ALIKA50,masuk
+offline,alika 247,Alika 247,49,49,nama terpotong,ALIKA50,masuk
+offline,alika 247 zc,ALIKA 247 ZC,152,152,nama,ALIKA50,masuk
+offline,alika 27 zc,Alika 27 ZC,1,1,mapping tersimpan -> nama,ALIKA50,masuk
+offline,alika 427 zc,alika 427 zc,1,1,mapping tersimpan -> nama,ALIKA50,masuk
+offline,alika2 47 zc,Alika2 47 ZC,1,1,mapping tersimpan -> nama,ALIKA50,masuk
+offline,alika50,ALIKA50,32,32,kode,ALIKA50,masuk
+offline,alita 150,Alita 150,2,2,nama terpotong,ALITA100,masuk
+offline,alita 150 ec,Alita 150 EC,3,3,nama,ALITA100,masuk
+offline,amaing grow,Amaing Grow,1,0,tidak dikenal,,ditolak
+offline,amazign grow booster kelengkeng,Amazign Grow Booster Kelengkeng,1,1,mapping tersimpan -> nama,AGL,masuk
+offline,amazing gorw,Amazing Gorw,1,0,tidak dikenal,,ditolak
+offline,amazing gow,Amazing Gow,1,0,tidak dikenal,,ditolak
+offline,amazing grow,Amazing Grow,50,50,nama terpotong,AGL,masuk
+offline,amazing grow booster kelengkeng,amazing grow booster kelengkeng,217,217,nama,AGL,masuk
+offline,amazing growb ooster kelengkeng,Amazing GrowB ooster Kelengkeng,1,1,mapping tersimpan -> nama,AGL,masuk
+offline,amazing growbooster kelengkeng,amazing growbooster kelengkeng,1,1,mapping tersimpan -> nama,AGL,masuk
+offline,ambition,AMBITION,20,20,nama,AMBTN500,masuk
+offline,ambn500,AMBN500,1,1,mapping tersimpan -> kode,AMBTN500,masuk
+offline,ambtiion,ambtiion,1,1,mapping tersimpan -> nama,AMBTN500,masuk
+offline,amino nano,Amino Nano,22,22,nama,AMINONANO,masuk
+offline,aminonano,AMINONANO,5,5,kode,AMINONANO,masuk
+offline,amistar top,Amistar Top,7,7,nama terpotong,AMSTRTOP50,masuk
+offline,amistar top 325 sc,amistar top 325 sc,23,23,nama,AMSTRTOP50,masuk
+offline,amstrtop50,AMSTRTOP50,1,1,kode,AMSTRTOP50,masuk
+offline,anracol 70 wp,Anracol 70 WP,1,1,mapping tersimpan -> nama + harga,ANTRCL,masuk
+offline,antacol 70,Antacol 70,1,1,mapping tersimpan -> nama + harga,ANTRCL,masuk
+offline,antarcol 70 wp,Antarcol 70 WP,1,1,mapping tersimpan -> nama + harga,ANTRCL500,masuk
+offline,antcrl,ANTCRL,1,1,mapping tersimpan -> kode,ANTRCL,masuk
+offline,antracl 70 wp,Antracl 70 WP,2,2,mapping tersimpan -> nama + harga,ANTRCL,masuk
+offline,antraclo 70,Antraclo 70,1,1,mapping tersimpan -> nama + harga,ANTRCL500,masuk
+offline,antraclo 70 wp,ANTRACLO 70 WP,1,1,mapping tersimpan -> nama + harga,ANTRCL500,masuk
+offline,antraco 70 wp,Antraco 70 WP,1,1,mapping tersimpan -> nama + harga,ANTRCL500,masuk
+offline,antracol 70,Antracol 70,102,102,nama terpotong + harga,"ANTRCL, ANTRCL500",masuk
+offline,antracol 70 wp,ANTRACOL 70 WP,327,327,nama + harga,"ANTRCL, ANTRCL500",masuk
+offline,antrcaol 70,Antrcaol 70,1,1,mapping tersimpan -> nama + harga,ANTRCL,masuk
+offline,antrcl,ANTRCL,23,23,kode,ANTRCL,masuk
+offline,antrcl00,ANTRCL00,1,0,tidak dikenal,,ditolak
+offline,antrcl050,ANTRCL050,1,1,mapping tersimpan -> kode,ANTRCL500,masuk
+offline,antrcl500,ANTRCL500,44,44,kode,ANTRCL500,masuk
+offline,anwaivn 500 ec,Anwaivn 500 EC,1,1,mapping tersimpan -> nama,ANWAVIN100,masuk
+offline,anwavi1n00,ANWAVI1N00,1,1,mapping tersimpan -> kode,ANWAVIN100,masuk
+offline,anwavin 050 ec,Anwavin 050 EC,1,1,mapping tersimpan -> nama,ANWAVIN100,masuk
+offline,anwavin 500,Anwavin 500,64,64,nama terpotong,ANWAVIN100,masuk
+offline,anwavin 500 ec,Anwavin 500 EC,268,268,nama,ANWAVIN100,masuk
+offline,anwavin 500e c,ANWAVIN 500E C,1,1,mapping tersimpan -> nama,ANWAVIN100,masuk
+offline,anwavin100,ANWAVIN100,49,49,kode,ANWAVIN100,masuk
+offline,anwavin5 00 ec,Anwavin5 00 EC,1,1,mapping tersimpan -> nama,ANWAVIN100,masuk
+offline,anwavni 500 ec,ANWAVNI 500 EC,1,1,mapping tersimpan -> nama,ANWAVIN100,masuk
+offline,anwvain 500 ec,anwvain 500 ec,1,1,mapping tersimpan -> nama,ANWAVIN100,masuk
+offline,aotnik 6.0,Aotnik 6.0,1,1,mapping tersimpan -> nama,ATNK,masuk
+offline,asai boron,Asai Boron,1,1,mapping tersimpan -> nama,ASIABORON1,masuk
+offline,asi boron,Asi Boron,1,1,mapping tersimpan -> nama,ASIABORON1,masuk
+offline,asia boron,Asia Boron,163,163,nama,ASIABORON1,masuk
+offline,asia bron,Asia Bron,1,1,mapping tersimpan -> nama,ASIABORON1,masuk
+offline,asiaboron1,ASIABORON1,20,20,kode,ASIABORON1,masuk
+offline,asibaoron1,ASIBAORON1,1,1,mapping tersimpan -> kode,ASIABORON1,masuk
+offline,atnk,ATNK,20,20,kode,ATNK,masuk
+offline,atnracol 70,Atnracol 70,3,3,mapping tersimpan -> nama + harga,"ANTRCL, ANTRCL500",masuk
+offline,atonik 6.0,Atonik 6.0,21,21,nama terpotong,ATNK,masuk
+offline,atonik 6.0 l,Atonik 6.0 L,70,70,nama,ATNK,masuk
+offline,avdior 25 wp,AVDIOR 25 WP,2,2,mapping tersimpan -> nama,AVIDOR100,masuk
+offline,avdor 25 wp,AVDOR 25 WP,1,1,mapping tersimpan -> nama,AVIDOR100,masuk
+offline,avido 25 wp,Avido 25 WP,1,1,mapping tersimpan -> nama,AVIDOR100,masuk
+offline,avido r25,Avido r25,1,1,mapping tersimpan -> nama,AVIDOR100,masuk
+offline,avido r25 wp,Avido r25 WP,1,1,mapping tersimpan -> nama,AVIDOR100,masuk
+offline,avidor 2 5wp,AVIDOR 2 5WP,2,2,mapping tersimpan -> nama,AVIDOR100,masuk
+offline,avidor 25,Avidor 25,207,207,nama terpotong,AVIDOR100,masuk
+offline,avidor 25 wp,Avidor 25 WP,710,710,nama,AVIDOR100,masuk
+offline,avidor 52 wp,Avidor 52 WP,1,1,mapping tersimpan -> nama,AVIDOR100,masuk
+offline,avidor100,AVIDOR100,117,117,kode,AVIDOR100,masuk
+offline,avidor2 5 wp,avidor2 5 wp,1,1,mapping tersimpan -> nama,AVIDOR100,masuk
+offline,avidor25 wp,Avidor25 WP,1,1,mapping tersimpan -> nama,AVIDOR100,masuk
+offline,avidr 25,Avidr 25,1,1,mapping tersimpan -> nama,AVIDOR100,masuk
+offline,avidr 25 wp,Avidr 25 WP,1,1,mapping tersimpan -> nama,AVIDOR100,masuk
+offline,avidro100,AVIDRO100,1,1,mapping tersimpan -> kode,AVIDOR100,masuk
+offline,aviodr 25,Aviodr 25,1,0,tidak dikenal,,ditolak
+offline,aviodr 25 wp,Aviodr 25 WP,1,1,mapping tersimpan -> nama,AVIDOR100,masuk
+offline,avior 25,Avior 25,2,2,mapping tersimpan -> nama,AVIDOR100,masuk
+offline,awnavin 500,Awnavin 500,1,1,mapping tersimpan -> nama,ANWAVIN100,masuk
+offline,b1 liquinox,B1 Liquinox,123,123,nama,LIQ,masuk
+offline,b1 liqunox,B1 Liqunox,1,1,mapping tersimpan -> nama,LIQ,masuk
+offline,b1 lqiuinox,B1 Lqiuinox,1,1,mapping tersimpan -> nama,LIQ,masuk
+offline,b1liquinox,B1Liquinox,1,1,mapping tersimpan -> nama,LIQ,masuk
+offline,babalss 490 sl,babalss 490 sl,1,1,mapping tersimpan -> nama,BBLSS,masuk
+offline,bablass 490,Bablass 490,19,19,nama terpotong,BBLSS,masuk
+offline,bablass 490 sl,Bablass 490 SL,92,92,nama,BBLSS,masuk
+offline,bablass 940 sl,Bablass 940 SL,1,1,mapping tersimpan -> nama,BBLSS,masuk
+offline,bailstic 50 sc,Bailstic 50 SC,1,1,mapping tersimpan -> nama,BLSTC,masuk
+offline,balisic 50,Balisic 50,1,1,mapping tersimpan -> nama,BLSTC,masuk
+offline,balisitc 50,Balisitc 50,3,3,mapping tersimpan -> nama,BLSTC,masuk
+offline,balisitc 50 sc,balisitc 50 sc,4,4,mapping tersimpan -> nama,BLSTC,masuk
+offline,balistc 50 sc,BALISTC 50 SC,2,2,mapping tersimpan -> nama,BLSTC,masuk
+offline,balistci 50 sc,BALISTCI 50 SC,1,1,mapping tersimpan -> nama,BLSTC,masuk
+offline,balisti c50 sc,Balisti c50 SC,1,1,mapping tersimpan -> nama,BLSTC,masuk
+offline,balistic 0 sc,Balistic 0 SC,1,1,mapping tersimpan -> nama,BLSTC,masuk
+offline,balistic 05 sc,BALISTIC 05 SC,1,1,mapping tersimpan -> nama,BLSTC,masuk
+offline,balistic 5 0sc,balistic 5 0sc,1,1,mapping tersimpan -> nama,BLSTC,masuk
+offline,balistic 50,Balistic 50,203,203,nama terpotong,BLSTC,masuk
+offline,balistic 50 sc,Balistic 50 SC,734,734,nama,BLSTC,masuk
+offline,balistic5 0 sc,balistic5 0 sc,1,1,mapping tersimpan -> nama,BLSTC,masuk
+offline,balitic 50 sc,BALITIC 50 SC,1,1,mapping tersimpan -> nama,BLSTC,masuk
+offline,balitsic 50 sc,Balitsic 50 SC,1,1,mapping tersimpan -> nama,BLSTC,masuk
+offline,bblss,BBLSS,16,16,kode,BBLSS,masuk
+offline,bestar 200,Bestar 200,16,16,nama terpotong,BESTAR1L,masuk
+offline,bestar 200 sl,bestar 200 sl,59,59,nama,BESTAR1L,masuk
+offline,bestar1l,BESTAR1L,6,6,kode,BESTAR1L,masuk
+offline,bfs1l,BFS1L,46,46,kode,BFS1L,masuk
+offline,bfuos 150,Bfuos 150,1,0,tidak dikenal,,ditolak
+offline,bfuos 150 sl,Bfuos 150 SL,1,1,mapping tersimpan -> nama,BFS1L,masuk
+offline,binoik 400,Binoik 400,1,1,mapping tersimpan -> nama,BIONIK100,masuk
+offline,binoik100,BINOIK100,1,1,mapping tersimpan -> kode,BIONIK100,masuk
+offline,bio calsium,Bio Calsium,195,195,nama,BIOCALSIUM1,masuk
+offline,bio calsum,Bio Calsum,1,1,mapping tersimpan -> nama,BIOCALSIUM1,masuk
+offline,bioc alsium,BioC alsium,1,1,mapping tersimpan -> nama,BIOCALSIUM1,masuk
+offline,biocalsium1,BIOCALSIUM1,31,31,kode,BIOCALSIUM1,masuk
+offline,biocalsum1,BIOCALSUM1,1,1,mapping tersimpan -> kode,BIOCALSIUM1,masuk
+offline,bioek,BIOEK,2,2,mapping tersimpan -> kode,BIOTEK,masuk
+offline,bioetk,Bioetk,3,3,mapping tersimpan -> kode,BIOTEK,masuk
+offline,bioink 400,Bioink 400,1,1,mapping tersimpan -> nama,BIONIK100,masuk
+offline,bioink 400 ec,Bioink 400 EC,2,2,mapping tersimpan -> nama,BIONIK100,masuk
+offline,bioni k400 ec,bioni k400 ec,1,1,mapping tersimpan -> nama,BIONIK100,masuk
+offline,bionik 00 ec,bionik 00 ec,1,1,mapping tersimpan -> nama,BIONIK100,masuk
+offline,bionik 400,Bionik 400,88,88,nama terpotong,BIONIK100,masuk
+offline,bionik 400 ec,BIONIK 400 EC,375,375,nama,BIONIK100,masuk
+offline,bionik 400e c,Bionik 400E C,1,1,mapping tersimpan -> nama,BIONIK100,masuk
+offline,bionik 400ec,bionik 400ec,1,1,mapping tersimpan -> nama,BIONIK100,masuk
+offline,bionik010,BIONIK010,1,1,mapping tersimpan -> kode,BIONIK100,masuk
+offline,bionik100,BIONIK100,63,63,kode,BIONIK100,masuk
+offline,bionki100,BIONKI100,1,1,mapping tersimpan -> kode,BIONIK100,masuk
+offline,biotek,Biotek,824,824,kode,BIOTEK,masuk
+offline,bitek,Bitek,1,1,mapping tersimpan -> kode,BIOTEK,masuk
+offline,bitoek,Bitoek,2,2,mapping tersimpan -> kode,BIOTEK,masuk
+offline,blistic 50 sc,Blistic 50 SC,1,1,mapping tersimpan -> nama,BLSTC,masuk
+offline,blstc,BLSTC,132,132,kode,BLSTC,masuk
+offline,bltc,BLTC,1,1,mapping tersimpan -> kode,BLSTC,masuk
+offline,bltsc,BLTSC,1,1,mapping tersimpan -> kode,BLSTC,masuk
+offline,boitek,Boitek,8,8,mapping tersimpan -> kode,BIOTEK,masuk
+offline,braodplus 77 wp,braodplus 77 wp,1,1,mapping tersimpan -> nama,BROADPLUS40,masuk
+offline,bravotop 55 5sl,BRAVOTOP 55 5SL,1,1,mapping tersimpan -> nama,BRVTP1L,masuk
+offline,bravotop 555,BravoTop 555,7,7,nama terpotong,BRVTP1L,masuk
+offline,bravotop 555 sl,bravotop 555 sl,26,26,nama,BRVTP1L,masuk
+offline,bravoxone 26 sl,Bravoxone 26 SL,1,1,mapping tersimpan -> nama,BRVXN,masuk
+offline,bravoxone 276,Bravoxone 276,33,33,nama terpotong,BRVXN,masuk
+offline,bravoxone 276 sl,bravoxone 276 sl,116,116,nama,BRVXN,masuk
+offline,bravtop 555 sl,BravTop 555 SL,1,1,mapping tersimpan -> nama,BRVTP1L,masuk
+offline,broadplsu40,BROADPLSU40,1,1,mapping tersimpan -> kode,BROADPLUS40,masuk
+offline,broadplus 7 7wp,BroadPlus 7 7WP,1,1,mapping tersimpan -> nama,BROADPLUS40,masuk
+offline,broadplus 77,BroadPlus 77,25,25,nama terpotong,BROADPLUS40,masuk
+offline,broadplus 77 wp,BroadPlus 77 WP,118,118,nama,BROADPLUS40,masuk
+offline,broadplus40,BROADPLUS40,20,20,kode,BROADPLUS40,masuk
+offline,brodaplus 77 wp,BRODAPLUS 77 WP,1,1,mapping tersimpan -> nama,BROADPLUS40,masuk
+offline,brvoxone 276 sl,Brvoxone 276 SL,1,1,mapping tersimpan -> nama,BRVXN,masuk
+offline,brvtp1l,BRVTP1L,5,5,kode,BRVTP1L,masuk
+offline,brvxn,BRVXN,7,7,kode,BRVXN,masuk
+offline,bufos 15 0sl,BUFOS 15 0SL,2,2,mapping tersimpan -> nama,BFS1L,masuk
+offline,bufos 150,Bufos 150,68,68,nama terpotong,BFS1L,masuk
+offline,bufos 150 sl,Bufos 150 SL,248,248,nama,BFS1L,masuk
+offline,bufos 50 sl,Bufos 50 SL,1,1,mapping tersimpan -> nama,BFS1L,masuk
+offline,bufos 510 sl,Bufos 510 SL,1,1,mapping tersimpan -> nama,BFS1L,masuk
+offline,bufos1 50 sl,Bufos1 50 SL,1,1,mapping tersimpan -> nama,BFS1L,masuk
+offline,bufs 150 sl,bufs 150 sl,2,2,mapping tersimpan -> nama,BFS1L,masuk
+offline,bufso 150 sl,bufso 150 sl,1,1,mapping tersimpan -> nama,BFS1L,masuk
+offline,buofs 150 sl,BUOFS 150 SL,1,1,mapping tersimpan -> nama,BFS1L,masuk
+offline,calsium super,CALSIUM SUPER,36,36,nama,CALSIUMSPR1,masuk
+offline,calsiums uper,CalsiumS uper,1,1,mapping tersimpan -> nama,CALSIUMSPR1,masuk
+offline,calsiumspr1,CALSIUMSPR1,7,7,kode,CALSIUMSPR1,masuk
+offline,cepha 480,Cepha 480,1,1,nama terpotong,CPH,masuk
+offline,cepha 480 sl,Cepha 480 SL,2,2,nama,CPH,masuk
+offline,cg1,CG1,2,2,mapping tersimpan -> kode,CNG1,masuk
+offline,cgn1,CGN1,2,2,mapping tersimpan -> kode,CNG1,masuk
+offline,cn- gkalsium nitrat,cn- gkalsium nitrat,1,1,mapping tersimpan -> nama,CNG1,masuk
+offline,cn-g kalsium,CN-G Kalsium,113,113,nama terpotong,CNG1,masuk
+offline,cn-g kalsium nitrat,cn-g kalsium nitrat,578,578,nama,CNG1,masuk
+offline,cn-g kalsiumn itrat,CN-G KalsiumN itrat,2,2,mapping tersimpan -> nama,CNG1,masuk
+offline,cn-g kalsuim,CN-G Kalsuim,1,0,tidak dikenal,,ditolak
+offline,cn-g kalsuim nitrat,CN-G KALSUIM NITRAT,1,1,mapping tersimpan -> nama,CNG1,masuk
+offline,cn-g kalsum,CN-G Kalsum,1,0,tidak dikenal,,ditolak
+offline,cn-gk alsium,CN-GK alsium,1,0,tidak dikenal,,ditolak
+offline,cn-gk alsium nitrat,cn-gk alsium nitrat,3,3,mapping tersimpan -> nama,CNG1,masuk
+offline,cng1,CNG1,83,83,kode,CNG1,masuk
+offline,cph,CPH,1,1,kode,CPH,masuk
+offline,cpn pak,CPN Pak,1,1,nama terpotong,KNOMRH2,masuk
+offline,cpn pak tani (kno3 merah),cpn pak tani (kno3 merah),3,3,nama,KNOMRH2,masuk
+offline,cprcd100,CPRCD100,21,21,kode,CPRCD100,masuk
+offline,crc,CRC,11,11,kode,CRC,masuk
+offline,crcd100,CRCD100,1,1,mapping tersimpan -> kode,CPRCD100,masuk
+offline,cuporcide 77 wp,CUPORCIDE 77 WP,1,1,mapping tersimpan -> nama,CPRCD100,masuk
+offline,cuprocide 77,Cuprocide 77,49,49,nama terpotong,CPRCD100,masuk
+offline,cuprocide 77 wp,Cuprocide 77 WP,222,222,nama,CPRCD100,masuk
+offline,curacron 500,Curacron 500,19,19,nama terpotong,CRC,masuk
+offline,curacron 500 ec,curacron 500 ec,79,79,nama,CRC,masuk
+offline,dagke 40,Dagke 40,1,1,mapping tersimpan -> nama,DANGKE100,masuk
+offline,dagke100,DAGKE100,1,1,mapping tersimpan -> kode,DANGKE100,masuk
+offline,dagnke 40,Dagnke 40,1,0,tidak dikenal,,ditolak
+offline,dagnke 40 wp,DAGNKE 40 WP,2,2,mapping tersimpan -> nama,DANGKE100,masuk
+offline,dagnke100,DAGNKE100,1,1,mapping tersimpan -> kode,DANGKE100,masuk
+offline,dange 40 wp,dange 40 wp,1,1,mapping tersimpan -> nama,DANGKE100,masuk
+offline,dangek100,DANGEK100,1,1,mapping tersimpan -> kode,DANGKE100,masuk
+offline,dangk e40 wp,DANGK E40 WP,2,2,mapping tersimpan -> nama,DANGKE100,masuk
+offline,dangke 4 0wp,Dangke 4 0WP,2,2,mapping tersimpan -> nama,DANGKE100,masuk
+offline,dangke 4 wp,dangke 4 wp,1,1,mapping tersimpan -> nama,DANGKE100,masuk
+offline,dangke 40,Dangke 40,210,210,nama terpotong,DANGKE100,masuk
+offline,dangke 40 wp,Dangke 40 WP,704,704,nama,DANGKE100,masuk
+offline,dangke 40wp,Dangke 40WP,4,4,mapping tersimpan -> nama,DANGKE100,masuk
+offline,dangke100,DANGKE100,130,130,kode,DANGKE100,masuk
+offline,dangke4 0,Dangke4 0,1,1,mapping tersimpan -> nama,DANGKE100,masuk
+offline,dangke4 0 wp,Dangke4 0 WP,1,1,mapping tersimpan -> nama,DANGKE100,masuk
+offline,dangke40 wp,Dangke40 WP,1,1,mapping tersimpan -> nama,DANGKE100,masuk
+offline,danke 40,Danke 40,1,1,mapping tersimpan -> nama,DANGKE100,masuk
+offline,danke 40 wp,Danke 40 WP,2,2,mapping tersimpan -> nama,DANGKE100,masuk
+offline,dankge 40,Dankge 40,1,0,tidak dikenal,,ditolak
+offline,dceis 25 ec,Dceis 25 EC,2,2,mapping tersimpan -> nama + harga,DCSB,masuk
+offline,dcsb,DCSB,86,86,kode,DCSB,masuk
+offline,dcsk,DCSK,6,6,kode,DCSK,masuk
+offline,de besttan,De Besttan,22,22,nama terpotong,DEBESTTAN100,masuk
+offline,de besttan 60 wp,De Besttan 60 WP,79,79,nama,DEBESTTAN100,masuk
+offline,deb esttan 60 wp,deb esttan 60 wp,1,1,mapping tersimpan -> nama,DEBESTTAN100,masuk
+offline,debesttan100,DEBESTTAN100,20,20,kode,DEBESTTAN100,masuk
+offline,deci 25 ec,Deci 25 EC,2,2,mapping tersimpan -> nama + harga,DCSB,masuk
+offline,deci s25 ec,Deci s25 EC,2,2,mapping tersimpan -> nama + harga,DCSB,masuk
+offline,decis 2 5ec,DECIS 2 5EC,2,2,mapping tersimpan -> nama + harga,DCSB,masuk
+offline,decis 25,Decis 25,113,113,nama terpotong + harga,"DCSB, DCSK",masuk
+offline,decis 25 ec,Decis 25 EC,512,512,nama + harga,"DCSB, DCSK",masuk
+offline,decis 25e c,Decis 25E C,1,1,mapping tersimpan -> nama + harga,DCSB,masuk
+offline,decs 25 ec,DECS 25 EC,2,2,mapping tersimpan -> nama + harga,DCSB,masuk
+offline,deics 25 ec,DEICS 25 EC,1,1,mapping tersimpan -> nama + harga,DCSB,masuk
+offline,dithae200,DITHAE200,1,1,mapping tersimpan -> kode,DITHANE200,masuk
+offline,dithane m-45,Dithane M-45,20,20,nama terpotong,DITHANE200,masuk
+offline,dithane m-45 0 wp,Dithane M-45 0 WP,1,1,mapping tersimpan -> nama,DITHANE200,masuk
+offline,dithane m-45 80 wp,DITHANE M-45 80 WP,59,59,nama,DITHANE200,masuk
+offline,dithane200,DITHANE200,7,7,kode,DITHANE200,masuk
+offline,dlmt,DLMT,291,291,kode,DLMT,masuk
+offline,dmlt,DMLT,1,1,mapping tersimpan -> kode,DLMT,masuk
+offline,dmt,DMT,2,2,mapping tersimpan -> kode,DLMT,masuk
+offline,dngke 40,Dngke 40,1,1,mapping tersimpan -> nama,DANGKE100,masuk
+offline,dngke 40 wp,DNGKE 40 WP,1,1,mapping tersimpan -> nama,DANGKE100,masuk
+offline,dtihane m-45,Dtihane M-45,1,0,tidak dikenal,,ditolak
+offline,e-rek anti,E-rek anti,1,0,tidak dikenal,,ditolak
+offline,e-rek anti rayap,e-rek anti rayap,2,2,mapping tersimpan -> nama,ETREKKCL,masuk
+offline,e-rtek anti rayap,E-rTek anti rayap,2,2,mapping tersimpan -> nama,ETREKKCL,masuk
+offline,e-tek anti rayap,E-Tek anti rayap,2,2,mapping tersimpan -> nama,ETREKKCL,masuk
+offline,e-terk anti rayap,E-Terk anti rayap,1,1,mapping tersimpan -> nama,ETREKKCL,masuk
+offline,e-tre anti rayap,E-TRE ANTI RAYAP,2,2,mapping tersimpan -> nama,ETREKKCL,masuk
+offline,e-tre kanti rayap,e-tre kanti rayap,1,1,mapping tersimpan -> nama,ETREKKCL,masuk
+offline,e-trek anit rayap,e-trek anit rayap,1,1,mapping tersimpan -> nama,ETREKKCL,masuk
+offline,e-trek anti,E-Trek anti,409,409,nama terpotong,ETREKKCL,masuk
+offline,e-trek anti aryap,E-TREK ANTI ARYAP,3,3,mapping tersimpan -> nama,ETREKKCL,masuk
+offline,e-trek anti ayap,E-Trek anti ayap,1,1,mapping tersimpan -> nama,ETREKKCL,masuk
+offline,e-trek anti raayp,E-TREK ANTI RAAYP,2,2,mapping tersimpan -> nama,ETREKKCL,masuk
+offline,e-trek anti rayap,E-TREK ANTI RAYAP,1414,1414,nama,ETREKKCL,masuk
+offline,e-trek anti ryap,E-Trek anti ryap,1,1,mapping tersimpan -> nama,ETREKKCL,masuk
+offline,e-trek antir ayap,E-Trek antir ayap,2,2,mapping tersimpan -> nama,ETREKKCL,masuk
+offline,e-trek ati rayap,E-Trek ati rayap,1,1,mapping tersimpan -> nama,ETREKKCL,masuk
+offline,e-trek atni,E-Trek atni,1,0,tidak dikenal,,ditolak
+offline,e-trek nati rayap,E-Trek nati rayap,1,1,mapping tersimpan -> nama,ETREKKCL,masuk
+offline,e-treka nti,E-Treka nti,1,1,mapping tersimpan -> nama,ETREKKCL,masuk
+offline,e-treka nti rayap,E-TREKA NTI RAYAP,1,1,mapping tersimpan -> nama,ETREKKCL,masuk
+offline,e-trekanti rayap,E-TREKANTI RAYAP,1,1,mapping tersimpan -> nama,ETREKKCL,masuk
+offline,e-trk anti,E-Trk anti,1,0,tidak dikenal,,ditolak
+offline,e-trke anti rayap,E-TRKE ANTI RAYAP,1,1,mapping tersimpan -> nama,ETREKKCL,masuk
+offline,e4 pertanian,E4 PERTANIAN,1,1,mapping tersimpan -> nama,EM4K,masuk
+offline,e4m perikanan & tambak,E4M PERIKANAN & TAMBAK,1,1,mapping tersimpan -> nama,EM4P,masuk
+offline,e4m peternakan,E4M Peternakan,1,1,mapping tersimpan -> nama,EM4C,masuk
+offline,e4mp,E4MP,1,1,mapping tersimpan -> kode,EM4P,masuk
+offline,ekape maxxi agri,EKAPE MAXXI AGRI,1,1,mapping tersimpan -> nama + harga,EMKAPE1,masuk
+offline,ekmape maxxi,Ekmape Maxxi,1,0,tidak dikenal,,ditolak
+offline,ekmape maxxi agri,EKMAPE MAXXI AGRI,3,3,mapping tersimpan -> nama + harga,EMKAPE1,masuk
+offline,ekmape1,EKMAPE1,2,2,mapping tersimpan -> kode,EMKAPE1,masuk
+offline,em4 eprtanian,EM4 ePrtanian,1,1,mapping tersimpan -> nama,EM4K,masuk
+offline,em4 ertanian,EM4 ertanian,1,1,mapping tersimpan -> nama,EM4K,masuk
+offline,em4 limbah,EM4 Limbah,1,1,nama terpotong,EM4B,masuk
+offline,em4 limbah / toilet,EM4 Limbah / Toilet,1,1,nama,EM4B,masuk
+offline,em4 perikana & tambak,EM4 PERIKANA & TAMBAK,1,1,mapping tersimpan -> nama,EM4P,masuk
+offline,em4 perikanan,EM4 Perikanan,48,48,nama terpotong,EM4P,masuk
+offline,em4 perikanan & tambak,EM4 Perikanan & Tambak,191,191,nama,EM4P,masuk
+offline,em4 perikanan & tmabak,em4 perikanan & tmabak,1,1,mapping tersimpan -> nama,EM4P,masuk
+offline,em4 perikanan &tambak,EM4 PERIKANAN  &TAMBAK,1,1,mapping tersimpan -> nama,EM4P,masuk
+offline,em4 perkianan,EM4 Perkianan,1,0,tidak dikenal,,ditolak
+offline,em4 perkianan & tambak,em4 perkianan & tambak,1,1,mapping tersimpan -> nama,EM4P,masuk
+offline,em4 pertainan,EM4 Pertainan,1,1,mapping tersimpan -> nama,EM4K,masuk
+offline,em4 pertanian,EM4 Pertanian,230,230,nama,EM4K,masuk
+offline,em4 petanian,EM4 PETANIAN,1,1,mapping tersimpan -> nama,EM4K,masuk
+offline,em4 peternakan,EM4 PETERNAKAN,75,75,nama,EM4C,masuk
+offline,em4 petranian,EM4 PETRANIAN,1,1,mapping tersimpan -> nama,EM4K,masuk
+offline,em4 pretanian,EM4 Pretanian,1,1,mapping tersimpan -> nama,EM4K,masuk
+offline,em4 prikanan & tambak,EM4 Prikanan & Tambak,1,1,mapping tersimpan -> nama,EM4P,masuk
+offline,em4c,EM4C,13,13,kode,EM4C,masuk
+offline,em4k,EM4K,41,41,kode,EM4K,masuk
+offline,em4p,EM4P,25,25,kode,EM4P,masuk
+offline,em4p erikanan & tambak,EM4P erikanan & Tambak,1,1,mapping tersimpan -> nama,EM4P,masuk
+offline,emakpe maxxi,Emakpe Maxxi,1,0,tidak dikenal,,ditolak
+offline,emakpe maxxi agri,EMAKPE MAXXI AGRI,2,2,mapping tersimpan -> nama + harga,EMKAPE1,masuk
+offline,emakpe1,EMAKPE1,1,1,mapping tersimpan -> kode,EMKAPE1,masuk
+offline,emkae maxxi,Emkae Maxxi,1,1,mapping tersimpan -> nama + harga,EMKAPE500,masuk
+offline,emkae maxxi agri,emkae maxxi agri,1,1,mapping tersimpan -> nama + harga,EMKAPE1,masuk
+offline,emkae1,EMKAE1,1,1,mapping tersimpan -> kode,EMKAPE1,masuk
+offline,emkaep maxxi agri,Emkaep Maxxi Agri,2,2,mapping tersimpan -> nama + harga,"EMKAPE1, EMKAPE500",masuk
+offline,emkaep1,EMKAEP1,2,2,mapping tersimpan -> kode,EMKAPE1,masuk
+offline,emkap emaxxi,Emkap eMaxxi,1,1,mapping tersimpan -> nama + harga,EMKAPE1,masuk
+offline,emkape amxxi agri,emkape amxxi agri,2,2,mapping tersimpan -> nama + harga,EMKAPE1,masuk
+offline,emkape maxi agri,EMKAPE MAXI AGRI,2,2,mapping tersimpan -> nama + harga,"EMKAPE1, EMKAPE500",masuk
+offline,emkape maxix agri,emkape maxix agri,1,1,mapping tersimpan -> nama + harga,EMKAPE1,masuk
+offline,emkape maxx agri,EMKAPE MAXX AGRI,1,1,mapping tersimpan -> nama + harga,EMKAPE1,masuk
+offline,emkape maxx iagri,Emkape Maxx iAgri,2,2,mapping tersimpan -> nama + harga,EMKAPE1,masuk
+offline,emkape maxxi,Emkape Maxxi,405,405,nama terpotong + harga,"EMKAPE1, EMKAPE500",masuk
+offline,emkape maxxi agri,Emkape Maxxi Agri,1540,1540,nama + harga,"EMKAPE1, EMKAPE500",masuk
+offline,emkape maxxi argi,EMKAPE MAXXI ARGI,2,2,mapping tersimpan -> nama + harga,EMKAPE1,masuk
+offline,emkape maxxi gri,EMKAPE MAXXI GRI,2,2,mapping tersimpan -> nama + harga,"EMKAPE1, EMKAPE500",masuk
+offline,emkape maxxiagri,EMKAPE MAXXIAGRI,1,1,mapping tersimpan -> nama + harga,EMKAPE500,masuk
+offline,emkape mxaxi agri,emkape mxaxi agri,1,1,mapping tersimpan -> nama + harga,EMKAPE500,masuk
+offline,emkape mxxi agri,emkape mxxi agri,2,2,mapping tersimpan -> nama + harga,EMKAPE1,masuk
+offline,emkape1,EMKAPE1,202,202,kode,EMKAPE1,masuk
+offline,emkape500,EMKAPE500,64,64,kode,EMKAPE500,masuk
+offline,emkpae maxxi,Emkpae Maxxi,1,0,tidak dikenal,,ditolak
+offline,emkpe maxxi agri,EMKPE MAXXI AGRI,3,3,mapping tersimpan -> nama + harga,EMKAPE1,masuk
+offline,eplore 250,Eplore 250,1,1,mapping tersimpan -> nama,EXPLORE80,masuk
+offline,eros gold,EROS GOLD,34,34,nama terpotong,EROSGOLD100,masuk
+offline,eros gold 0.57/30 df,EROS GOLD 0.57/30 DF,1,1,mapping tersimpan -> nama,EROSGOLD100,masuk
+offline,eros gold 0.75/30 df,EROS GOLD 0.75/30 DF,118,118,nama,EROSGOLD100,masuk
+offline,eros ogld 0.75/30 df,EROS OGLD 0.75/30 DF,1,1,mapping tersimpan -> nama,EROSGOLD100,masuk
+offline,erosg old,EROSG OLD,1,1,mapping tersimpan -> kode,EROSGOLD100,masuk
+offline,erosgold100,EROSGOLD100,17,17,kode,EROSGOLD100,masuk
+offline,ertekkcl,ERTEKKCL,1,1,mapping tersimpan -> kode,ETREKKCL,masuk
+offline,et-rek anti rayap,ET-rek anti rayap,2,2,mapping tersimpan -> nama,ETREKKCL,masuk
+offline,etrekckl,ETREKCKL,1,1,mapping tersimpan -> kode,ETREKKCL,masuk
+offline,etrekcl,ETREKCL,1,1,mapping tersimpan -> kode,ETREKKCL,masuk
+offline,etrekkcl,ETREKKCL,273,273,kode,ETREKKCL,masuk
+offline,etrkkcl,ETRKKCL,1,1,mapping tersimpan -> kode,ETREKKCL,masuk
+offline,explore 250,Explore 250,12,12,nama terpotong,EXPLORE80,masuk
+offline,explore 250 ec,explore 250 ec,47,47,nama,EXPLORE80,masuk
+offline,explore 250e c,explore 250e c,1,1,mapping tersimpan -> nama,EXPLORE80,masuk
+offline,explore80,EXPLORE80,5,5,kode,EXPLORE80,masuk
+offline,famquat 276,Famquat 276,1,1,mapping tersimpan -> nama,FARMQUAT250,masuk
+offline,farmqaut250,FARMQAUT250,1,1,mapping tersimpan -> kode,FARMQUAT250,masuk
+offline,farmquat 267 sl,FARMQUAT 267 SL,1,1,mapping tersimpan -> nama,FARMQUAT250,masuk
+offline,farmquat 27 6sl,Farmquat 27 6SL,2,2,mapping tersimpan -> nama,FARMQUAT250,masuk
+offline,farmquat 276,Farmquat 276,114,114,nama terpotong,FARMQUAT250,masuk
+offline,farmquat 276 sl,Farmquat 276 SL,399,399,nama,FARMQUAT250,masuk
+offline,farmquat 276s l,farmquat 276s l,1,1,mapping tersimpan -> nama,FARMQUAT250,masuk
+offline,farmquat 276sl,Farmquat 276SL,1,1,mapping tersimpan -> nama,FARMQUAT250,masuk
+offline,farmquat 726,Farmquat 726,1,1,mapping tersimpan -> nama,FARMQUAT250,masuk
+offline,farmquat250,FARMQUAT250,67,67,kode,FARMQUAT250,masuk
+offline,farmquat50,FARMQUAT50,1,1,mapping tersimpan -> kode,FARMQUAT250,masuk
+offline,farmqut250,FARMQUT250,1,1,mapping tersimpan -> kode,FARMQUAT250,masuk
+offline,farmquta 276 sl,farmquta 276 sl,1,1,mapping tersimpan -> nama,FARMQUAT250,masuk
+offline,farmuat 276 sl,FARMUAT 276 SL,1,1,mapping tersimpan -> nama,FARMQUAT250,masuk
+offline,farmuqat 276 sl,FARMUQAT 276 SL,1,1,mapping tersimpan -> nama,FARMQUAT250,masuk
+offline,fastac 1 ec,Fastac 1 EC,2,2,mapping tersimpan -> nama,FSTC,masuk
+offline,fastac 15,Fastac 15,48,48,nama terpotong,FSTC,masuk
+offline,fastac 15 ec,Fastac 15 EC,191,191,nama,FSTC,masuk
+offline,fastac1 5 ec,fastac1 5 ec,1,1,mapping tersimpan -> nama,FSTC,masuk
+offline,fastscore,Fastscore,16,16,nama,FSTSCR500,masuk
+offline,fastsocre,FASTSOCRE,1,1,mapping tersimpan -> nama,FSTSCR500,masuk
+offline,fatsac 15 ec,FATSAC 15 EC,2,2,mapping tersimpan -> nama,FSTC,masuk
+offline,fdr1,FDR1,2,2,mapping tersimpan -> kode,FRD1,masuk
+offline,feinte 150 od,FEINTE 150 OD,1,1,mapping tersimpan -> nama + harga,FENITE50,masuk
+offline,feite 150 od,Feite 150 OD,1,1,mapping tersimpan -> nama + harga,FENITE50,masuk
+offline,feite100,FEITE100,1,1,mapping tersimpan -> kode,FENITE100,masuk
+offline,fenie50,FENIE50,1,1,mapping tersimpan -> kode,FENITE50,masuk
+offline,fenit 150 od,fenit 150 od,1,1,mapping tersimpan -> nama + harga,FENITE50,masuk
+offline,fenite 15 0od,Fenite 15 0OD,2,2,mapping tersimpan -> nama + harga,"FENITE100, FENITE50",masuk
+offline,fenite 15 od,Fenite 15 OD,2,2,mapping tersimpan -> nama + harga,"FENITE100, FENITE50",masuk
+offline,fenite 150,Fenite 150,150,150,nama terpotong + harga,"FENITE100, FENITE50",masuk
+offline,fenite 150 od,Fenite 150 OD,566,566,nama + harga,"FENITE100, FENITE50",masuk
+offline,fenite 150o d,FENITE 150O D,1,1,mapping tersimpan -> nama + harga,FENITE100,masuk
+offline,fenite 510 od,fenite 510 od,2,2,mapping tersimpan -> nama + harga,FENITE50,masuk
+offline,fenite100,FENITE100,39,39,kode,FENITE100,masuk
+offline,fenite50,FENITE50,65,65,kode,FENITE50,masuk
+offline,fente50,FENTE50,1,1,mapping tersimpan -> kode,FENITE50,masuk
+offline,fentie100,FENTIE100,1,1,mapping tersimpan -> kode,FENITE100,masuk
+offline,fertihpos curah,Fertihpos Curah,1,1,mapping tersimpan -> nama,FRTPHS1,masuk
+offline,fertiphos cuarh,Fertiphos Cuarh,1,1,mapping tersimpan -> nama,FRTPHS1,masuk
+offline,fertiphos curah,Fertiphos Curah,650,650,nama,FRTPHS1,masuk
+offline,fertiphoscurah,FertiphosCurah,1,1,mapping tersimpan -> nama,FRTPHS1,masuk
+offline,fertiphso curah,Fertiphso Curah,2,2,mapping tersimpan -> nama,FRTPHS1,masuk
+offline,fertipos curah,Fertipos Curah,1,1,mapping tersimpan -> nama,FRTPHS1,masuk
+offline,fertphos curah,Fertphos Curah,1,1,mapping tersimpan -> nama,FRTPHS1,masuk
+offline,fetiphos curah,fetiphos curah,1,1,mapping tersimpan -> nama,FRTPHS1,masuk
+offline,fetriphos curah,Fetriphos Curah,2,2,mapping tersimpan -> nama,FRTPHS1,masuk
+offline,fiia 525 se,fiia 525 se,2,2,mapping tersimpan -> nama,FILIA50,masuk
+offline,fila 525 se,Fila 525 SE,1,1,mapping tersimpan -> nama,FILIA50,masuk
+offline,filai50,FILAI50,1,1,mapping tersimpan -> kode,FILIA50,masuk
+offline,filia 25,Filia 25,1,1,mapping tersimpan -> kode,FILIA50,masuk
+offline,filia 25 se,Filia 25 SE,2,2,mapping tersimpan -> nama,FILIA50,masuk
+offline,filia 255 se,Filia 255 SE,1,1,mapping tersimpan -> nama,FILIA50,masuk
+offline,filia 52 5se,FILIA 52 5SE,1,1,mapping tersimpan -> nama,FILIA50,masuk
+offline,filia 525,Filia 525,246,246,nama terpotong,FILIA50,masuk
+offline,filia 525 se,FILIA 525 SE,773,773,nama,FILIA50,masuk
+offline,filia 525s e,filia 525s e,1,1,mapping tersimpan -> nama,FILIA50,masuk
+offline,filia 55 se,filia 55 se,1,1,mapping tersimpan -> nama,FILIA50,masuk
+offline,filia 552 se,FILIA 552 SE,1,1,mapping tersimpan -> nama,FILIA50,masuk
+offline,filia5 25 se,Filia5 25 SE,1,1,mapping tersimpan -> nama,FILIA50,masuk
+offline,filia50,FILIA50,144,144,kode,FILIA50,masuk
+offline,filia525 se,Filia525 SE,1,1,mapping tersimpan -> nama,FILIA50,masuk
+offline,flia50,FLIA50,1,1,mapping tersimpan -> kode,FILIA50,masuk
+offline,fliia 525,Fliia 525,1,0,tidak dikenal,,ditolak
+offline,fliia 525 se,FLIIA 525 SE,1,1,mapping tersimpan -> nama,FILIA50,masuk
+offline,fosin 610,Fosin 610,1,1,mapping tersimpan -> nama,FSTN100,masuk
+offline,fositn 610 ec,Fositn 610 EC,1,1,mapping tersimpan -> nama,FSTN100,masuk
+offline,fostin 10 ec,Fostin 10 EC,1,1,mapping tersimpan -> nama,FSTN100,masuk
+offline,fostin 610,Fostin 610,41,41,nama terpotong,FSTN100,masuk
+offline,fostin 610 ec,fostin 610 ec,128,128,nama,FSTN100,masuk
+offline,fostin 610ec,Fostin 610EC,1,1,mapping tersimpan -> nama,FSTN100,masuk
+offline,fostin6 10 ec,fostin6 10 ec,1,1,mapping tersimpan -> nama,FSTN100,masuk
+offline,fotin 610 ec,fotin 610 ec,1,1,mapping tersimpan -> nama,FSTN100,masuk
+offline,frd1,FRD1,98,98,kode,FRD1,masuk
+offline,frd2,FRD2,15,15,kode,FRD2,masuk
+offline,fretiphos curah,fretiphos curah,3,3,mapping tersimpan -> nama,FRTPHS1,masuk
+offline,frmquat 276 sl,frmquat 276 sl,1,1,mapping tersimpan -> nama,FARMQUAT250,masuk
+offline,frpths1,FRPTHS1,1,1,mapping tersimpan -> kode,FRTPHS1,masuk
+offline,frtiphos curah,Frtiphos Curah,1,1,mapping tersimpan -> nama,FRTPHS1,masuk
+offline,frtphs1,FRTPHS1,92,92,kode,FRTPHS1,masuk
+offline,frtps1,FRTPS1,1,1,mapping tersimpan -> kode,FRTPHS1,masuk
+offline,fruadan 3gr,FRUADAN 3GR,2,2,mapping tersimpan -> nama + harga,"FRD1, FRD2",masuk
+offline,fstac 15 ec,FSTAC 15 EC,1,1,mapping tersimpan -> nama,FSTC,masuk
+offline,fstc,FSTC,42,42,kode,FSTC,masuk
+offline,fstn100,FSTN100,24,24,kode,FSTN100,masuk
+offline,furaan 3gr,Furaan 3GR,1,1,mapping tersimpan -> nama + harga,FRD1,masuk
+offline,furada n3gr,Furada n3GR,1,1,mapping tersimpan -> nama + harga,FRD1,masuk
+offline,furadan 3gr,furadan 3gr,739,739,nama + harga,"FRD1, FRD2",masuk
+offline,furadan g3r,Furadan G3R,1,1,mapping tersimpan -> nama + harga,FRD1,masuk
+offline,furadan gr,Furadan GR,1,1,mapping tersimpan -> nama + harga,FRD1,masuk
+offline,furadna 3gr,Furadna 3GR,2,2,mapping tersimpan -> nama + harga,FRD1,masuk
+offline,furdaan 3gr,furdaan 3gr,2,2,mapping tersimpan -> nama + harga,FRD1,masuk
+offline,gadasil b,Gadasil B,1,1,mapping tersimpan -> nama + harga,GDSLB,masuk
+offline,ganadsil d,GANADSIL D,1,1,mapping tersimpan -> nama + harga,GDSLD,masuk
+offline,gandaisl b,gandaisl b,1,1,mapping tersimpan -> nama + harga,GDSLB,masuk
+offline,gandaisl d,Gandaisl D,1,1,mapping tersimpan -> nama + harga,GDSLD500,masuk
+offline,gandasi ld,GANDASI LD,1,0,tidak dikenal,,ditolak
+offline,gandasil b,Gandasil B,175,175,nama + harga,"GDSLB, GDSLB500",masuk
+offline,gandasil d,Gandasil D,193,193,nama + harga,"GDSLD, GDSLD500",masuk
+offline,gandasl d,Gandasl D,1,1,mapping tersimpan -> nama + harga,GDSLD500,masuk
+offline,gandasli d,GANDASLI D,1,1,mapping tersimpan -> nama + harga,GDSLD500,masuk
+offline,gats,GATS,25,25,kode,GATS,masuk
+offline,gbgro panen 20 sp,Gbgro Panen 20 SP,1,1,mapping tersimpan -> nama,GIBGROPN,masuk
+offline,gbigro 10,Gbigro 10,1,0,tidak dikenal,,ditolak
+offline,gbigro 10 sp,Gbigro 10 SP,2,2,mapping tersimpan -> nama,GIBGRO,masuk
+offline,gdslb,GDSLB,29,29,kode,GDSLB,masuk
+offline,gdslb500,GDSLB500,4,4,kode,GDSLB500,masuk
+offline,gdsld,GDSLD,17,17,kode,GDSLD,masuk
+offline,gdsld500,GDSLD500,14,14,kode,GDSLD500,masuk
+offline,gebor air,Gebor Air,1,1,mapping tersimpan -> nama,GMBR3L,masuk
+offline,gembor air,gembor air,218,218,nama,GMBR3L,masuk
+offline,geren stick,Geren Stick,2,2,mapping tersimpan -> nama,GRNSTIK,masuk
+offline,geren tonik,Geren Tonik,1,1,mapping tersimpan -> nama,GRNTNK1,masuk
+offline,gibgor 10,Gibgor 10,2,0,tidak dikenal,,ditolak
+offline,gibgr o10 sp,gibgr o10 sp,1,1,mapping tersimpan -> nama,GIBGRO,masuk
+offline,gibgro,GIBGRO,129,129,kode,GIBGRO,masuk
+offline,gibgro 0 sp,Gibgro 0 SP,2,2,mapping tersimpan -> nama,GIBGRO,masuk
+offline,gibgro 1 0sp,gibgro 1 0sp,2,2,mapping tersimpan -> nama,GIBGRO,masuk
+offline,gibgro 1 sp,GIBGRO 1 SP,1,1,mapping tersimpan -> nama,GIBGRO,masuk
+offline,gibgro 10,Gibgro 10,183,183,nama terpotong,GIBGRO,masuk
+offline,gibgro 10 sp,Gibgro 10 SP,697,697,nama,GIBGRO,masuk
+offline,gibgro 10sp,Gibgro 10SP,1,1,mapping tersimpan -> nama,GIBGRO,masuk
+offline,gibgro panen,Gibgro Panen,13,13,nama terpotong,GIBGROPN,masuk
+offline,gibgro panen 20 sp,Gibgro Panen 20 SP,53,53,nama,GIBGROPN,masuk
+offline,gibgro1 0 sp,GIBGRO1 0 SP,2,2,mapping tersimpan -> nama,GIBGRO,masuk
+offline,gibgropn,GIBGROPN,6,6,kode,GIBGROPN,masuk
+offline,gibrgo,GIBRGO,2,2,mapping tersimpan -> kode,GIBGRO,masuk
+offline,gigro,GIGRO,1,1,mapping tersimpan -> kode,GIBGRO,masuk
+offline,gkng,GKNG,35,35,kode,GKNG,masuk
+offline,glubest 200,Glubest 200,4,4,nama terpotong,GLUBEST1L,masuk
+offline,glubest 200 sl,Glubest 200 SL,13,13,nama,GLUBEST1L,masuk
+offline,glubest1l,GLUBEST1L,1,1,kode,GLUBEST1L,masuk
+offline,gmbr3l,GMBR3L,26,26,kode,GMBR3L,masuk
+offline,gmrb3l,GMRB3L,1,1,mapping tersimpan -> kode,GMBR3L,masuk
+offline,gnkg,GNKG,1,1,mapping tersimpan -> kode,GKNG,masuk
+offline,gnting kuning,Gnting Kuning,1,1,mapping tersimpan -> nama,GKNG,masuk
+offline,gobest 250 sc,GOBEST 250 SC,3,3,nama,GOBEST100,masuk
+offline,gobest100,GOBEST100,1,1,kode,GOBEST100,masuk
+offline,goson gtop,Goson gTop,1,0,tidak dikenal,,ditolak
+offline,goson top 276 sl,goson top 276 sl,1,1,mapping tersimpan -> nama + harga,GOSONGTOP500,masuk
+offline,gosong otp 276 sl,Gosong oTp 276 SL,2,2,mapping tersimpan -> nama + harga,GOSONGTOP500,masuk
+offline,gosong top,Gosong Top,64,64,nama terpotong + harga,"GOSONGTOP250, GOSONGTOP500",masuk
+offline,gosong top 267 sl,gosong top 267 sl,1,1,mapping tersimpan -> nama + harga,GOSONGTOP500,masuk
+offline,gosong top 276 sl,GOSONG TOP 276 SL,219,219,nama + harga,"GOSONGTOP250, GOSONGTOP500",masuk
+offline,gosong top 276s l,Gosong Top 276S L,1,1,mapping tersimpan -> nama + harga,GOSONGTOP500,masuk
+offline,gosongtop250,GOSONGTOP250,3,3,kode,GOSONGTOP250,masuk
+offline,gosongtop500,GOSONGTOP500,37,37,kode,GOSONGTOP500,masuk
+offline,gosongtpo500,GOSONGTPO500,1,1,mapping tersimpan -> kode,GOSONGTOP500,masuk
+offline,gramoxoe 276,Gramoxoe 276,1,1,mapping tersimpan -> nama + harga,GRXB,masuk
+offline,gramoxoe 276 sl,Gramoxoe 276 SL,1,1,mapping tersimpan -> nama + harga,GRXK,masuk
+offline,gramoxone 276,Gramoxone 276,19,19,nama terpotong + harga,"GRXB, GRXK",masuk
+offline,gramoxone 276 sl,Gramoxone 276 SL,90,90,nama + harga,"GRXB, GRXK",masuk
+offline,graomxone 276,Graomxone 276,1,0,tidak dikenal,,ditolak
+offline,gree stick,Gree Stick,1,1,mapping tersimpan -> nama,GRNSTIK,masuk
+offline,green stck,Green Stck,1,1,mapping tersimpan -> nama,GRNSTIK,masuk
+offline,green stick,green stick,308,308,nama,GRNSTIK,masuk
+offline,green tonik,GREEN TONIK,96,96,nama,GRNTNK1,masuk
+offline,green tsick,Green tSick,2,2,mapping tersimpan -> nama,GRNSTIK,masuk
+offline,greens tick,GREENS TICK,1,1,mapping tersimpan -> nama,GRNSTIK,masuk
+offline,gren tonik,Gren Tonik,1,1,mapping tersimpan -> nama,GRNTNK1,masuk
+offline,grnstik,GRNSTIK,33,33,kode,GRNSTIK,masuk
+offline,grntik,GRNTIK,1,1,mapping tersimpan -> kode,GRNSTIK,masuk
+offline,grntnk1,GRNTNK1,9,9,kode,GRNTNK1,masuk
+offline,grntsik,GRNTSIK,1,1,mapping tersimpan -> kode,GRNSTIK,masuk
+offline,grxb,GRXB,6,6,kode,GRXB,masuk
+offline,grxk,GRXK,15,15,kode,GRXK,masuk
+offline,gts,GTS,1,1,mapping tersimpan -> kode,GATS,masuk
+offline,gunitng ats,GUNITNG ATS,1,1,mapping tersimpan -> nama,GATS,masuk
+offline,gunitng kuning,Gunitng Kuning,1,1,mapping tersimpan -> nama,GKNG,masuk
+offline,guntin kuning,Guntin Kuning,1,1,mapping tersimpan -> nama,GKNG,masuk
+offline,gunting ats,Gunting ATS,166,166,nama,GATS,masuk
+offline,gunting kuning,Gunting Kuning,202,202,nama,GKNG,masuk
+offline,gunting kunnig,Gunting Kunnig,2,2,mapping tersimpan -> nama,GKNG,masuk
+offline,gunting tas,Gunting TAS,1,1,mapping tersimpan -> nama,GATS,masuk
+offline,gunting ts,GUNTING TS,1,1,mapping tersimpan -> nama,GATS,masuk
+offline,guntnig ats,GUNTNIG ATS,2,2,mapping tersimpan -> nama,GATS,masuk
+offline,guntnig kuning,Guntnig Kuning,1,1,mapping tersimpan -> nama,GKNG,masuk
+offline,hmuigrow,Hmuigrow,1,1,mapping tersimpan -> nama,HUMIGROW500,masuk
+offline,huigrow,huigrow,1,1,mapping tersimpan -> nama,HUMIGROW500,masuk
+offline,humgirow,HUMGIROW,3,3,mapping tersimpan -> nama,HUMIGROW500,masuk
+offline,humgrow,Humgrow,1,1,mapping tersimpan -> nama,HUMIGROW500,masuk
+offline,humigrow,HUMIGROW,258,258,nama,HUMIGROW500,masuk
+offline,humigrow500,HUMIGROW500,38,38,kode,HUMIGROW500,masuk
+offline,instaax 240 sl,Instaax 240 SL,1,1,mapping tersimpan -> nama,INSTAMAX1L,masuk
+offline,instamax 240,Instamax 240,25,25,nama terpotong,INSTAMAX1L,masuk
+offline,instamax 240 sl,Instamax 240 SL,64,64,nama,INSTAMAX1L,masuk
+offline,instamax 240sl,instamax 240sl,1,1,mapping tersimpan -> nama,INSTAMAX1L,masuk
+offline,instamax1l,INSTAMAX1L,9,9,kode,INSTAMAX1L,masuk
+offline,jaing buah besar,Jaing Buah Besar,1,1,mapping tersimpan -> nama,JARINGBSR,masuk
+offline,jarinbgsr,JARINBGSR,1,1,mapping tersimpan -> kode,JARINGBSR,masuk
+offline,jaring bauh besar,Jaring Bauh Besar,1,1,mapping tersimpan -> nama,JARINGBSR,masuk
+offline,jaring buah,Jaring Buah,61,61,nama terpotong ambigu + harga,"JARINGBSR, JARINGSDG",masuk
+offline,jaring buah besar,JARING BUAH BESAR,199,199,nama,JARINGBSR,masuk
+offline,jaring buah sedang,Jaring Buah Sedang,3,3,nama,JARINGSDG,masuk
+offline,jaringbsr,JARINGBSR,26,26,kode,JARINGBSR,masuk
+offline,jaringbuah besar,JaringBuah Besar,1,1,mapping tersimpan -> nama,JARINGBSR,masuk
+offline,jaringsbr,JARINGSBR,1,1,mapping tersimpan -> kode,JARINGBSR,masuk
+offline,jestpray,Jestpray,1,1,mapping tersimpan -> nama + harga,JSP1L,masuk
+offline,jetpsray,jetpsray,1,1,mapping tersimpan -> nama + harga,JSP1L,masuk
+offline,jetspray,jetspray,151,151,nama + harga,"JSP1L, JSP500",masuk
+offline,jetsrpay,jetsrpay,1,1,mapping tersimpan -> nama + harga,JSP1L,masuk
+offline,jsp1l,JSP1L,19,19,kode,JSP1L,masuk
+offline,jsp500,JSP500,10,10,kode,JSP500,masuk
+offline,kalinet kalium cair,Kalinet Kalium Cair,1,1,nama,KALINET500,masuk
+offline,kalinet500,KALINET500,1,1,kode,KALINET500,masuk
+offline,kanitart1,KANITART1,1,1,mapping tersimpan -> kode,KANITRAT1,masuk
+offline,kanitrat maxxi,Kanitrat Maxxi,32,32,nama terpotong + harga,KANITRAT1,masuk
+offline,kanitrat maxxi agri,kanitrat maxxi agri,91,91,nama + harga,"KANITRAT1, KANITRAT500",masuk
+offline,kanitrat1,KANITRAT1,14,14,kode,KANITRAT1,masuk
+offline,kanitrat500,KANITRAT500,5,5,kode,KANITRAT500,masuk
+offline,kanon 400,Kanon 400,8,8,nama terpotong,KANON100,masuk
+offline,kanon 400 ec,kanon 400 ec,45,45,nama,KANON100,masuk
+offline,kanon100,KANON100,10,10,kode,KANON100,masuk
+offline,kapr dolomite,Kapr Dolomite,1,1,mapping tersimpan -> nama,DLMT,masuk
+offline,kapru dolomite,Kapru Dolomite,4,4,mapping tersimpan -> nama,DLMT,masuk
+offline,kapu dolomite,Kapu Dolomite,1,1,mapping tersimpan -> nama,DLMT,masuk
+offline,kapu rdolomite,Kapu rDolomite,2,2,mapping tersimpan -> nama,DLMT,masuk
+offline,kapur dlomite,Kapur Dlomite,2,2,mapping tersimpan -> nama,DLMT,masuk
+offline,kapur dloomite,Kapur Dloomite,2,2,mapping tersimpan -> nama,DLMT,masuk
+offline,kapur dolmite,KAPUR DOLMITE,1,1,mapping tersimpan -> nama,DLMT,masuk
+offline,kapur dolmoite,Kapur Dolmoite,5,5,mapping tersimpan -> nama,DLMT,masuk
+offline,kapur doloimte,Kapur Doloimte,3,3,mapping tersimpan -> nama,DLMT,masuk
+offline,kapur doloite,KAPUR DOLOITE,1,1,mapping tersimpan -> nama,DLMT,masuk
+offline,kapur dolomite,KAPUR DOLOMITE,2192,2192,nama,DLMT,masuk
+offline,kapur dolomte,Kapur Dolomte,2,2,mapping tersimpan -> nama,DLMT,masuk
+offline,kapur dolomtie,Kapur Dolomtie,3,3,mapping tersimpan -> nama,DLMT,masuk
+offline,kapur doolmite,KAPUR DOOLMITE,1,1,mapping tersimpan -> nama,DLMT,masuk
+offline,kapur odlomite,kapur odlomite,1,1,mapping tersimpan -> nama,DLMT,masuk
+offline,kapur olomite,Kapur olomite,3,3,mapping tersimpan -> nama,DLMT,masuk
+offline,kapurd olomite,KapurD olomite,4,4,mapping tersimpan -> nama,DLMT,masuk
+offline,kapurdolomite,KapurDolomite,2,2,mapping tersimpan -> nama,DLMT,masuk
+offline,karate plus,Karate Plus,12,12,nama terpotong,KRTBRN,masuk
+offline,karate plus boroni,Karate Plus Boroni,44,44,nama,KRTBRN,masuk
+offline,kaur dolomite,kaur dolomite,5,5,mapping tersimpan -> nama,DLMT,masuk
+offline,kayaris,Kayaris,9,9,nama,KYRS500,masuk
+offline,kc curah,KC Curah,4,4,mapping tersimpan -> nama,KCL,masuk
+offline,kc lcurah,KC LCURAH,4,4,mapping tersimpan -> nama,KCL,masuk
+offline,kcl,KCL,323,323,kode,KCL,masuk
+offline,kcl crah,KCL Crah,1,1,mapping tersimpan -> nama,KCL,masuk
+offline,kcl cruah,KCL Cruah,6,6,mapping tersimpan -> nama,KCL,masuk
+offline,kcl cuah,KCL Cuah,1,1,mapping tersimpan -> nama,KCL,masuk
+offline,kcl cuarh,KCL CUARH,3,3,mapping tersimpan -> nama,KCL,masuk
+offline,kcl curah,KCL CURAH,2374,2374,nama,KCL,masuk
+offline,kcl ucrah,KCL uCrah,3,3,mapping tersimpan -> nama,KCL,masuk
+offline,kcl urah,KCL urah,2,2,mapping tersimpan -> nama,KCL,masuk
+offline,kclc urah,kclc urah,11,11,mapping tersimpan -> nama,KCL,masuk
+offline,kclcurah,KCLCurah,7,7,mapping tersimpan -> nama,KCL,masuk
+offline,kersnacid 250 ec,KERSNACID 250 EC,1,1,mapping tersimpan -> nama,KRSNCD,masuk
+offline,king tonik,King Tonik,9,9,nama,KINGTONIK1,masuk
+offline,kinglo1n00,KINGLO1N00,1,1,mapping tersimpan -> kode,KINGLON100,masuk
+offline,kinglon 667,Kinglon 667,19,19,nama terpotong,KINGLON100,masuk
+offline,kinglon 667 ec,Kinglon 667 EC,60,60,nama,KINGLON100,masuk
+offline,kinglon100,KINGLON100,16,16,kode,KINGLON100,masuk
+offline,kl curah,kl curah,7,7,mapping tersimpan -> nama,KCL,masuk
+offline,klc curah,KLC Curah,8,8,mapping tersimpan -> nama,KCL,masuk
+offline,klimax,KLIMAX,11,11,kode,KLIMAX,masuk
+offline,klimax 20,Klimax 20,6,6,nama terpotong,KLIMAX,masuk
+offline,klimax 20 ec,Klimax 20 EC,21,21,nama,KLIMAX,masuk
+offline,klimax2 0 ec,klimax2 0 ec,1,1,mapping tersimpan -> nama,KLIMAX,masuk
+offline,knaon 400,Knaon 400,1,0,tidak dikenal,,ditolak
+offline,knomrh2,KNOMRH2,1,1,kode,KNOMRH2,masuk
+offline,knopth1,KNOPTH1,23,23,kode,KNOPTH1,masuk
+offline,knopth2,KNOPTH2,11,11,kode,KNOPTH2,masuk
+offline,koin plus 80p,Koin Plus 80P,1,1,mapping tersimpan -> nama,KOVINPLUS,masuk
+offline,konup,KONUP,16,16,kode,KONUP,masuk
+offline,konup 480,Konup 480,14,14,nama terpotong,KONUP,masuk
+offline,konup 480 sl,konup 480 sl,69,69,nama,KONUP,masuk
+offline,konup 480s l,Konup 480S L,1,1,mapping tersimpan -> nama,KONUP,masuk
+offline,konup480 sl,KONUP480 SL,1,1,mapping tersimpan -> nama,KONUP,masuk
+offline,koup 480 sl,Koup 480 SL,1,1,mapping tersimpan -> nama,KONUP,masuk
+offline,kovi nplus 80p,kovi nplus 80p,2,2,mapping tersimpan -> nama,KOVINPLUS,masuk
+offline,kovi plus,Kovi Plus,1,1,mapping tersimpan -> kode,KOVINPLUS,masuk
+offline,kovi plus 80p,kovi plus 80p,1,1,mapping tersimpan -> nama,KOVINPLUS,masuk
+offline,kovin lpus,Kovin lPus,2,2,mapping tersimpan -> kode,KOVINPLUS,masuk
+offline,kovin lpus 80p,kovin lpus 80p,3,3,mapping tersimpan -> nama,KOVINPLUS,masuk
+offline,kovin lus 80p,Kovin lus 80P,1,1,mapping tersimpan -> nama,KOVINPLUS,masuk
+offline,kovin pls 80p,Kovin Pls 80P,2,2,mapping tersimpan -> nama,KOVINPLUS,masuk
+offline,kovin plsu 80p,kovin plsu 80p,2,2,mapping tersimpan -> nama,KOVINPLUS,masuk
+offline,kovin plu 80p,Kovin Plu 80P,2,2,mapping tersimpan -> nama,KOVINPLUS,masuk
+offline,kovin plu s80p,kovin plu s80p,1,1,mapping tersimpan -> nama,KOVINPLUS,masuk
+offline,kovin plus,Kovin Plus,321,321,nama terpotong,KOVINPLUS,masuk
+offline,kovin plus 08p,Kovin Plus 08P,1,1,mapping tersimpan -> nama,KOVINPLUS,masuk
+offline,kovin plus 0p,Kovin Plus 0P,1,1,mapping tersimpan -> nama,KOVINPLUS,masuk
+offline,kovin plus 80p,KOVIN PLUS 80P,1079,1079,nama,KOVINPLUS,masuk
+offline,kovin plus8 0p,Kovin Plus8 0P,1,1,mapping tersimpan -> nama,KOVINPLUS,masuk
+offline,kovin plus80p,Kovin Plus80P,1,1,mapping tersimpan -> nama,KOVINPLUS,masuk
+offline,kovin puls,Kovin Puls,1,1,mapping tersimpan -> kode,KOVINPLUS,masuk
+offline,kovinlus,KOVINLUS,2,2,mapping tersimpan -> kode,KOVINPLUS,masuk
+offline,kovinp lus 80p,KOVINP LUS 80P,3,2,mapping tersimpan -> nama,KOVINPLUS,sebagian ditolak
+offline,kovinplus,KOVINPLUS,183,183,kode,KOVINPLUS,masuk
+offline,kovn plus 80p,KOVN PLUS 80P,1,1,mapping tersimpan -> nama,KOVINPLUS,masuk
+offline,kovni plus 80p,Kovni Plus 80P,3,3,mapping tersimpan -> nama,KOVINPLUS,masuk
+offline,kovniplus,KOVNIPLUS,1,1,mapping tersimpan -> kode,KOVINPLUS,masuk
+offline,kovnplus,KOVNPLUS,1,1,mapping tersimpan -> kode,KOVINPLUS,masuk
+offline,kpaur dolomite,Kpaur Dolomite,1,1,mapping tersimpan -> nama,DLMT,masuk
+offline,kpur dolomite,Kpur Dolomite,3,3,mapping tersimpan -> nama,DLMT,masuk
+offline,kreslo 480 ec,kreslo 480 ec,1,1,mapping tersimpan -> nama,KRSLN,masuk
+offline,kreslon 480,Kreslon 480,38,38,nama terpotong,KRSLN,masuk
+offline,kreslon 480 ec,KRESLON 480 EC,112,112,nama,KRSLN,masuk
+offline,kreslon 80,Kreslon 80,1,1,mapping tersimpan -> nama,KRSLN,masuk
+offline,kresnabat 50,Kresnabat 50,3,3,nama terpotong,KRESNABAT40,masuk
+offline,kresnabat 50 wp,Kresnabat 50 WP,14,14,nama,KRESNABAT40,masuk
+offline,kresnabat40,KRESNABAT40,3,3,kode,KRESNABAT40,masuk
+offline,kresnacid 250,Kresnacid 250,34,34,nama terpotong,KRSNCD,masuk
+offline,kresnacid 250 ec,kresnacid 250 ec,105,105,nama,KRSNCD,masuk
+offline,kresnacid 520 ec,Kresnacid 520 EC,1,1,mapping tersimpan -> nama,KRSNCD,masuk
+offline,kresnato p500 sc,Kresnato p500 SC,1,1,mapping tersimpan -> nama,KRESNATOP,masuk
+offline,kresnatop,KRESNATOP,11,11,kode,KRESNATOP,masuk
+offline,kresnatop 50 0sc,Kresnatop 50 0SC,1,1,mapping tersimpan -> nama,KRESNATOP,masuk
+offline,kresnatop 500,Kresnatop 500,19,19,nama terpotong,KRESNATOP,masuk
+offline,kresnatop 500 sc,Kresnatop 500 SC,76,76,nama,KRESNATOP,masuk
+offline,kresnatp 500 sc,KRESNATP 500 SC,1,1,mapping tersimpan -> nama,KRESNATOP,masuk
+offline,krln,KRLN,1,1,mapping tersimpan -> kode,KRSLN,masuk
+offline,krsln,KRSLN,29,29,kode,KRSLN,masuk
+offline,krsncd,KRSNCD,26,26,kode,KRSNCD,masuk
+offline,krtbrn,KRTBRN,11,11,kode,KRTBRN,masuk
+offline,kvin plus,Kvin Plus,2,2,mapping tersimpan -> kode,KOVINPLUS,masuk
+offline,kvin plus 80p,KVIN PLUS 80P,1,1,mapping tersimpan -> nama,KOVINPLUS,masuk
+offline,kvoin plus,Kvoin Plus,1,1,mapping tersimpan -> kode,KOVINPLUS,masuk
+offline,kyrs500,KYRS500,1,1,kode,KYRS500,masuk
+offline,lindomin 865,Lindomin 865,1,1,nama terpotong,LINDOMIN400,masuk
+offline,lindomin 865 sl,Lindomin 865 SL,1,1,nama,LINDOMIN400,masuk
+offline,liq,LIQ,11,11,kode,LIQ,masuk
+offline,m-21 decomposer,M-21 Decomposer,73,73,nama,M21,masuk
+offline,m-21 deocmposer,m-21 deocmposer,1,1,mapping tersimpan -> nama,M21,masuk
+offline,m21,M21,11,11,kode,M21,masuk
+offline,magnesiu msulfat pak tani,Magnesiu mSulfat Pak Tani,1,1,mapping tersimpan -> nama,MGSULFATE,masuk
+offline,magnesium sulaft,Magnesium Sulaft,1,0,tidak dikenal,,ditolak
+offline,magnesium sulfa pak tani,MAGNESIUM SULFA PAK TANI,1,1,mapping tersimpan -> nama,MGSULFATE,masuk
+offline,magnesium sulfat,Magnesium Sulfat,47,47,nama terpotong,MGSULFATE,masuk
+offline,magnesium sulfat pak tani,magnesium sulfat pak tani,176,176,nama,MGSULFATE,masuk
+offline,magnesium sulfat pakt ani,MAGNESIUM SULFAT PAKT ANI,1,1,mapping tersimpan -> nama,MGSULFATE,masuk
+offline,magnesium sulfat pka tani,Magnesium Sulfat Pka Tani,1,1,mapping tersimpan -> nama,MGSULFATE,masuk
+offline,manohara,Manohara,2,2,nama,MANOHARA1,masuk
+offline,manzat 82 wp,Manzat 82 WP,1,1,mapping tersimpan -> nama,MANZATE500,masuk
+offline,manzate 82,Manzate 82,13,13,nama terpotong,MANZATE500,masuk
+offline,manzate 82 wp,manzate 82 wp,70,70,nama,MANZATE500,masuk
+offline,manzate500,MANZATE500,16,16,kode,MANZATE500,masuk
+offline,manzate82,Manzate82,1,1,mapping tersimpan -> nama,MANZATE500,masuk
+offline,manztae 82 wp,Manztae 82 WP,1,1,mapping tersimpan -> nama,MANZATE500,masuk
+offline,mar-rtex 500 ec,mar-rtex 500 ec,1,1,mapping tersimpan -> nama,MARTREX500,masuk
+offline,mar-trex 500,Mar-trex 500,21,21,nama terpotong,MARTREX500,masuk
+offline,mar-trex 500 ec,Mar-trex 500 EC,70,70,nama,MARTREX500,masuk
+offline,mar-trex500 ec,MAR-TREX500 EC,1,1,mapping tersimpan -> nama,MARTREX500,masuk
+offline,mar-trx 500 ec,mar-trx 500 ec,1,1,mapping tersimpan -> nama,MARTREX500,masuk
+offline,marsahl 25 ds,Marsahl 25 DS,1,1,mapping tersimpan -> nama,MARSHAL25,masuk
+offline,marshal 25,Marshal 25,16,16,nama terpotong,MARSHAL25,masuk
+offline,marshal 25 ds,MARSHAL 25 DS,70,70,nama,MARSHAL25,masuk
+offline,marshal25,MARSHAL25,5,5,kode,MARSHAL25,masuk
+offline,martrex500,MARTREX500,13,13,kode,MARTREX500,masuk
+offline,mashal 25 ds,MASHAL 25 DS,1,1,mapping tersimpan -> nama,MARSHAL25,masuk
+offline,matador 25,Matador 25,12,12,nama terpotong,MTDR,masuk
+offline,matador 25 ec,MATADOR 25 EC,53,53,nama,MTDR,masuk
+offline,matador 5 ec,Matador 5 EC,1,1,mapping tersimpan -> nama,MTDR,masuk
+offline,matdaor 25 ec,Matdaor 25 EC,1,1,mapping tersimpan -> nama,MTDR,masuk
+offline,maxigro b,Maxigro B,1,1,mapping tersimpan -> nama,MAXXIGROB500,masuk
+offline,maxixgro d,Maxixgro D,1,1,mapping tersimpan -> nama,MAXXIGROD500,masuk
+offline,maxxfosate 490,Maxxfosate 490,18,18,nama terpotong,MAXXFOSATE250,masuk
+offline,maxxfosate 490 sl,maxxfosate 490 sl,103,103,nama,MAXXFOSATE250,masuk
+offline,maxxfosate 940 sl,MAXXFOSATE 940 SL,2,2,mapping tersimpan -> nama,MAXXFOSATE250,masuk
+offline,maxxfosate250,MAXXFOSATE250,16,16,kode,MAXXFOSATE250,masuk
+offline,maxxfosate490 sl,Maxxfosate490 SL,1,1,mapping tersimpan -> nama,MAXXFOSATE250,masuk
+offline,maxxgro b,Maxxgro B,1,1,mapping tersimpan -> nama,MAXXIGROB500,masuk
+offline,maxxigo b,MAXXIGO B,1,1,mapping tersimpan -> nama,MAXXIGROB500,masuk
+offline,maxxigr ob,Maxxigr oB,1,0,tidak dikenal,,ditolak
+offline,maxxigro b,Maxxigro B,265,265,nama,MAXXIGROB500,masuk
+offline,maxxigro d,MAXXIGRO D,153,153,nama,MAXXIGROD500,masuk
+offline,maxxigrob500,MAXXIGROB500,27,27,kode,MAXXIGROB500,masuk
+offline,maxxigrod050,MAXXIGROD050,1,1,mapping tersimpan -> kode,MAXXIGROD500,masuk
+offline,maxxigrod500,MAXXIGROD500,26,26,kode,MAXXIGROD500,masuk
+offline,maxxirgo b,MAXXIRGO B,1,1,mapping tersimpan -> nama,MAXXIGROB500,masuk
+offline,mazate 82,Mazate 82,1,1,mapping tersimpan -> nama,MANZATE500,masuk
+offline,mdtr,MDTR,1,1,mapping tersimpan -> kode,MTDR,masuk
+offline,meakrmap,meakrmap,1,1,mapping tersimpan -> nama,MEKARMAP1,masuk
+offline,meatzeb 80 wp,Meatzeb 80 WP,1,1,mapping tersimpan -> nama,METAZEB1,masuk
+offline,megazeb 80,Megazeb 80,1,1,nama terpotong,MEGAZEB,masuk
+offline,megazeb 80 wp,Megazeb 80 WP,2,2,nama,MEGAZEB,masuk
+offline,mekamrap,MEKAMRAP,1,1,mapping tersimpan -> nama,MEKARMAP1,masuk
+offline,mekamrap1,MEKAMRAP1,1,1,mapping tersimpan -> kode,MEKARMAP1,masuk
+offline,mekarap1,MEKARAP1,1,1,mapping tersimpan -> kode,MEKARMAP1,masuk
+offline,mekarmap,MekarMAP,187,187,nama,MEKARMAP1,masuk
+offline,mekarmap1,MEKARMAP1,30,30,kode,MEKARMAP1,masuk
+offline,mekramap,MekraMAP,3,3,mapping tersimpan -> nama,MEKARMAP1,masuk
+offline,mesulindo plus,Mesulindo Plus,1,1,mapping tersimpan -> nama,MTSLNDO,masuk
+offline,metazb 80 wp,Metazb 80 WP,1,0,tidak dikenal,,ditolak
+offline,metaze 80 wp,METAZE 80 WP,3,0,tidak dikenal,,ditolak
+offline,metaze b80,Metaze b80,1,0,tidak dikenal,,ditolak
+offline,metaze b80 wp,METAZE B80 WP,1,0,tidak dikenal,,ditolak
+offline,metazeb 0 wp,Metazeb 0 WP,1,0,tidak dikenal,,ditolak
+offline,metazeb 8 0wp,Metazeb 8 0WP,2,0,tidak dikenal,,ditolak
+offline,metazeb 8 wp,Metazeb 8 WP,1,0,tidak dikenal,,ditolak
+offline,metazeb 80,Metazeb 80,106,106,nama terpotong,METAZEB1,masuk
+offline,metazeb 80 wp,metazeb 80 wp,363,363,nama,METAZEB1,masuk
+offline,metazeb 80wp,Metazeb 80WP,1,0,tidak dikenal,,ditolak
+offline,metazeb1,METAZEB1,61,61,kode,METAZEB1,masuk
+offline,metsulindo plu 80wp,metsulindo plu 80wp,1,1,mapping tersimpan -> nama,MTSLNDO,masuk
+offline,metsulindo plus,Metsulindo Plus,8,8,nama terpotong,MTSLNDO,masuk
+offline,metsulindo plus 80wp,METSULINDO PLUS 80WP,37,37,nama,MTSLNDO,masuk
+offline,metzeb 80 wp,Metzeb 80 WP,1,0,tidak dikenal,,ditolak
+offline,mgsulfate,MGSULFATE,25,25,kode,MGSULFATE,masuk
+offline,micpinta 50 wp,MICPINTA 50 WP,1,1,mapping tersimpan -> nama,MIPCINTA100,masuk
+offline,mipcinat 50 wp,Mipcinat 50 WP,1,1,mapping tersimpan -> nama,MIPCINTA100,masuk
+offline,mipcinta 0 wp,Mipcinta 0 WP,1,1,mapping tersimpan -> nama,MIPCINTA100,masuk
+offline,mipcinta 05 wp,Mipcinta 05 WP,1,1,mapping tersimpan -> nama,MIPCINTA100,masuk
+offline,mipcinta 5 wp,mipcinta 5 wp,1,1,mapping tersimpan -> nama,MIPCINTA100,masuk
+offline,mipcinta 50,Mipcinta 50,141,141,nama terpotong,MIPCINTA100,masuk
+offline,mipcinta 50 wp,Mipcinta 50 WP,462,462,nama,MIPCINTA100,masuk
+offline,mipcinta100,MIPCINTA100,100,100,kode,MIPCINTA100,masuk
+offline,mipcinta50,Mipcinta50,1,1,mapping tersimpan -> nama,MIPCINTA100,masuk
+offline,mipcinta50 wp,Mipcinta50 WP,1,1,mapping tersimpan -> nama,MIPCINTA100,masuk
+offline,mipcnita 50,Mipcnita 50,1,1,mapping tersimpan -> nama,MIPCINTA100,masuk
+offline,misty hand,Misty Hand,3,3,nama terpotong,MST 2L,masuk
+offline,misty hand spraeyr,Misty Hand Spraeyr,1,1,mapping tersimpan -> nama,MST 2L,masuk
+offline,misty hand sprayer,Misty Hand Sprayer,12,12,nama,MST 2L,masuk
+offline,mk pak,MK Pak,2,0,tidak dikenal,,ditolak
+offline,mk pak tani,MK PAK TANI,1,0,tidak dikenal,,ditolak
+offline,mk ppak,MK PPak,1,0,tidak dikenal,,ditolak
+offline,mk ppak tani,MK PPAK TANI,4,4,mapping tersimpan -> nama,MKP1,masuk
+offline,mkp ak,MKP ak,1,0,tidak dikenal,,ditolak
+offline,mkp ak tani,MKP ak Tani,1,1,mapping tersimpan -> nama,MKP1,masuk
+offline,mkp apk,MKP aPk,1,0,tidak dikenal,,ditolak
+offline,mkp apk tani,MKP aPk Tani,2,2,mapping tersimpan -> nama,MKP1,masuk
+offline,mkp pa ktani,MKP Pa kTani,3,3,mapping tersimpan -> nama,MKP1,masuk
+offline,mkp pak,MKP Pak,302,302,nama terpotong,MKP1,masuk
+offline,mkp pak atni,MKP PAK ATNI,3,3,mapping tersimpan -> nama,MKP1,masuk
+offline,mkp pak tani,MKP PAK TANI,1097,1097,nama,MKP1,masuk
+offline,mkp pak tnai,MKP Pak Tnai,3,3,mapping tersimpan -> nama,MKP1,masuk
+offline,mkp pak tni,MKP Pak Tni,2,2,mapping tersimpan -> nama,MKP1,masuk
+offline,mkp paktani,MKP PAKTANI,2,2,mapping tersimpan -> nama,MKP1,masuk
+offline,mkp pk tani,MKP PK TANI,2,2,mapping tersimpan -> nama,MKP1,masuk
+offline,mkp pka tani,mkp pka tani,2,2,mapping tersimpan -> nama,MKP1,masuk
+offline,mkp1,MKP1,200,200,kode,MKP1,masuk
+offline,mkpp ak,MKPP ak,2,0,tidak dikenal,,ditolak
+offline,mkpp ak tani,MKPP ak Tani,3,3,mapping tersimpan -> nama,MKP1,masuk
+offline,mlase,MLASE,2,2,mapping tersimpan -> kode,MOLASE,masuk
+offline,molase,Molase,203,203,kode,MOLASE,masuk
+offline,molsae,Molsae,2,2,mapping tersimpan -> kode,MOLASE,masuk
+offline,mp pak tani,MP Pak Tani,2,0,tidak dikenal,,ditolak
+offline,mp1,MP1,1,0,tidak dikenal,,ditolak
+offline,mpcinta 50,Mpcinta 50,1,1,mapping tersimpan -> nama,MIPCINTA100,masuk
+offline,mpk pak,MPK Pak,1,0,tidak dikenal,,ditolak
+offline,mpk pak tani,MPK Pak Tani,4,0,tidak dikenal,,ditolak
+offline,mpk1,MPK1,2,2,mapping tersimpan -> kode,MKP1,masuk
+offline,msulfate,MSULFATE,1,1,mapping tersimpan -> kode,MGSULFATE,masuk
+offline,mtdr,MTDR,8,8,kode,MTDR,masuk
+offline,mteazeb 80,Mteazeb 80,1,0,tidak dikenal,,ditolak
+offline,mteazeb 80 wp,Mteazeb 80 WP,2,2,mapping tersimpan -> nama,METAZEB1,masuk
+offline,mts 2l,MTS 2L,1,1,mapping tersimpan -> kode,MST 2L,masuk
+offline,mtslndo,MTSLNDO,3,3,kode,MTSLNDO,masuk
+offline,mxaxigro b,Mxaxigro B,1,1,mapping tersimpan -> nama,MAXXIGROB500,masuk
+offline,naivo 75,Naivo 75,1,1,mapping tersimpan -> nama,NTVK,masuk
+offline,natio 75 wg,Natio 75 WG,1,1,mapping tersimpan -> nama,NTVK,masuk
+offline,natiov 75 wg,natiov 75 wg,1,1,mapping tersimpan -> nama,NTVK,masuk
+offline,nativo 7 5wg,NATIVO 7 5WG,1,1,mapping tersimpan -> nama,NTVK,masuk
+offline,nativo 75,Nativo 75,105,105,nama terpotong,NTVK,masuk
+offline,nativo 75 wg,Nativo 75 WG,440,440,nama,NTVK,masuk
+offline,nativo 75w g,Nativo 75W G,1,1,mapping tersimpan -> nama,NTVK,masuk
+offline,nativo 75wg,Nativo 75WG,1,1,mapping tersimpan -> nama,NTVK,masuk
+offline,ndx,NDX,1,1,mapping tersimpan -> kode,NRDX,masuk
+offline,nk cap,NK Cap,1,0,tidak dikenal,,ditolak
+offline,nkm1,NKM1,1,1,mapping tersimpan -> kode,NPKM1,masuk
+offline,nkp cap,NKP Cap,1,0,tidak dikenal,,ditolak
+offline,nkpm1,NKPM1,1,1,mapping tersimpan -> kode,NPKM1,masuk
+offline,nkptwn1,NKPTWN1,1,1,mapping tersimpan -> kode,NPKTWN1,masuk
+offline,nordox 56,Nordox 56,29,29,nama terpotong,NRDX,masuk
+offline,nordox 56 wp,nordox 56 wp,136,136,nama,NRDX,masuk
+offline,nordox 56wp,Nordox 56WP,1,1,mapping tersimpan -> nama,NRDX,masuk
+offline,nordox5 6 wp,Nordox5 6 WP,1,1,mapping tersimpan -> nama,NRDX,masuk
+offline,noxone 276 sl,noxone 276 sl,5,5,nama,NOXONE1L,masuk
+offline,np cap tawon,np cap tawon,1,1,mapping tersimpan -> nama,NPKTWN1,masuk
+offline,np kcap,NP KCap,1,0,tidak dikenal,,ditolak
+offline,np kpak tani,NP KPak Tani,2,2,mapping tersimpan -> nama,NPKPT,masuk
+offline,npk acp tawon,NPK aCp Tawon,1,1,mapping tersimpan -> nama,NPKTWN1,masuk
+offline,npk among,NPK Among,23,23,nama terpotong,NPKAMONG5,masuk
+offline,npk among tani,NPK Among Tani,69,69,nama,NPKAMONG5,masuk
+offline,npk ca ptawon,NPK CA PTAWON,1,1,mapping tersimpan -> nama,NPKTWN1,masuk
+offline,npk cap,NPK Cap,75,75,nama terpotong,NPKTWN1,masuk
+offline,npk cap tawon,NPK Cap Tawon,238,238,nama,NPKTWN1,masuk
+offline,npk capt awon,NPK CapT awon,1,1,mapping tersimpan -> nama,NPKTWN1,masuk
+offline,npk cpa tawon,NPK Cpa Tawon,1,1,mapping tersimpan -> nama,NPKTWN1,masuk
+offline,npk muitara,NPK Muitara,1,1,mapping tersimpan -> nama,NPKM1,masuk
+offline,npk mutaira,NPK MUTAIRA,1,1,mapping tersimpan -> nama,NPKM1,masuk
+offline,npk mutara,NPK Mutara,1,1,mapping tersimpan -> nama,NPKM1,masuk
+offline,npk mutiara,NPK Mutiara,538,538,nama,NPKM1,masuk
+offline,npk mutiara grower,npk mutiara grower,12,12,nama,NPKMGRW,masuk
+offline,npk mutiraa,NPK Mutiraa,1,1,mapping tersimpan -> nama,NPKM1,masuk
+offline,npk pa ktani,npk pa ktani,1,1,mapping tersimpan -> nama,NPKPT,masuk
+offline,npk pak,NPK Pak,67,67,nama terpotong,NPKPT,masuk
+offline,npk pak atni,NPK PAK ATNI,1,1,mapping tersimpan -> nama,NPKPT,masuk
+offline,npk pak tani,NPK Pak Tani,261,261,nama,NPKPT,masuk
+offline,npk utiara,NPK utiara,1,1,mapping tersimpan -> nama,NPKM1,masuk
+offline,npk yaramila,NPK YaraMila,73,73,nama,NPKYRML,masuk
+offline,npkamong5,NPKAMONG5,11,11,kode,NPKAMONG5,masuk
+offline,npkc ap tawon,NPKC ap Tawon,1,1,mapping tersimpan -> nama,NPKTWN1,masuk
+offline,npkcap tawon,NPKCap Tawon,1,1,mapping tersimpan -> nama,NPKTWN1,masuk
+offline,npkm utiara,NPKM utiara,2,2,mapping tersimpan -> nama,NPKM1,masuk
+offline,npkm1,NPKM1,82,82,kode,NPKM1,masuk
+offline,npkmgrw,NPKMGRW,3,3,kode,NPKMGRW,masuk
+offline,npkmutiara,npkmutiara,1,1,mapping tersimpan -> nama,NPKM1,masuk
+offline,npkp ak tani,NPKP ak Tani,1,1,mapping tersimpan -> nama,NPKPT,masuk
+offline,npkpak tani,NPKPak Tani,1,1,mapping tersimpan -> nama,NPKPT,masuk
+offline,npkpt,NPKPT,32,32,kode,NPKPT,masuk
+offline,npktwn1,NPKTWN1,32,32,kode,NPKTWN1,masuk
+offline,npkwn1,NPKWN1,1,1,mapping tersimpan -> kode,NPKTWN1,masuk
+offline,npkyrml,NPKYRML,11,11,kode,NPKYRML,masuk
+offline,nptkwn1,NPTKWN1,1,1,mapping tersimpan -> kode,NPKTWN1,masuk
+offline,nrdx,NRDX,21,21,kode,NRDX,masuk
+offline,ntvk,NTVK,66,66,kode,NTVK,masuk
+offline,nugrass,NUGRASS,11,11,kode,NUGRASS,masuk
+offline,nugrass 6 9ec,Nugrass 6 9EC,1,1,mapping tersimpan -> nama,NUGRASS,masuk
+offline,nugrass 69,Nugrass 69,15,15,nama terpotong,NUGRASS,masuk
+offline,nugrass 69 ec,NUGRASS 69 EC,69,69,nama,NUGRASS,masuk
+offline,nvk,NVK,2,2,mapping tersimpan -> kode,NTVK,masuk
+offline,nvtk,NVTK,1,1,mapping tersimpan -> kode,NTVK,masuk
+offline,paket pembuahan,Paket Pembuahan,5,5,nama,PAKETBUAH250,masuk
+offline,paket pertubuhan,Paket Pertubuhan,1,1,mapping tersimpan -> nama,PAKETTUMBUH250,masuk
+offline,paket pertumbuhan,Paket Pertumbuhan,92,92,nama,PAKETTUMBUH250,masuk
+offline,paket perumbuhan,Paket Perumbuhan,1,0,tidak dikenal,,ditolak
+offline,pakettumbuh250,PAKETTUMBUH250,14,14,kode,PAKETTUMBUH250,masuk
+offline,pegasus 500,Pegasus 500,7,7,nama terpotong,PEGASUS80,masuk
+offline,pegasus 500 sc,PEGASUS 500 SC,19,19,nama,PEGASUS80,masuk
+offline,pegasus80,PEGASUS80,3,3,kode,PEGASUS80,masuk
+offline,pegauss 500 sc,Pegauss 500 SC,1,1,mapping tersimpan -> nama,PEGASUS80,masuk
+offline,"perokum 0,005","Perokum 0,005",1,1,mapping tersimpan -> nama,PETROKUM100,masuk
+offline,"petorkum 0,005","Petorkum 0,005",1,1,mapping tersimpan -> nama,PETROKUM100,masuk
+offline,"petrkum 0,005 bb","Petrkum 0,005 BB",1,1,mapping tersimpan -> nama,PETROKUM100,masuk
+offline,petrogeo l800l,Petrogeo l800L,1,1,mapping tersimpan -> nama,PTRGNL,masuk
+offline,petrogeol 800l,petrogeol 800l,119,119,nama,PTRGNL,masuk
+offline,"petrokmu 0,005 bb","PETROKMU 0,005 BB",2,2,mapping tersimpan -> nama,PETROKUM100,masuk
+offline,"petroku 0,005 bb","PETROKU 0,005 BB",1,1,mapping tersimpan -> nama,PETROKUM100,masuk
+offline,"petrokum ,0005 bb","PETROKUM ,0005 BB",1,1,mapping tersimpan -> nama,PETROKUM100,masuk
+offline,"petrokum 0,00 bb","PETROKUM 0,00 BB",1,1,mapping tersimpan -> nama,PETROKUM100,masuk
+offline,"petrokum 0,005","Petrokum 0,005",127,127,nama terpotong,PETROKUM100,masuk
+offline,"petrokum 0,005 bb","petrokum 0,005 bb",471,471,nama,PETROKUM100,masuk
+offline,"petrokum 00,05 bb","PETROKUM 00,05 BB",1,1,mapping tersimpan -> nama,PETROKUM100,masuk
+offline,"petrokum0 ,005 bb","PETROKUM0 ,005 BB",1,1,mapping tersimpan -> nama,PETROKUM100,masuk
+offline,petrokum100,PETROKUM100,84,84,kode,PETROKUM100,masuk
+offline,"petroukm 0,005","Petroukm 0,005",1,1,mapping tersimpan -> nama,PETROKUM100,masuk
+offline,petroum100,PETROUM100,2,2,mapping tersimpan -> kode,PETROKUM100,masuk
+offline,plenm 50 wg,plenm 50 wg,1,1,mapping tersimpan -> nama,PLENUM25,masuk
+offline,plenu 50 wg,PLENU 50 WG,1,1,mapping tersimpan -> nama,PLENUM25,masuk
+offline,plenu m50 wg,PLENU M50 WG,1,1,mapping tersimpan -> nama,PLENUM25,masuk
+offline,plenum 50,Plenum 50,44,44,nama terpotong,PLENUM25,masuk
+offline,plenum 50 wg,Plenum 50 WG,126,126,nama,PLENUM25,masuk
+offline,plenum 50wg,Plenum 50WG,1,1,mapping tersimpan -> nama,PLENUM25,masuk
+offline,plenum25,PLENUM25,22,22,kode,PLENUM25,masuk
+offline,plenum5 0,Plenum5 0,1,1,mapping tersimpan -> nama,PLENUM25,masuk
+offline,plnum 50 wg,plnum 50 wg,1,1,mapping tersimpan -> nama,PLENUM25,masuk
+offline,plybag tanaman,Plybag Tanaman,1,0,tidak dikenal,,ditolak
+offline,plybg15,PLYBG15,11,11,kode,PLYBG15,masuk
+offline,plybg20,PLYBG20,2,2,kode,PLYBG20,masuk
+offline,plybg35,PLYBG35,59,59,kode,PLYBG35,masuk
+offline,plybg40,PLYBG40,3,3,kode,PLYBG40,masuk
+offline,plybg50,PLYBG50,19,19,kode,PLYBG50,masuk
+offline,pn ak,PN ak,1,0,tidak dikenal,,ditolak
+offline,pn pak,PN Pak,67,67,nama terpotong ambigu + harga,"KNOPTH1, KNOPTH2",masuk
+offline,pn pak tani (kno3 puih kristal),PN Pak Tani (KNO3 puih kristal),1,0,tidak dikenal,,ditolak
+offline,pn pak tani (kno3 putih kirstal),PN PAK TANI (KNO3 PUTIH KIRSTAL),1,1,mapping tersimpan -> nama,KNOPTH1,masuk
+offline,pn pak tani (kno3 putih kristal),pn pak tani (kno3 putih kristal),132,132,nama,KNOPTH1,masuk
+offline,pn pak tani (kno3 putih prill),PN Pak Tani (KNO3 putih prill),103,103,nama,KNOPTH2,masuk
+offline,pn pak tani (kno3 putih rpill),PN Pak Tani (KNO3 putih rpill),1,1,mapping tersimpan -> nama,KNOPTH2,masuk
+offline,pn pak tani (kno3 putihk ristal),pn pak tani (kno3 putihk ristal),1,1,mapping tersimpan -> nama,KNOPTH1,masuk
+offline,pn pak tani (ko3 putih prill),pn pak tani (ko3 putih prill),1,0,tidak dikenal,,ditolak
+offline,pn pk tani (kno3 putih kristal),pn pk tani (kno3 putih kristal),1,0,tidak dikenal,,ditolak
+offline,pnp ak,PNP ak,1,0,tidak dikenal,,ditolak
+offline,pnp ak tani (kno3 putih kristal),PNP AK TANI (KNO3 PUTIH KRISTAL),1,1,mapping tersimpan -> nama,KNOPTH1,masuk
+offline,poc mira flora,POC MIRA FLORA,1,1,mapping tersimpan -> nama,POCMF1L,masuk
+offline,poc mitra,POC Mitra,6,6,nama terpotong,POCMF1L,masuk
+offline,poc mitra flora,POC Mitra Flora,19,19,nama,POCMF1L,masuk
+offline,pocmf1l,POCMF1L,2,2,kode,POCMF1L,masuk
+offline,polbyag tanaman,Polbyag Tanaman,1,0,tidak dikenal,,ditolak
+offline,polbyag tanaman 35x35,Polbyag Tanaman 35x35,1,1,mapping tersimpan -> nama,PLYBG35,masuk
+offline,polybag atnaman 35x35,POLYBAG ATNAMAN 35X35,1,1,mapping tersimpan -> nama,PLYBG35,masuk
+offline,polybag tanaamn,Polybag Tanaamn,1,0,tidak dikenal,,ditolak
+offline,polybag tanaamn 35x35,polybag tanaamn 35x35,1,1,mapping tersimpan -> nama,PLYBG35,masuk
+offline,polybag tanama n50x50,POLYBAG TANAMA N50X50,1,1,mapping tersimpan -> nama,PLYBG50,masuk
+offline,polybag tanaman,Polybag Tanaman,186,4,nama terpotong ambigu,PLYBG15,sebagian ditolak
+offline,polybag tanaman 151x5,POLYBAG TANAMAN 151X5,1,1,mapping tersimpan -> nama,PLYBG15,masuk
+offline,polybag tanaman 15x15,POLYBAG TANAMAN 15X15,86,86,nama,PLYBG15,masuk
+offline,polybag tanaman 20x20,Polybag Tanaman 20x20,49,49,nama,PLYBG20,masuk
+offline,polybag tanaman 25x25,Polybag Tanaman 25x25,2,2,nama,PLYBG25,masuk
+offline,polybag tanaman 30x30,polybag tanaman 30x30,2,2,nama,PLYBG30,masuk
+offline,polybag tanaman 35x35,Polybag Tanaman 35x35,356,356,nama,PLYBG35,masuk
+offline,polybag tanaman 40x40,Polybag Tanaman 40x40,10,10,nama,PLYBG40,masuk
+offline,polybag tanaman 45x45,Polybag Tanaman 45x45,4,4,nama,PLYBG45,masuk
+offline,polybag tanaman 50x50,Polybag Tanaman 50x50,136,136,nama,PLYBG50,masuk
+offline,polybag tanamna 35x35,Polybag Tanamna 35x35,1,1,mapping tersimpan -> nama,PLYBG35,masuk
+offline,polybag tanmaan,Polybag Tanmaan,1,0,tidak dikenal,,ditolak
+offline,polybag tanmaan 15x15,Polybag Tanmaan 15x15,1,1,mapping tersimpan -> nama,PLYBG15,masuk
+offline,polybga tanaman,Polybga Tanaman,1,0,tidak dikenal,,ditolak
+offline,polybga tanaman 35x35,polybga tanaman 35x35,1,1,mapping tersimpan -> nama,PLYBG35,masuk
+offline,ppuk amazing,Ppuk Amazing,1,0,tidak dikenal,,ditolak
+offline,ppuk amazing grow pertumbuhan,PPUK AMAZING GROW PERTUMBUHAN,1,0,tidak dikenal,,ditolak
+offline,preavthon 50 sc,Preavthon 50 SC,1,1,mapping tersimpan -> nama,PREVATHON100,masuk
+offline,prevathn 50,Prevathn 50,1,1,mapping tersimpan -> nama,PREVATHON100,masuk
+offline,prevathno 50,Prevathno 50,1,1,mapping tersimpan -> nama,PREVATHON100,masuk
+offline,prevathon 50,Prevathon 50,12,12,nama terpotong,PREVATHON100,masuk
+offline,prevathon 50 sc,Prevathon 50 SC,45,45,nama,PREVATHON100,masuk
+offline,prevathon100,PREVATHON100,6,6,kode,PREVATHON100,masuk
+offline,"pterokum 0,005 bb","Pterokum 0,005 BB",2,2,mapping tersimpan -> nama,PETROKUM100,masuk
+offline,pterokum100,PTEROKUM100,1,1,mapping tersimpan -> kode,PETROKUM100,masuk
+offline,ptrgnl,PTRGNL,15,15,kode,PTRGNL,masuk
+offline,"ptrokum 0,005 bb","Ptrokum 0,005 BB",1,1,mapping tersimpan -> nama,PETROKUM100,masuk
+offline,pupku amazing,Pupku Amazing,1,0,tidak dikenal,,ditolak
+offline,pupku amazing grow pertumbuhan,Pupku Amazing Grow Pertumbuhan,1,1,mapping tersimpan -> nama,AGT,masuk
+offline,pupuk aamzing grow pertumbuhan,Pupuk Aamzing Grow Pertumbuhan,1,1,mapping tersimpan -> nama,AGT,masuk
+offline,pupuk amazing,Pupuk Amazing,148,0,nama terpotong ambigu,,ditolak
+offline,pupuk amazing gro pembuahan,Pupuk Amazing Gro Pembuahan,1,0,tidak dikenal,,ditolak
+offline,pupuk amazing grow pembuahan,pupuk amazing grow pembuahan,150,150,nama,AGB,masuk
+offline,pupuk amazing grow pertmubuhan,Pupuk Amazing Grow Pertmubuhan,1,1,mapping tersimpan -> nama,AGT,masuk
+offline,pupuk amazing grow pertumbuhan,pupuk amazing grow pertumbuhan,376,376,nama,AGT,masuk
+offline,pupuk amazing grow pertumubhan,PUPUK AMAZING GROW PERTUMUBHAN,1,1,mapping tersimpan -> nama,AGT,masuk
+offline,pupuk amazing rgow pertumbuhan,pupuk amazing rgow pertumbuhan,1,1,mapping tersimpan -> nama,AGT,masuk
+offline,pupuk amazing row pertumbuhan,PUPUK AMAZING ROW PERTUMBUHAN,1,0,tidak dikenal,,ditolak
+offline,pupuk amazng grow pembuahan,Pupuk Amazng Grow Pembuahan,1,0,tidak dikenal,,ditolak
+offline,pupuk amazng grow pertumbuhan,Pupuk Amazng Grow Pertumbuhan,1,0,tidak dikenal,,ditolak
+offline,pupuk amzaing grow pertumbuhan,Pupuk Amzaing Grow Pertumbuhan,1,1,mapping tersimpan -> nama,AGT,masuk
+offline,pupuk amzing grow pembuahan,Pupuk Amzing Grow Pembuahan,1,0,tidak dikenal,,ditolak
+offline,pupukamazing,PupukAmazing,1,0,tidak dikenal,,ditolak
+offline,puupk amazing grow pembuahan,puupk amazing grow pembuahan,1,1,mapping tersimpan -> nama,AGB,masuk
+offline,radoc 500,Radoc 500,1,1,nama terpotong,RADOCKCL,masuk
+offline,radoc 500 ec,Radoc 500 EC,1,1,nama,RADOCKCL,masuk
+offline,rdpb,RDPB,112,112,kode,RDPB,masuk
+offline,rdpk,RDPK,14,14,kode,RDPK,masuk
+offline,rdstr100,RDSTR100,2,2,kode,RDSTR100,masuk
+offline,regent 05 ec,regent 05 ec,1,1,mapping tersimpan -> nama + harga,RGNT,masuk
+offline,regent 5 0ec,Regent 5 0EC,1,1,mapping tersimpan -> nama + harga,RGNTB,masuk
+offline,regent 50,Regent 50,97,97,nama terpotong + harga,"RGNT, RGNTB",masuk
+offline,regent 50 ec,REGENT 50 EC,288,288,nama + harga,"RGNT, RGNTB",masuk
+offline,regent 50e c,regent 50e c,4,4,mapping tersimpan -> nama + harga,RGNTB,masuk
+offline,regent5 0 ec,regent5 0 ec,1,1,mapping tersimpan -> nama + harga,RGNTB,masuk
+offline,regetn 50,Regetn 50,1,0,tidak dikenal,,ditolak
+offline,rgeent 50,Rgeent 50,1,0,tidak dikenal,,ditolak
+offline,rgnt,RGNT,11,11,kode,RGNT,masuk
+offline,rgntb,RGNTB,41,41,kode,RGNTB,masuk
+offline,riovi l50 sc,Riovi l50 SC,1,1,mapping tersimpan -> nama,RIOVIL100,masuk
+offline,riovil 50,Riovil 50,26,26,nama terpotong,RIOVIL100,masuk
+offline,riovil 50 sc,Riovil 50 SC,117,117,nama,RIOVIL100,masuk
+offline,riovil 50s c,riovil 50s c,1,1,mapping tersimpan -> nama,RIOVIL100,masuk
+offline,riovil00,RIOVIL00,1,1,mapping tersimpan -> kode,RIOVIL100,masuk
+offline,riovil100,RIOVIL100,17,17,kode,RIOVIL100,masuk
+offline,riovil5 0 sc,Riovil5 0 SC,1,1,mapping tersimpan -> nama,RIOVIL100,masuk
+offline,riovil50,Riovil50,1,1,mapping tersimpan -> nama,RIOVIL100,masuk
+offline,rmpas 120 ew,Rmpas 120 EW,1,1,mapping tersimpan -> nama,RMPS100,masuk
+offline,rmps100,RMPS100,9,9,kode,RMPS100,masuk
+offline,rondup 486 sl,Rondup 486 SL,1,1,mapping tersimpan -> nama + harga,RDPB,masuk
+offline,ronudup 486 sl,ronudup 486 sl,3,3,mapping tersimpan -> nama + harga,RDPB,masuk
+offline,roundpu 486 sl,roundpu 486 sl,1,1,mapping tersimpan -> nama + harga,RDPB,masuk
+offline,roundu p486 sl,Roundu p486 SL,1,1,mapping tersimpan -> nama + harga,RDPB,masuk
+offline,roundup 468 sl,Roundup 468 SL,1,1,mapping tersimpan -> nama + harga,RDPB,masuk
+offline,roundup 48 6sl,Roundup 48 6SL,1,1,mapping tersimpan -> nama + harga,RDPB,masuk
+offline,roundup 48 sl,Roundup 48 SL,1,1,mapping tersimpan -> nama + harga,RDPB,masuk
+offline,roundup 486,Roundup 486,173,173,nama terpotong + harga,"RDPB, RDPK",masuk
+offline,roundup 486 sl,roundup 486 sl,662,661,nama + harga,"RDPB, RDPK",sebagian ditolak
+offline,roundup 486sl,Roundup 486SL,2,2,mapping tersimpan -> nama + harga,RDPB,masuk
+offline,roundup 846,Roundup 846,1,1,mapping tersimpan -> nama + harga,RDPB,masuk
+offline,roundup4 86 sl,Roundup4 86 SL,3,3,mapping tersimpan -> nama + harga,RDPB,masuk
+offline,roundup486 sl,Roundup486 SL,1,1,mapping tersimpan -> nama + harga,RDPB,masuk
+offline,rounudp 486,Rounudp 486,1,1,mapping tersimpan -> nama + harga,RDPB,masuk
+offline,rounup 486,Rounup 486,1,1,mapping tersimpan -> nama + harga,RDPB,masuk
+offline,rovil100,ROVIL100,1,1,mapping tersimpan -> kode,RIOVIL100,masuk
+offline,rudstar 250,Rudstar 250,1,1,nama terpotong,RDSTR100,masuk
+offline,rudstar 250 ec,Rudstar 250 EC,6,6,nama,RDSTR100,masuk
+offline,rudstra 250 ec,Rudstra 250 EC,1,1,mapping tersimpan -> nama,RDSTR100,masuk
+offline,rumpas 120,Rumpas 120,12,12,nama terpotong,RMPS100,masuk
+offline,rumpas 120 ew,RUMPAS 120 EW,56,56,nama,RMPS100,masuk
+offline,rumpsa 120,Rumpsa 120,1,1,mapping tersimpan -> nama,RMPS100,masuk
+offline,rumpsa 120 ew,RUMPSA 120 EW,1,1,mapping tersimpan -> nama,RMPS100,masuk
+offline,ruondup 486 sl,ruondup 486 sl,2,2,mapping tersimpan -> nama + harga,RDPB,masuk
+offline,samite 135,Samite 135,42,42,nama terpotong,SAMITE100,masuk
+offline,samite 135 ec,SAMITE 135 EC,157,157,nama,SAMITE100,masuk
+offline,samite 135e c,Samite 135E C,1,1,mapping tersimpan -> nama,SAMITE100,masuk
+offline,samite 15 ec,Samite 15 EC,1,1,mapping tersimpan -> nama,SAMITE100,masuk
+offline,samite 315 ec,samite 315 ec,1,1,mapping tersimpan -> nama,SAMITE100,masuk
+offline,samite1 35 ec,samite1 35 ec,1,1,mapping tersimpan -> nama,SAMITE100,masuk
+offline,samite100,SAMITE100,27,27,kode,SAMITE100,masuk
+offline,samte 135 ec,Samte 135 EC,1,1,mapping tersimpan -> nama,SAMITE100,masuk
+offline,samtie 135 ec,Samtie 135 EC,1,1,mapping tersimpan -> nama,SAMITE100,masuk
+offline,saporo 52,Saporo 52,1,1,mapping tersimpan -> nama,SAPPORO100,masuk
+offline,saporo 52 ec,Saporo 52 EC,2,2,mapping tersimpan -> nama,SAPPORO100,masuk
+offline,sappor o52 ec,Sappor o52 EC,1,1,mapping tersimpan -> nama,SAPPORO100,masuk
+offline,sapporo 25 ec,SAPPORO 25 EC,2,2,mapping tersimpan -> nama,SAPPORO100,masuk
+offline,sapporo 5 2ec,sapporo 5 2ec,2,2,mapping tersimpan -> nama,SAPPORO100,masuk
+offline,sapporo 52,Sapporo 52,124,124,nama terpotong,SAPPORO100,masuk
+offline,sapporo 52 ec,sapporo 52 ec,522,522,nama,SAPPORO100,masuk
+offline,sapporo100,SAPPORO100,90,90,kode,SAPPORO100,masuk
+offline,sapproo 52,Sapproo 52,1,1,mapping tersimpan -> nama,SAPPORO100,masuk
+offline,sarlon 665,Sarlon 665,1,1,mapping tersimpan -> nama,STARLON100,masuk
+offline,score 25 0ec,score 25 0ec,1,1,mapping tersimpan -> nama,SCR80,masuk
+offline,score 250,Score 250,15,15,nama terpotong,SCR80,masuk
+offline,score 250 ec,Score 250 EC,59,59,nama,SCR80,masuk
+offline,scr80,SCR80,12,12,kode,SCR80,masuk
+offline,sdmthrn,SDMTHRN,23,23,kode,SDMTHRN,masuk
+offline,se top 525 sl,Se Top 525 SL,1,1,mapping tersimpan -> nama,SEETOP1L,masuk
+offline,see top,See Top,6,6,nama terpotong,SEETOP1L,masuk
+offline,see top 525 sl,see top 525 sl,22,22,nama,SEETOP1L,masuk
+offline,seetop1l,SEETOP1L,1,1,kode,SEETOP1L,masuk
+offline,serendy 28 wp,SERENDY 28 WP,3,3,nama,SERENDY,masuk
+offline,sidafos 480,Sidafos 480,7,7,nama terpotong,SIDAFOS1L,masuk
+offline,sidafos 480 sl,sidafos 480 sl,46,46,nama,SIDAFOS1L,masuk
+offline,sidafos 840 sl,SIDAFOS 840 SL,1,1,mapping tersimpan -> nama,SIDAFOS1L,masuk
+offline,sidafos1l,SIDAFOS1L,3,3,kode,SIDAFOS1L,masuk
+offline,sidafso 480 sl,sidafso 480 sl,1,1,mapping tersimpan -> nama,SIDAFOS1L,masuk
+offline,sidamethrin 50,Sidamethrin 50,50,50,nama terpotong,SDMTHRN,masuk
+offline,sidamethrin 50 ec,sidamethrin 50 ec,130,130,nama,SDMTHRN,masuk
+offline,sidamethrin 50e c,SIDAMETHRIN 50E C,1,1,mapping tersimpan -> nama,SDMTHRN,masuk
+offline,sidatan 140 sl,Sidatan 140 SL,1,1,mapping tersimpan -> nama,SIDATAN400,masuk
+offline,sidatan 410,Sidatan 410,17,17,nama terpotong,SIDATAN400,masuk
+offline,sidatan 410 sl,Sidatan 410 SL,56,56,nama,SIDATAN400,masuk
+offline,sidatan400,SIDATAN400,6,6,kode,SIDATAN400,masuk
+offline,sidatna 410 sl,Sidatna 410 SL,1,1,mapping tersimpan -> nama,SIDATAN400,masuk
+offline,smaite 135,Smaite 135,1,1,mapping tersimpan -> nama,SAMITE100,masuk
+offline,sontan,SONTAN,1,1,mapping tersimpan -> kode,SPONTAN,masuk
+offline,sopntan 400 sl,Sopntan 400 SL,1,1,mapping tersimpan -> nama,SPONTAN,masuk
+offline,sperel 480 sl,SPEREL 480 SL,1,1,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,sponan king 400 sl,SPONAN KING 400 SL,1,1,mapping tersimpan -> nama,SPONTANKING,masuk
+offline,sponatn 400,Sponatn 400,1,1,mapping tersimpan -> nama,SPONTAN,masuk
+offline,sponatn 400 sl,Sponatn 400 SL,1,1,mapping tersimpan -> nama,SPONTAN,masuk
+offline,sponta n400,Sponta n400,1,1,mapping tersimpan -> nama,SPONTAN,masuk
+offline,sponta n400 sl,SPONTA N400 SL,1,1,mapping tersimpan -> nama,SPONTAN,masuk
+offline,spontan,SPONTAN,36,36,kode,SPONTAN,masuk
+offline,spontan 400,Spontan 400,55,55,nama terpotong,SPONTAN,masuk
+offline,spontan 400 sl,spontan 400 sl,228,228,nama,SPONTAN,masuk
+offline,spontan ikng 400 sl,Spontan iKng 400 SL,1,1,mapping tersimpan -> nama,SPONTANKING,masuk
+offline,spontan king,Spontan King,42,42,nama terpotong,SPONTANKING,masuk
+offline,spontan king 400 sl,spontan king 400 sl,89,89,nama,SPONTANKING,masuk
+offline,spontank ing 400 sl,SPONTANK ING 400 SL,1,1,mapping tersimpan -> nama,SPONTANKING,masuk
+offline,spontanking,SPONTANKING,16,16,kode,SPONTANKING,masuk
+offline,spotnan 400 sl,Spotnan 400 SL,1,1,mapping tersimpan -> nama,SPONTAN,masuk
+offline,spporo 52 ec,Spporo 52 EC,1,1,mapping tersimpan -> nama,SAPPORO100,masuk
+offline,spuerel 480,Spuerel 480,1,1,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,spuerel 480 sl,SPUEREL 480 SL,2,2,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,starban 585,Starban 585,18,18,nama terpotong,STRBN100,masuk
+offline,starban 585 ec,Starban 585 EC,77,77,nama,STRBN100,masuk
+offline,starlon 665,Starlon 665,11,11,nama terpotong,STARLON100,masuk
+offline,starlon 665 ec,STARLON 665 EC,35,35,nama,STARLON100,masuk
+offline,starlon 665ec,Starlon 665EC,1,1,mapping tersimpan -> nama,STARLON100,masuk
+offline,starlon100,STARLON100,2,2,kode,STARLON100,masuk
+offline,stbn100,STBN100,1,0,tidak dikenal,,ditolak
+offline,strbn100,STRBN100,16,16,kode,STRBN100,masuk
+offline,strlon 665,Strlon 665,1,1,mapping tersimpan -> nama,STARLON100,masuk
+offline,sueprel 480,Sueprel 480,1,1,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,sueprel 480 sl,Sueprel 480 SL,1,1,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,sum 50 ec,SUM 50 EC,1,1,mapping tersimpan -> nama,SUMO80,masuk
+offline,sumo 5 0ec,Sumo 5 0EC,1,1,mapping tersimpan -> nama,SUMO80,masuk
+offline,sumo 5 ec,sumo 5 ec,1,1,mapping tersimpan -> nama,SUMO80,masuk
+offline,sumo 50,Sumo 50,60,60,nama terpotong,SUMO80,masuk
+offline,sumo 50 ec,Sumo 50 EC,281,281,nama,SUMO80,masuk
+offline,sumo5 0 ec,SUMO5 0 EC,2,2,mapping tersimpan -> nama,SUMO80,masuk
+offline,sumo80,SUMO80,53,53,kode,SUMO80,masuk
+offline,suom80,SUOM80,1,1,mapping tersimpan -> kode,SUMO80,masuk
+offline,supeel 480,Supeel 480,1,1,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,supeel100,SUPEEL100,1,1,mapping tersimpan -> kode,SUPEREL100,masuk
+offline,supere 480,Supere 480,1,1,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,supere 480 sl,SUPERE 480 SL,2,2,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,supere l480,Supere l480,1,1,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,supere l480 sl,SUPERE L480 SL,1,1,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,supere1l00,SUPERE1L00,1,1,mapping tersimpan -> kode,SUPEREL100,masuk
+offline,superel 40 sl,Superel 40 SL,1,1,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,superel 408 sl,SUPEREL 408 SL,2,2,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,superel 48 0sl,Superel 48 0SL,1,1,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,superel 48 sl,Superel 48 SL,1,1,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,superel 480,Superel 480,327,327,nama terpotong,SUPEREL100,masuk
+offline,superel 480 sl,Superel 480 SL,1203,1203,nama,SUPEREL100,masuk
+offline,superel 480s l,superel 480s l,2,2,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,superel 480sl,Superel 480SL,1,1,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,superel 840 sl,SUPEREL 840 SL,5,5,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,superel010,SUPEREL010,1,1,mapping tersimpan -> kode,SUPEREL100,masuk
+offline,superel100,SUPEREL100,235,235,kode,SUPEREL100,masuk
+offline,superel4 80 sl,superel4 80 sl,1,1,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,superel480 sl,SUPEREL480 SL,1,1,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,superfos 550 ec,Superfos 550 EC,8,8,nama,SPRFS100,masuk
+offline,superl 480 sl,Superl 480 SL,1,1,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,superle 480 sl,Superle 480 SL,1,1,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,supreel 480,Supreel 480,1,1,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,supreel 480 sl,SUPREEL 480 SL,3,3,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,supreel100,SUPREEL100,1,1,mapping tersimpan -> kode,SUPEREL100,masuk
+offline,suprel 480 sl,SUPREL 480 SL,2,2,mapping tersimpan -> nama,SUPEREL100,masuk
+offline,suprel100,SUPREL100,1,1,mapping tersimpan -> kode,SUPEREL100,masuk
+offline,tamacron,TAMACRON,13,13,kode,TAMACRON,masuk
+offline,tamacron 500,Tamacron 500,5,5,nama terpotong,TAMACRON,masuk
+offline,tamacron 500 ec,Tamacron 500 EC,63,63,nama,TAMACRON,masuk
+offline,tamarcon 500,Tamarcon 500,1,1,mapping tersimpan -> nama,TAMACRON,masuk
+offline,ticho-bact,ticho-bact,1,1,mapping tersimpan -> nama,TRICHO500,masuk
+offline,tircho-bact,TIRCHO-BACT,1,1,mapping tersimpan -> nama,TRICHO500,masuk
+offline,tm a6,TM A6,1,0,tidak dikenal,,ditolak
+offline,tm400,TM400,1,1,mapping tersimpan -> kode,TMA400,masuk
+offline,tm4a00,TM4A00,1,1,mapping tersimpan -> kode,TMA400,masuk
+offline,tma 6,TMA 6,39,39,nama terpotong,TMA400,masuk
+offline,tma 6 865 sl,TMA 6 865 SL,115,115,nama,TMA400,masuk
+offline,tma 6 865s l,TMA 6 865S L,1,1,mapping tersimpan -> nama,TMA400,masuk
+offline,tma 6865 sl,tma  6865 sl,1,1,mapping tersimpan -> nama,TMA400,masuk
+offline,tma400,TMA400,21,21,kode,TMA400,masuk
+offline,tobos 200,Tobos 200,1,1,mapping tersimpan -> nama,TROBOS100,masuk
+offline,tobos 200 sl,Tobos 200 SL,2,2,mapping tersimpan -> nama,TROBOS100,masuk
+offline,topsi 500 ec,Topsi 500 EC,1,1,mapping tersimpan -> nama,TPSN,masuk
+offline,topsi n500 ec,Topsi n500 EC,1,1,mapping tersimpan -> nama,TPSN,masuk
+offline,topsin 00 ec,Topsin 00 EC,1,1,mapping tersimpan -> nama,TPSN,masuk
+offline,topsin 050 ec,topsin 050 ec,2,2,mapping tersimpan -> nama,TPSN,masuk
+offline,topsin 50 ec,TOPSIN 50 EC,1,1,mapping tersimpan -> nama,TPSN,masuk
+offline,topsin 500,Topsin 500,96,96,nama terpotong,TPSN,masuk
+offline,topsin 500 ec,TOPSIN 500 EC,346,346,nama,TPSN,masuk
+offline,topsin5 00 ec,Topsin5 00 EC,1,1,mapping tersimpan -> nama,TPSN,masuk
+offline,topsin500,Topsin500,1,1,mapping tersimpan -> nama,TPSN,masuk
+offline,torbos 200,Torbos 200,1,1,mapping tersimpan -> nama,TROBOS100,masuk
+offline,torbos 200 sl,Torbos 200 SL,1,1,mapping tersimpan -> nama,TROBOS100,masuk
+offline,torbos100,TORBOS100,2,2,mapping tersimpan -> kode,TROBOS100,masuk
+offline,tposin 500 ec,Tposin 500 EC,1,1,mapping tersimpan -> nama,TPSN,masuk
+offline,tpsn,TPSN,49,49,kode,TPSN,masuk
+offline,trboos 200,Trboos 200,1,1,mapping tersimpan -> nama,TROBOS100,masuk
+offline,trboos 200 sl,Trboos 200 SL,1,1,mapping tersimpan -> nama,TROBOS100,masuk
+offline,tricho-bact,TRICHO-BACT,343,343,nama,TRICHO500,masuk
+offline,tricho-bct,tricho-bct,1,1,mapping tersimpan -> nama,TRICHO500,masuk
+offline,tricho500,TRICHO500,49,49,kode,TRICHO500,masuk
+offline,tricoh500,TRICOH500,1,1,mapping tersimpan -> kode,TRICHO500,masuk
+offline,trobo 200 sl,trobo 200 sl,2,2,mapping tersimpan -> nama,TROBOS100,masuk
+offline,trobo s200 sl,trobo s200 sl,1,1,mapping tersimpan -> nama,TROBOS100,masuk
+offline,trobo1s00,TROBO1S00,1,1,mapping tersimpan -> kode,TROBOS100,masuk
+offline,trobos 00,Trobos 00,1,1,mapping tersimpan -> kode,TROBOS100,masuk
+offline,trobos 00 sl,Trobos 00 SL,2,2,mapping tersimpan -> nama,TROBOS100,masuk
+offline,trobos 020,Trobos 020,1,1,mapping tersimpan -> kode,TROBOS100,masuk
+offline,trobos 20 0sl,Trobos 20 0SL,2,2,mapping tersimpan -> nama,TROBOS100,masuk
+offline,trobos 20 sl,Trobos 20 SL,1,1,mapping tersimpan -> nama,TROBOS100,masuk
+offline,trobos 200,Trobos 200,430,430,nama terpotong,TROBOS100,masuk
+offline,trobos 200 sl,trobos 200 sl,1603,1603,nama,TROBOS100,masuk
+offline,trobos 200s l,Trobos 200S L,2,2,mapping tersimpan -> nama,TROBOS100,masuk
+offline,trobos 200sl,trobos 200sl,1,1,mapping tersimpan -> nama,TROBOS100,masuk
+offline,trobos100,TROBOS100,261,261,kode,TROBOS100,masuk
+offline,trobos2 00,Trobos2 00,2,2,mapping tersimpan -> nama,TROBOS100,masuk
+offline,trobos2 00 sl,trobos2 00 sl,2,2,mapping tersimpan -> nama,TROBOS100,masuk
+offline,trobos200 sl,Trobos200 SL,1,1,mapping tersimpan -> nama,TROBOS100,masuk
+offline,trobs 200 sl,Trobs 200 SL,2,2,mapping tersimpan -> nama,TROBOS100,masuk
+offline,trobs100,TROBS100,1,1,mapping tersimpan -> kode,TROBOS100,masuk
+offline,trobso 200 sl,trobso 200 sl,3,3,mapping tersimpan -> nama,TROBOS100,masuk
+offline,trobso100,TROBSO100,1,1,mapping tersimpan -> kode,TROBOS100,masuk
+offline,troobs 200,Troobs 200,1,1,mapping tersimpan -> nama,TROBOS100,masuk
+offline,troobs 200 sl,Troobs 200 SL,4,4,mapping tersimpan -> nama,TROBOS100,masuk
+offline,troos 200 sl,Troos 200 SL,3,3,mapping tersimpan -> nama,TROBOS100,masuk
+offline,tspn,TSPN,1,1,mapping tersimpan -> kode,TPSN,masuk
+offline,uera,UERA,2,2,mapping tersimpan -> kode,UREA,masuk
+offline,uera curah,Uera Curah,2,2,mapping tersimpan -> nama,UREA,masuk
+offline,ultradap pak,Ultradap Pak,16,16,nama terpotong,ULTRDP,masuk
+offline,ultradap pak tani,Ultradap Pak Tani,38,38,nama,ULTRDP,masuk
+offline,ultradap paktani,ULTRADAP PAKTANI,1,1,mapping tersimpan -> nama,ULTRDP,masuk
+offline,ultrdp,ULTRDP,8,8,kode,ULTRDP,masuk
+offline,urae curah,Urae Curah,4,4,mapping tersimpan -> nama,UREA,masuk
+offline,ure acurah,Ure aCurah,2,2,mapping tersimpan -> nama,UREA,masuk
+offline,ure curah,Ure Curah,2,2,mapping tersimpan -> nama,UREA,masuk
+offline,urea,UREA,138,138,kode,UREA,masuk
+offline,urea cruah,Urea Cruah,3,3,mapping tersimpan -> nama,UREA,masuk
+offline,urea cuah,urea cuah,2,2,mapping tersimpan -> nama,UREA,masuk
+offline,urea cuarh,Urea Cuarh,2,2,mapping tersimpan -> nama,UREA,masuk
+offline,urea curah,UREA CURAH,1052,1052,nama,UREA,masuk
+offline,urea ucrah,Urea uCrah,4,4,mapping tersimpan -> nama,UREA,masuk
+offline,ureac urah,UreaC urah,2,2,mapping tersimpan -> nama,UREA,masuk
+offline,vgr400,VGR400,1,1,mapping tersimpan -> kode,VLGR400,masuk
+offline,vlgr400,VLGR400,40,40,kode,VLGR400,masuk
+offline,vugar 865 sl,vugar 865 sl,1,1,mapping tersimpan -> nama,VLGR400,masuk
+offline,vulagr 865,Vulagr 865,1,1,mapping tersimpan -> nama,VLGR400,masuk
+offline,vulgar 865,Vulgar 865,52,52,nama terpotong,VLGR400,masuk
+offline,vulgar 865 sl,Vulgar 865 SL,195,195,nama,VLGR400,masuk
+offline,waux,WAUX,1,1,kode,WAUX,masuk
+offline,wauxin,Wauxin,21,21,nama,WAUX,masuk
+offline,widner 100,Widner 100,1,1,mapping tersimpan -> kode,WINDER100,masuk
+offline,widner 100 ec,widner 100 ec,1,1,mapping tersimpan -> nama,WINDER100,masuk
+offline,winde r100,Winde r100,1,1,mapping tersimpan -> kode,WINDER100,masuk
+offline,winde r100 ec,winde r100 ec,1,1,mapping tersimpan -> nama,WINDER100,masuk
+offline,winder 00 ec,WINDER 00 EC,1,1,mapping tersimpan -> nama,WINDER100,masuk
+offline,winder 10 ec,winder 10 ec,1,1,mapping tersimpan -> nama,WINDER100,masuk
+offline,winder 100,Winder 100,197,197,nama terpotong,WINDER100,masuk
+offline,winder 100 ec,winder 100 ec,726,726,nama,WINDER100,masuk
+offline,winder 100e c,WINDER 100E C,1,1,mapping tersimpan -> nama,WINDER100,masuk
+offline,winder010,WINDER010,1,1,mapping tersimpan -> kode,WINDER100,masuk
+offline,winder100,WINDER100,121,121,kode,WINDER100,masuk
+offline,winder100 ec,Winder100 EC,1,1,mapping tersimpan -> nama,WINDER100,masuk
+offline,windr 100,Windr 100,1,1,mapping tersimpan -> kode,WINDER100,masuk
+offline,windre 100,Windre 100,1,1,mapping tersimpan -> kode,WINDER100,masuk
+offline,windre 100 ec,windre 100 ec,1,1,mapping tersimpan -> nama,WINDER100,masuk
+offline,winedr 100,Winedr 100,2,2,mapping tersimpan -> kode,WINDER100,masuk
+offline,wnider 100 ec,wnider 100 ec,1,1,mapping tersimpan -> nama,WINDER100,masuk
+offline,yo ustick,yo ustick,1,1,mapping tersimpan -> nama,YOUSTICK500,masuk
+offline,you stcik,You Stcik,1,1,mapping tersimpan -> nama,YOUSTICK500,masuk
+offline,you stck,YOU STCK,1,1,mapping tersimpan -> nama,YOUSTICK500,masuk
+offline,you stick,You Stick,90,90,nama,YOUSTICK500,masuk
+offline,youstick500,YOUSTICK500,16,16,kode,YOUSTICK500,masuk
+offline,zinkko pupuk,Zinkko Pupuk,11,11,nama terpotong,ZNSO4,masuk
+offline,zinkko pupuk imkro,Zinkko Pupuk iMkro,1,1,mapping tersimpan -> nama,ZNSO4,masuk
+offline,zinkko pupuk mikro,ZINKKO PUPUK MIKRO,47,47,nama,ZNSO4,masuk
+offline,zinkok pupuk mikro,Zinkok Pupuk Mikro,1,1,mapping tersimpan -> nama,ZNSO4,masuk
+offline,znso4,ZNSO4,7,7,kode,ZNSO4,masuk
+online,abacel,ABACEL,28,28,kode,ABACEL,masuk
+online,agb,AGB,18,18,kode,AGB,masuk
+online,agcel250,AGCEL250,20,20,kode,AGCEL250,masuk
+online,agl,AGL,33,33,kode,AGL,masuk
+online,agt,AGT,52,52,kode,AGT,masuk
+online,alika 247 zc,Alika 247 ZC - Murah,1,1,nama (dari nama produk),ALIKA50,masuk
+online,alika50,ALIKA50,19,19,kode,ALIKA50,masuk
+online,amazing grow booster kelengkeng,Amazing Grow Booster Kelengkeng Asli Bergaransi,2,2,nama (dari nama produk),AGL,masuk
+online,ambtn500,AMBTN500,3,3,kode,AMBTN500,masuk
+online,aminonano,AMINONANO,5,5,kode,AMINONANO,masuk
+online,amnionano,AMNIONANO,1,1,mapping tersimpan -> nama,AMINONANO,masuk
+online,amstrtop50,AMSTRTOP50,4,4,kode,AMSTRTOP50,masuk
+online,antracol 70 wp,Antracol 70 WP Ready Stock,1,1,nama (dari nama produk) + harga,ANTRCL500,masuk
+online,antrcl,ANTRCL,15,15,kode,ANTRCL,masuk
+online,antrcl500,ANTRCL500,20,20,kode,ANTRCL500,masuk
+online,anwavin100,anwavin100,44,44,kode,ANWAVIN100,masuk
+online,asiaboron1,ASIABORON1,9,9,kode,ASIABORON1,masuk
+online,atnk,ATNK,11,11,kode,ATNK,masuk
+online,atnrcl,ATNRCL,2,2,mapping tersimpan -> kode,ANTRCL,masuk
+online,avidor 25 wp,Avidor 25 WP,3,3,nama (dari nama produk),AVIDOR100,masuk
+online,avidor100,AVIDOR100,98,98,kode,AVIDOR100,masuk
+online,avidr100,AVIDR100,1,1,mapping tersimpan -> kode,AVIDOR100,masuk
+online,b1 liquinox,B1 Liquinox - Murah,1,1,nama (dari nama produk),LIQ,masuk
+online,balistic 50 sc,Balistic 50 SC - Murah,4,4,nama (dari nama produk),BLSTC,masuk
+online,balistic 50sc,Balistic 50SC - Murah,1,1,mapping tersimpan -> nama (dari nama produk),BLSTC,masuk
+online,bblss,bblss,9,9,kode,BBLSS,masuk
+online,bbsls,BBSLS,1,1,mapping tersimpan -> kode,BBLSS,masuk
+online,bestar 200 sl,Bestar 200 SL - Murah,1,1,nama (dari nama produk),BESTAR1L,masuk
+online,bestar1l,BESTAR1L,4,4,kode,BESTAR1L,masuk
+online,bfs1l,BFS1L,34,34,kode,BFS1L,masuk
+online,binik100,BINIK100,1,1,mapping tersimpan -> kode,BIONIK100,masuk
+online,biocalsium1,BIOCALSIUM1,23,23,kode,BIOCALSIUM1,masuk
+online,bioek,BIOEK,1,1,mapping tersimpan -> kode,BIOTEK,masuk
+online,bionik 400 ec,Bionik 400 EC - Murah,1,1,nama (dari nama produk),BIONIK100,masuk
+online,bionik100,BIONIK100,68,68,kode,BIONIK100,masuk
+online,biotek,BIOTEK,89,89,kode,BIOTEK,masuk
+online,blstc,BLSTC,104,104,kode,BLSTC,masuk
+online,boitek,BOITEK,1,1,mapping tersimpan -> kode,BIOTEK,masuk
+online,broadplus 77 wp,BroadPlus 77 WP,1,1,nama (dari nama produk),BROADPLUS40,masuk
+online,broadplus40,BROADPLUS40,8,8,kode,BROADPLUS40,masuk
+online,brvtp1l,BRVTP1L,1,1,kode,BRVTP1L,masuk
+online,brvxn,BRVXN,20,20,kode,BRVXN,masuk
+online,bsltc,BSLTC,1,1,mapping tersimpan -> kode,BLSTC,masuk
+online,bufos 150 sl,Bufos 150 SL - Murah,3,3,nama (dari nama produk),BFS1L,masuk
+online,calsiumspr1,CALSIUMSPR1,5,5,kode,CALSIUMSPR1,masuk
+online,cgn1,CGN1,1,1,mapping tersimpan -> kode,CNG1,masuk
+online,cn-g kalsium nitrat,CN-G Kalsium Nitrat,1,1,nama (dari nama produk),CNG1,masuk
+online,cng1,CNG1,59,59,kode,CNG1,masuk
+online,cprcd100,CPRCD100,30,30,kode,CPRCD100,masuk
+online,crc,CRC,12,12,kode,CRC,masuk
+online,cuprocide 77 wp,Cuprocide 77 WP ORIGINAL,2,2,nama (dari nama produk),CPRCD100,masuk
+online,curacron 500 ec,Curacron 500 EC Ready Stock,1,1,nama (dari nama produk),CRC,masuk
+online,dangk100,DANGK100,2,2,mapping tersimpan -> kode,DANGKE100,masuk
+online,dangke 40 wp,Dangke 40 WP,5,5,nama (dari nama produk),DANGKE100,masuk
+online,dangke100,DANGKE100,109,109,kode,DANGKE100,masuk
+online,dankge100,DANKGE100,1,1,mapping tersimpan -> kode,DANGKE100,masuk
+online,dcsb,DCSB,62,62,kode,DCSB,masuk
+online,dcsk,DCSK,5,5,kode,DCSK,masuk
+online,de besttan 60 wp,De Besttan 60 WP Ready Stock,1,1,nama (dari nama produk),DEBESTTAN100,masuk
+online,debesttan100,DEBESTTAN100,11,11,kode,DEBESTTAN100,masuk
+online,decis 25 ec,Decis 25 EC - Murah,3,3,nama (dari nama produk) + harga,DCSB,masuk
+online,dithane m-45 80 wp,Dithane M-45 80 WP ORIGINAL,1,1,nama (dari nama produk),DITHANE200,masuk
+online,dithane200,DITHANE200,10,10,kode,DITHANE200,masuk
+online,dsb,DSB,2,2,mapping tersimpan -> kode,DCSB,masuk
+online,dsck,DSCK,1,1,mapping tersimpan -> kode,DCSK,masuk
+online,e-trek anti rayap,E-Trek anti rayap ORIGINAL,9,9,nama (dari nama produk),ETREKKCL,masuk
+online,e4mk,E4MK,1,1,mapping tersimpan -> kode,EM4K,masuk
+online,ekape1,EKAPE1,1,1,mapping tersimpan -> kode,EMKAPE1,masuk
+online,ekmape1,EKMAPE1,1,1,mapping tersimpan -> kode,EMKAPE1,masuk
+online,em4 perikanan & tambak ready sotck,EM4 Perikanan & Tambak Ready Sotck,1,0,tidak dikenal (dari nama produk),,ditolak
+online,em4c,EM4C,7,7,kode,EM4C,masuk
+online,em4k,EM4K,28,28,kode,EM4K,masuk
+online,em4p,EM4P,29,29,kode,EM4P,masuk
+online,emakpe1,EMAKPE1,2,2,mapping tersimpan -> kode,EMKAPE1,masuk
+online,emape500,EMAPE500,1,1,mapping tersimpan -> kode,EMKAPE500,masuk
+online,emkape maxxi agri,Emkape Maxxi Agri ORIGINAL,8,8,nama (dari nama produk) + harga,"EMKAPE1, EMKAPE500",masuk
+online,emkape1,EMKAPE1,125,125,kode,EMKAPE1,masuk
+online,emkape500,EMKAPE500,50,50,kode,EMKAPE500,masuk
+online,erogsold100,EROGSOLD100,1,1,mapping tersimpan -> kode,EROSGOLD100,masuk
+online,erosgold100,EROSGOLD100,29,29,kode,EROSGOLD100,masuk
+online,etrapckg,ETRAPCKG,1,1,mapping tersimpan -> kode,EXTRAPCKG,masuk
+online,etrekckl,ETREKCKL,1,1,mapping tersimpan -> kode,ETREKKCL,masuk
+online,etrekkcl,ETREKKCL,205,205,kode,ETREKKCL,masuk
+online,etrkkcl,ETRKKCL,2,2,mapping tersimpan -> kode,ETREKKCL,masuk
+online,explore80,EXPLORE80,6,6,kode,EXPLORE80,masuk
+online,exrtapckg,EXRTAPCKG,1,1,mapping tersimpan -> kode,EXTRAPCKG,masuk
+online,extapckg,EXTAPCKG,2,2,mapping tersimpan -> kode,EXTRAPCKG,masuk
+online,extarpckg,EXTARPCKG,1,1,mapping tersimpan -> kode,EXTRAPCKG,masuk
+online,extra kardus + bubblewrap,extra kardus + bubblewrap Ready Stock,14,14,nama (dari nama produk),EXTRAPCKG,masuk
+online,extrackg,EXTRACKG,1,1,mapping tersimpan -> kode,EXTRAPCKG,masuk
+online,extracpkg,EXTRACPKG,1,1,mapping tersimpan -> kode,EXTRAPCKG,masuk
+online,extrapckg,EXTRAPCKG,321,321,kode,EXTRAPCKG,masuk
+online,extrapkg,EXTRAPKG,2,2,mapping tersimpan -> kode,EXTRAPCKG,masuk
+online,extrpackg,EXTRPACKG,1,1,mapping tersimpan -> kode,EXTRAPCKG,masuk
+online,farmquat 276 sl,Farmquat 276 SL ORIGINAL,1,1,nama (dari nama produk),FARMQUAT250,masuk
+online,farmquat250,FARMQUAT250,43,43,kode,FARMQUAT250,masuk
+online,farmuqat250,FARMUQAT250,1,1,mapping tersimpan -> kode,FARMQUAT250,masuk
+online,fastac 15 ec,Fastac 15 EC,1,1,nama (dari nama produk),FSTC,masuk
+online,feinte50,FEINTE50,1,1,mapping tersimpan -> kode,FENITE50,masuk
+online,fenit50,FENIT50,1,1,mapping tersimpan -> kode,FENITE50,masuk
+online,fenite 150 od,Fenite 150 OD Ready Stock,2,2,nama (dari nama produk) + harga,"FENITE100, FENITE50",masuk
+online,fenite100,FENITE100,32,32,kode,FENITE100,masuk
+online,fenite50,FENITE50,45,45,kode,FENITE50,masuk
+online,fertiphos curah,Fertiphos Curah - Murah,5,5,nama (dari nama produk),FRTPHS1,masuk
+online,fiila50,FIILA50,1,1,mapping tersimpan -> kode,FILIA50,masuk
+online,fila50,FILA50,1,1,mapping tersimpan -> kode,FILIA50,masuk
+online,filia 525 se,Filia 525 SE Ready Stock,3,3,nama (dari nama produk),FILIA50,masuk
+online,filia50,FILIA50,92,92,kode,FILIA50,masuk
+online,fneite100,FNEITE100,1,1,mapping tersimpan -> kode,FENITE100,masuk
+online,fostin 610 ec,Fostin 610 EC Asli Bergaransi,1,1,nama (dari nama produk),FSTN100,masuk
+online,frd1,FRD1,65,65,kode,FRD1,masuk
+online,frd2,FRD2,19,19,kode,FRD2,masuk
+online,frtphs1,FRTPHS1,55,55,kode,FRTPHS1,masuk
+online,fstc,FSTC,28,28,kode,FSTC,masuk
+online,fstn100,FSTN100,18,18,kode,FSTN100,masuk
+online,fstscr500,fstscr500,3,3,kode,FSTSCR500,masuk
+online,ftrphs1,FTRPHS1,1,1,mapping tersimpan -> kode,FRTPHS1,masuk
+online,furadan 3gr,Furadan 3GR Ready Stock,3,3,nama (dari nama produk) + harga,FRD1,masuk
+online,gandasil d,Gandasil D ORIGINAL,1,1,nama (dari nama produk) + harga,GDSLD,masuk
+online,gats,GATS,14,14,kode,GATS,masuk
+online,gdlsd,GDLSD,1,1,mapping tersimpan -> kode,GDSLD,masuk
+online,gdslb,GDSLB,17,17,kode,GDSLB,masuk
+online,gdsld,GDSLD,5,5,kode,GDSLD,masuk
+online,gdsld500,GDSLD500,9,9,kode,GDSLD500,masuk
+online,gempur 480 sl,Gempur 480 SL Ready Stock,1,1,nama (dari nama produk),GEMPUR1,masuk
+online,gibgro,GIBGRO,95,95,kode,GIBGRO,masuk
+online,gibgro 10 sp,Gibgro 10 SP Asli Bergaransi,3,3,nama (dari nama produk),GIBGRO,masuk
+online,gibgropn,GIBGROPN,5,5,kode,GIBGROPN,masuk
+online,gibrgo,GIBRGO,1,1,mapping tersimpan -> kode,GIBGRO,masuk
+online,gkng,GKNG,18,18,kode,GKNG,masuk
+online,glubest1l,GLUBEST1L,1,1,kode,GLUBEST1L,masuk
+online,gmb3rl,GMB3RL,1,1,mapping tersimpan -> kode,GMBR3L,masuk
+online,gmbr3l,GMBR3L,24,24,kode,GMBR3L,masuk
+online,gnrstik,GNRSTIK,1,1,mapping tersimpan -> kode,GRNSTIK,masuk
+online,gosong top 276 sl,Gosong Top 276 SL Asli Bergaransi,1,1,nama (dari nama produk) + harga,GOSONGTOP500,masuk
+online,gosongtop250,GOSONGTOP250,3,3,kode,GOSONGTOP250,masuk
+online,gosongtop500,GOSONGTOP500,35,35,kode,GOSONGTOP500,masuk
+online,green stick,Green Stick - Murah,2,2,nama (dari nama produk),GRNSTIK,masuk
+online,green tonik,Green Tonik Asli Bergaransi,2,2,nama (dari nama produk),GRNTNK1,masuk
+online,grnstik,GRNSTIK,45,45,kode,GRNSTIK,masuk
+online,grntnk1,GRNTNK1,16,16,kode,GRNTNK1,masuk
+online,grxb,GRXB,3,3,kode,GRXB,masuk
+online,grxk,GRXK,11,11,kode,GRXK,masuk
+online,gsdlb,GSDLB,1,1,mapping tersimpan -> kode,GDSLB,masuk
+online,gunting kuning,Gunting Kuning - Murah,3,3,nama (dari nama produk),GKNG,masuk
+online,humgrow500,HUMGROW500,1,1,mapping tersimpan -> kode,HUMIGROW500,masuk
+online,humigrow,Humigrow ORIGINAL,1,1,nama (dari nama produk),HUMIGROW500,masuk
+online,humigrow500,HUMIGROW500,23,23,kode,HUMIGROW500,masuk
+online,instamax 240 sl,Instamax 240 SL - Murah,1,1,nama (dari nama produk),INSTAMAX1L,masuk
+online,instamax1l,INSTAMAX1L,13,13,kode,INSTAMAX1L,masuk
+online,jaingbsr,JAINGBSR,1,1,mapping tersimpan -> kode,JARINGBSR,masuk
+online,jaring buah besar,Jaring Buah Besar - Murah,1,1,nama (dari nama produk),JARINGBSR,masuk
+online,jaringbsr,JARINGBSR,35,35,kode,JARINGBSR,masuk
+online,jetspray,Jetspray Asli Bergaransi,1,1,nama (dari nama produk) + harga,JSP500,masuk
+online,jsp1l,JSP1L,19,19,kode,JSP1L,masuk
+online,jsp500,JSP500,1,1,kode,JSP500,masuk
+online,kaitrat1,KAITRAT1,1,1,mapping tersimpan -> kode,KANITRAT1,masuk
+online,kanitrat maxxi agri,Kanitrat Maxxi Agri Asli Bergaransi,1,1,nama (dari nama produk) + harga,KANITRAT1,masuk
+online,kanitrat1,KANITRAT1,14,14,kode,KANITRAT1,masuk
+online,kanitrat500,KANITRAT500,2,2,kode,KANITRAT500,masuk
+online,kanon 400 ec,Kanon 400 EC ORIGINAL,1,1,nama (dari nama produk),KANON100,masuk
+online,kanon100,KANON100,4,4,kode,KANON100,masuk
+online,kinglon100,KINGLON100,5,5,kode,KINGLON100,masuk
+online,kingtonik1,KINGTONIK1,1,1,kode,KINGTONIK1,masuk
+online,kinlgon100,KINLGON100,1,1,mapping tersimpan -> kode,KINGLON100,masuk
+online,klimax,KLIMAX,5,5,kode,KLIMAX,masuk
+online,knomrh2,KNOMRH2,1,1,kode,KNOMRH2,masuk
+online,knopth1,KNOPTH1,21,21,kode,KNOPTH1,masuk
+online,knopth2,KNOPTH2,14,14,kode,KNOPTH2,masuk
+online,koinplus,KOINPLUS,1,1,mapping tersimpan -> kode,KOVINPLUS,masuk
+online,konup,KONUP,14,14,kode,KONUP,masuk
+online,kovin plus 80p,Kovin Plus 80P Ready Stock,6,6,nama (dari nama produk),KOVINPLUS,masuk
+online,kovinlpus,KOVINLPUS,1,1,mapping tersimpan -> kode,KOVINPLUS,masuk
+online,kovinlus,KOVINLUS,1,1,mapping tersimpan -> kode,KOVINPLUS,masuk
+online,kovinplus,KOVINPLUS,143,143,kode,KOVINPLUS,masuk
+online,kovipnlus,KOVIPNLUS,1,1,mapping tersimpan -> kode,KOVINPLUS,masuk
+online,kovniplus,KOVNIPLUS,1,1,mapping tersimpan -> kode,KOVINPLUS,masuk
+online,kresnabat40,KRESNABAT40,1,1,kode,KRESNABAT40,masuk
+online,kresnacid 250 ec,Kresnacid 250 EC - Murah,1,1,nama (dari nama produk),KRSNCD,masuk
+online,kresnatop,KRESNATOP,9,9,kode,KRESNATOP,masuk
+online,krsenatop,KRSENATOP,1,1,mapping tersimpan -> kode,KRESNATOP,masuk
+online,krsln,KRSLN,30,30,kode,KRSLN,masuk
+online,krsncd,KRSNCD,17,17,kode,KRSNCD,masuk
+online,krtbrn,KRTBRN,5,5,kode,KRTBRN,masuk
+online,kvinplus,KVINPLUS,2,2,mapping tersimpan -> kode,KOVINPLUS,masuk
+online,kyrs500,KYRS500,1,1,kode,KYRS500,masuk
+online,liq,LIQ,12,12,kode,LIQ,masuk
+online,m21,M21,4,4,kode,M21,masuk
+online,magnesium sulfat pak tani,Magnesium Sulfat Pak Tani - Murah,2,2,nama (dari nama produk),MGSULFATE,masuk
+online,manzate500,MANZATE500,13,13,kode,MANZATE500,masuk
+online,mar-trex 500 ec,Mar-trex 500 EC Asli Bergaransi,1,1,nama (dari nama produk),MARTREX500,masuk
+online,marsha25,MARSHA25,1,1,mapping tersimpan -> kode,MARSHAL25,masuk
+online,marshal25,MARSHAL25,14,14,kode,MARSHAL25,masuk
+online,martrex500,MARTREX500,15,15,kode,MARTREX500,masuk
+online,maxxfoate250,MAXXFOATE250,1,1,mapping tersimpan -> kode,MAXXFOSATE250,masuk
+online,maxxfosate250,MAXXFOSATE250,13,13,kode,MAXXFOSATE250,masuk
+online,maxxigro5d00,MAXXIGRO5D00,1,1,mapping tersimpan -> kode,MAXXIGROD500,masuk
+online,maxxigrob500,MAXXIGROB500,26,26,kode,MAXXIGROB500,masuk
+online,maxxigrod500,MAXXIGROD500,20,20,kode,MAXXIGROD500,masuk
+online,mekarmap,MekarMAP ORIGINAL,1,1,nama (dari nama produk),MEKARMAP1,masuk
+online,mekarmap1,MEKARMAP1,21,21,kode,MEKARMAP1,masuk
+online,mekramap1,MEKRAMAP1,1,1,mapping tersimpan -> kode,MEKARMAP1,masuk
+online,metazeb 80 wp,Metazeb 80 WP - Murah,2,2,nama (dari nama produk),METAZEB1,masuk
+online,metazeb1,METAZEB1,46,46,kode,METAZEB1,masuk
+online,mgsulfate,MGSULFATE,20,20,kode,MGSULFATE,masuk
+online,mipcinat100,MIPCINAT100,2,2,mapping tersimpan -> kode,MIPCINTA100,masuk
+online,mipcinta 50 wp,Mipcinta 50 WP ORIGINAL,3,3,nama (dari nama produk),MIPCINTA100,masuk
+online,mipcinta100,MIPCINTA100,69,69,kode,MIPCINTA100,masuk
+online,mkp pak tani,MKP Pak Tani Ready Stock,9,9,nama (dari nama produk),MKP1,masuk
+online,mkp1,MKP1,160,160,kode,MKP1,masuk
+online,molase,MOLASE,19,19,kode,MOLASE,masuk
+online,mst 2l,MST 2L,1,1,kode,MST 2L,masuk
+online,mtdr,MTDR,10,10,kode,MTDR,masuk
+online,mtslndo,MTSLNDO,2,2,kode,MTSLNDO,masuk
+online,nativo 75 wg,Nativo 75 WG ORIGINAL,2,2,nama (dari nama produk),NTVK,masuk
+online,ndrx,NDRX,1,1,mapping tersimpan -> kode,NRDX,masuk
+online,npk among tani,NPK Among Tani Ready Stock,1,1,nama (dari nama produk),NPKAMONG5,masuk
+online,npk cap tawon,NPK Cap Tawon - Murah,1,1,nama (dari nama produk),NPKTWN1,masuk
+online,npk mutiara,NPK Mutiara - Murah,2,2,nama (dari nama produk),NPKM1,masuk
+online,npk pak tani,NPK Pak Tani - Murah,1,1,nama (dari nama produk),NPKPT,masuk
+online,npk yaramila,NPK YaraMila ORIGINAL,1,1,nama (dari nama produk),NPKYRML,masuk
+online,npkamong5,NPKAMONG5,8,8,kode,NPKAMONG5,masuk
+online,npkm1,NPKM1,47,47,kode,NPKM1,masuk
+online,npkmgrw,NPKMGRW,2,2,kode,NPKMGRW,masuk
+online,npkpt,NPKPT,36,36,kode,NPKPT,masuk
+online,npktnw1,NPKTNW1,1,1,mapping tersimpan -> kode,NPKTWN1,masuk
+online,npktwn1,NPKTWN1,46,46,kode,NPKTWN1,masuk
+online,npkyrml,NPKYRML,8,8,kode,NPKYRML,masuk
+online,npmk1,NPMK1,1,1,mapping tersimpan -> kode,NPKM1,masuk
+online,nrdx,NRDX,13,13,kode,NRDX,masuk
+online,ntvk,NTVK,47,47,kode,NTVK,masuk
+online,nugrass,NUGRASS,10,10,kode,NUGRASS,masuk
+online,nugrass 69 ec,Nugrass 69 EC Asli Bergaransi,1,1,nama (dari nama produk),NUGRASS,masuk
+online,nvtk,NVTK,3,3,mapping tersimpan -> kode,NTVK,masuk
+online,paket pertumbuhan,Paket Pertumbuhan - Murah,1,1,nama (dari nama produk),PAKETTUMBUH250,masuk
+online,paketbuah250,PAKETBUAH250,2,2,kode,PAKETBUAH250,masuk
+online,paketgdsl,PAKETGDSL,15,15,kode,PAKETGDSL,masuk
+online,paketgnrtf,PAKETGNRTF,2,2,kode,PAKETGNRTF,masuk
+online,pakettumbuh250,PAKETTUMBUH250,5,5,kode,PAKETTUMBUH250,masuk
+online,pegasus80,PEGASUS80,8,8,kode,PEGASUS80,masuk
+online,petrokum010,PETROKUM010,1,1,mapping tersimpan -> kode,PETROKUM100,masuk
+online,petrokum100,PETROKUM100,53,53,kode,PETROKUM100,masuk
+online,plenum 50 wg,Plenum 50 WG - Murah,1,1,nama (dari nama produk),PLENUM25,masuk
+online,plenum25,PLENUM25,16,16,kode,PLENUM25,masuk
+online,plybg15,PLYBG15,12,12,kode,PLYBG15,masuk
+online,plybg20,PLYBG20,7,7,kode,PLYBG20,masuk
+online,plybg35,PLYBG35,50,50,kode,PLYBG35,masuk
+online,plybg40,PLYBG40,2,2,kode,PLYBG40,masuk
+online,plybg50,PLYBG50,18,18,kode,PLYBG50,masuk
+online,plygb15,PLYGB15,1,1,mapping tersimpan -> kode,PLYBG15,masuk
+online,pn pak tani (kno3 putih kristal),PN Pak Tani (KNO3 putih kristal) ORIGINAL,1,1,nama (dari nama produk),KNOPTH1,masuk
+online,pn pak tani (kno3 putih prill),PN Pak Tani (KNO3 putih prill) - Murah,1,1,nama (dari nama produk),KNOPTH2,masuk
+online,pocmf1l,POCMF1L,2,2,kode,POCMF1L,masuk
+online,polybag tanaman 15x15,Polybag Tanaman 15x15 ORIGINAL,2,2,nama (dari nama produk),PLYBG15,masuk
+online,polybag tanaman 35x35,Polybag Tanaman 35x35,3,3,nama (dari nama produk),PLYBG35,masuk
+online,prevathon100,PREVATHON100,11,11,kode,PREVATHON100,masuk
+online,ptrgnl,PTRGNL,11,11,kode,PTRGNL,masuk
+online,pupuk amazing grow pembuahan,Pupuk Amazing Grow Pembuahan - Murah,1,1,nama (dari nama produk),AGB,masuk
+online,rdpb,RDPB,64,64,kode,RDPB,masuk
+online,rdpk,RDPK,5,5,kode,RDPK,masuk
+online,regent 50 ec,Regent 50 EC,2,2,nama (dari nama produk) + harga,"RGNT, RGNTB",masuk
+online,rgnt,RGNT,5,5,kode,RGNT,masuk
+online,rgntb,RGNTB,39,39,kode,RGNTB,masuk
+online,rgtnb,RGTNB,1,1,mapping tersimpan -> kode,RGNTB,masuk
+online,riovil100,RIOVIL100,16,16,kode,RIOVIL100,masuk
+online,rmps100,RMPS100,6,6,kode,RMPS100,masuk
+online,roundup 486 sl,Roundup 486 SL - Murah,3,3,nama (dari nama produk) + harga,RDPB,masuk
+online,rpb,RPB,1,1,mapping tersimpan -> kode,RDPB,masuk
+online,rudstar 250 ec,Rudstar 250 EC Ready Stock,1,1,nama (dari nama produk),RDSTR100,masuk
+online,samite 135 ec,Samite 135 EC,1,1,nama (dari nama produk),SAMITE100,masuk
+online,samite100,SAMITE100,16,16,kode,SAMITE100,masuk
+online,sapporo 52 ec,Sapporo 52 EC Asli Bergaransi,1,1,nama (dari nama produk),SAPPORO100,masuk
+online,sapporo100,SAPPORO100,68,68,kode,SAPPORO100,masuk
+online,scr80,SCR80,8,8,kode,SCR80,masuk
+online,sdatan400,SDATAN400,1,1,mapping tersimpan -> kode,SIDATAN400,masuk
+online,sdmthrn,SDMTHRN,22,22,kode,SDMTHRN,masuk
+online,seetop1l,SEETOP1L,7,7,kode,SEETOP1L,masuk
+online,sidafos1l,SIDAFOS1L,10,10,kode,SIDAFOS1L,masuk
+online,sidamethrin 50 ec,Sidamethrin 50 EC Asli Bergaransi,1,1,nama (dari nama produk),SDMTHRN,masuk
+online,sidatan400,SIDATAN400,7,7,kode,SIDATAN400,masuk
+online,spontan,SPONTAN,25,25,kode,SPONTAN,masuk
+online,spontan 400 sl,Spontan 400 SL - Murah,1,1,nama (dari nama produk),SPONTAN,masuk
+online,spontaning,SPONTANING,1,1,mapping tersimpan -> kode,SPONTANKING,masuk
+online,spontanking,SPONTANKING,16,16,kode,SPONTANKING,masuk
+online,spotan,SPOTAN,1,1,mapping tersimpan -> kode,SPONTAN,masuk
+online,sprfs100,SPRFS100,1,1,kode,SPRFS100,masuk
+online,starban 585 ec,Starban 585 EC Asli Bergaransi,1,1,nama (dari nama produk),STRBN100,masuk
+online,starlon 665 ec,Starlon 665 EC Ready Stock,1,1,nama (dari nama produk),STARLON100,masuk
+online,starlon100,STARLON100,5,5,kode,STARLON100,masuk
+online,strbn100,STRBN100,16,16,kode,STRBN100,masuk
+online,sueprel100,SUEPREL100,2,2,mapping tersimpan -> kode,SUPEREL100,masuk
+online,sum80,SUM80,1,1,mapping tersimpan -> kode,SUMO80,masuk
+online,sumo80,SUMO80,33,33,kode,SUMO80,masuk
+online,superel 480 sl,Superel 480 SL Asli Bergaransi,5,5,nama (dari nama produk),SUPEREL100,masuk
+online,superel00,SUPEREL00,1,1,mapping tersimpan -> kode,SUPEREL100,masuk
+online,superel100,SUPEREL100,170,170,kode,SUPEREL100,masuk
+online,superle100,SUPERLE100,2,2,mapping tersimpan -> kode,SUPEREL100,masuk
+online,ta400,TA400,1,1,mapping tersimpan -> kode,TMA400,masuk
+online,tamacron,TAMACRON,7,7,kode,TAMACRON,masuk
+online,tamacron 500 ec,Tamacron 500 EC,2,2,nama (dari nama produk),TAMACRON,masuk
+online,tma400,TMA400,18,18,kode,TMA400,masuk
+online,topsin 500 ec,Topsin 500 EC ORIGINAL,1,1,nama (dari nama produk),TPSN,masuk
+online,tpsn,TPSN,41,41,kode,TPSN,masuk
+online,trbos100,TRBOS100,1,1,mapping tersimpan -> kode,TROBOS100,masuk
+online,tricho-bact,Tricho-Bact - Murah,1,1,nama (dari nama produk),TRICHO500,masuk
+online,tricho500,TRICHO500,28,28,kode,TRICHO500,masuk
+online,triho500,TRIHO500,1,1,mapping tersimpan -> kode,TRICHO500,masuk
+online,trobos 200 sl,Trobos 200 SL Asli Bergaransi,6,6,nama (dari nama produk),TROBOS100,masuk
+online,trobos100,TROBOS100,208,208,kode,TROBOS100,masuk
+online,troos100,TROOS100,1,1,mapping tersimpan -> kode,TROBOS100,masuk
+online,tspn,TSPN,2,2,mapping tersimpan -> kode,TPSN,masuk
+online,ultradap pak tani,Ultradap Pak Tani,1,1,nama (dari nama produk),ULTRDP,masuk
+online,ultrdp,ULTRDP,8,8,kode,ULTRDP,masuk
+online,vgr400,VGR400,1,1,mapping tersimpan -> kode,VLGR400,masuk
+online,vlgr400,VLGR400,31,31,kode,VLGR400,masuk
+online,vulgar 865 sl,Vulgar 865 SL,1,1,nama (dari nama produk),VLGR400,masuk
+online,waux,WAUX,3,3,kode,WAUX,masuk
+online,winder 100 ec,Winder 100 EC ORIGINAL,2,2,nama (dari nama produk),WINDER100,masuk
+online,winder00,WINDER00,1,1,mapping tersimpan -> kode,WINDER100,masuk
+online,winder100,WINDER100,83,83,kode,WINDER100,masuk
+online,windr100,WINDR100,1,1,mapping tersimpan -> kode,WINDER100,masuk
+online,winedr100,WINEDR100,1,1,mapping tersimpan -> kode,WINDER100,masuk
+online,youstick500,YOUSTICK500,6,6,kode,YOUSTICK500,masuk
+online,znso4,ZNSO4,5,5,kode,ZNSO4,masuk
+stok_masuk_keluar,abacel,ABACEL,40,40,kode,ABACEL,masuk
+stok_masuk_keluar,abacel 18 ec,Abacel 18 EC,2,2,nama,ABACEL,masuk
+stok_masuk_keluar,agb,AGB,25,25,kode,AGB,masuk
+stok_masuk_keluar,agcel 500 sl,Agcel 500 SL,1,1,nama,AGCEL250,masuk
+stok_masuk_keluar,agcel250,AGCEL250,31,31,kode,AGCEL250,masuk
+stok_masuk_keluar,agl,AGL,31,31,kode,AGL,masuk
+stok_masuk_keluar,agt,AGT,37,37,kode,AGT,masuk
+stok_masuk_keluar,aiaboron1,AIABORON1,1,1,mapping tersimpan -> kode,ASIABORON1,masuk
+stok_masuk_keluar,alika 247 zc,Alika 247 ZC,2,2,nama,ALIKA50,masuk
+stok_masuk_keluar,alika50,ALIKA50,34,34,kode,ALIKA50,masuk
+stok_masuk_keluar,alita100,ALITA100,1,1,kode,ALITA100,masuk
+stok_masuk_keluar,amazing grow booster kelengkeng,Amazing Grow Booster Kelengkeng,2,2,nama,AGL,masuk
+stok_masuk_keluar,ambtn500,AMBTN500,3,3,kode,AMBTN500,masuk
+stok_masuk_keluar,aminonano,AMINONANO,4,4,kode,AMINONANO,masuk
+stok_masuk_keluar,amionano,AMIONANO,1,1,mapping tersimpan -> kode,AMINONANO,masuk
+stok_masuk_keluar,amstrtop50,AMSTRTOP50,4,4,kode,AMSTRTOP50,masuk
+stok_masuk_keluar,antk,ANTK,1,1,mapping tersimpan -> kode,ATNK,masuk
+stok_masuk_keluar,antracol 70 wp,Antracol 70 WP,3,1,nama,ANTRCL,sebagian ditolak
+stok_masuk_keluar,antrcl,ANTRCL,24,24,kode,ANTRCL,masuk
+stok_masuk_keluar,antrcl500,ANTRCL500,25,25,kode,ANTRCL500,masuk
+stok_masuk_keluar,anwavin 500 ec,Anwavin 500 EC,1,1,nama,ANWAVIN100,masuk
+stok_masuk_keluar,anwavin100,ANWAVIN100,37,37,kode,ANWAVIN100,masuk
+stok_masuk_keluar,asia boron,Asia Boron,1,1,nama,ASIABORON1,masuk
+stok_masuk_keluar,asiaboron1,ASIABORON1,25,25,kode,ASIABORON1,masuk
+stok_masuk_keluar,asibaoron1,ASIBAORON1,1,1,mapping tersimpan -> kode,ASIABORON1,masuk
+stok_masuk_keluar,asmtrtop50,ASMTRTOP50,1,1,mapping tersimpan -> kode,AMSTRTOP50,masuk
+stok_masuk_keluar,atnk,ATNK,19,19,kode,ATNK,masuk
+stok_masuk_keluar,atonik 6.0 l,Atonik 6.0 L,2,2,nama,ATNK,masuk
+stok_masuk_keluar,avdior100,AVDIOR100,1,1,mapping tersimpan -> kode,AVIDOR100,masuk
+stok_masuk_keluar,avidor 25 wp,Avidor 25 WP,2,2,nama,AVIDOR100,masuk
+stok_masuk_keluar,avidor100,AVIDOR100,52,52,kode,AVIDOR100,masuk
+stok_masuk_keluar,bablass 490 sl,Bablass 490 SL,1,1,nama,BBLSS,masuk
+stok_masuk_keluar,balistic 50 sc,Balistic 50 SC,2,2,nama,BLSTC,masuk
+stok_masuk_keluar,bblss,BBLSS,25,25,kode,BBLSS,masuk
+stok_masuk_keluar,bbss,BBSS,1,1,mapping tersimpan -> kode,BBLSS,masuk
+stok_masuk_keluar,bestar1l,BESTAR1L,18,18,kode,BESTAR1L,masuk
+stok_masuk_keluar,bfs1l,BFS1L,35,35,kode,BFS1L,masuk
+stok_masuk_keluar,bio calsium,Bio Calsium,3,3,nama,BIOCALSIUM1,masuk
+stok_masuk_keluar,biocalsium1,BIOCALSIUM1,21,21,kode,BIOCALSIUM1,masuk
+stok_masuk_keluar,bionik 400 ec,Bionik 400 EC,2,2,nama,BIONIK100,masuk
+stok_masuk_keluar,bionik100,BIONIK100,40,40,kode,BIONIK100,masuk
+stok_masuk_keluar,biotek,BIOTEK,49,49,kode,BIOTEK,masuk
+stok_masuk_keluar,blstc,BLSTC,38,38,kode,BLSTC,masuk
+stok_masuk_keluar,boitek,BOITEK,1,1,mapping tersimpan -> kode,BIOTEK,masuk
+stok_masuk_keluar,bravoxone 276 sl,Bravoxone 276 SL,1,1,nama,BRVXN,masuk
+stok_masuk_keluar,broadplus 77 wp,BroadPlus 77 WP,3,3,nama,BROADPLUS40,masuk
+stok_masuk_keluar,broadplus40,BROADPLUS40,27,27,kode,BROADPLUS40,masuk
+stok_masuk_keluar,broadpus40,BROADPUS40,1,1,mapping tersimpan -> kode,BROADPLUS40,masuk
+stok_masuk_keluar,brvtp1l,BRVTP1L,6,6,kode,BRVTP1L,masuk
+stok_masuk_keluar,brvxn,BRVXN,33,33,kode,BRVXN,masuk
+stok_masuk_keluar,bufos 150 sl,Bufos 150 SL,1,1,nama,BFS1L,masuk
+stok_masuk_keluar,bvrtp1l,BVRTP1L,1,1,mapping tersimpan -> kode,BRVTP1L,masuk
+stok_masuk_keluar,bvrxn,BVRXN,1,1,mapping tersimpan -> kode,BRVXN,masuk
+stok_masuk_keluar,calsium super,Calsium Super,1,1,nama,CALSIUMSPR1,masuk
+stok_masuk_keluar,calsiumspr1,CALSIUMSPR1,7,7,kode,CALSIUMSPR1,masuk
+stok_masuk_keluar,cgn1,CGN1,3,3,mapping tersimpan -> kode,CNG1,masuk
+stok_masuk_keluar,cng1,CNG1,36,36,kode,CNG1,masuk
+stok_masuk_keluar,cprc1d00,CPRC1D00,1,1,mapping tersimpan -> kode,CPRCD100,masuk
+stok_masuk_keluar,cprcd00,CPRCD00,1,1,mapping tersimpan -> kode,CPRCD100,masuk
+stok_masuk_keluar,cprcd100,CPRCD100,28,28,kode,CPRCD100,masuk
+stok_masuk_keluar,crc,CRC,20,20,kode,CRC,masuk
+stok_masuk_keluar,curacron 500 ec,Curacron 500 EC,2,2,nama,CRC,masuk
+stok_masuk_keluar,dangke 40 wp,Dangke 40 WP,2,2,nama,DANGKE100,masuk
+stok_masuk_keluar,dangke100,DANGKE100,58,58,kode,DANGKE100,masuk
+stok_masuk_keluar,dcsb,DCSB,38,38,kode,DCSB,masuk
+stok_masuk_keluar,dcsk,DCSK,10,10,kode,DCSK,masuk
+stok_masuk_keluar,de besttan 60 wp,De Besttan 60 WP,1,1,nama,DEBESTTAN100,masuk
+stok_masuk_keluar,debesttan100,DEBESTTAN100,23,23,kode,DEBESTTAN100,masuk
+stok_masuk_keluar,decis 25 ec,Decis 25 EC,2,1,nama,DCSB,sebagian ditolak
+stok_masuk_keluar,dithane m-45 80 wp,Dithane M-45 80 WP,1,1,nama,DITHANE200,masuk
+stok_masuk_keluar,dithane200,DITHANE200,14,14,kode,DITHANE200,masuk
+stok_masuk_keluar,dithne200,DITHNE200,1,1,mapping tersimpan -> kode,DITHANE200,masuk
+stok_masuk_keluar,dlmt,DLMT,25,25,kode,DLMT,masuk
+stok_masuk_keluar,dlmt50kg,DLMT50KG,37,37,kode,DLMT50KG,masuk
+stok_masuk_keluar,dscb,DSCB,1,1,mapping tersimpan -> kode,DCSB,masuk
+stok_masuk_keluar,dsck,DSCK,1,1,mapping tersimpan -> kode,DCSK,masuk
+stok_masuk_keluar,e-trek anti rayap,E-Trek anti rayap,1,1,nama,ETREKKCL,masuk
+stok_masuk_keluar,e4mp,E4MP,2,2,mapping tersimpan -> kode,EM4P,masuk
+stok_masuk_keluar,em4 perikanan & tambak,EM4 Perikanan & Tambak,1,1,nama,EM4P,masuk
+stok_masuk_keluar,em4 pertanian,EM4 Pertanian,1,1,nama,EM4K,masuk
+stok_masuk_keluar,em4c,EM4C,14,14,kode,EM4C,masuk
+stok_masuk_keluar,em4k,EM4K,32,32,kode,EM4K,masuk
+stok_masuk_keluar,em4p,EM4P,30,30,kode,EM4P,masuk
+stok_masuk_keluar,emkape maxxi agri,Emkape Maxxi Agri,2,0,nama,,ditolak
+stok_masuk_keluar,emkape1,EMKAPE1,53,53,kode,EMKAPE1,masuk
+stok_masuk_keluar,emkape500,EMKAPE500,2,2,kode,EMKAPE500,masuk
+stok_masuk_keluar,erosgold100,EROSGOLD100,32,32,kode,EROSGOLD100,masuk
+stok_masuk_keluar,etrekkcl,ETREKKCL,62,62,kode,ETREKKCL,masuk
+stok_masuk_keluar,exploer80,EXPLOER80,1,1,mapping tersimpan -> kode,EXPLORE80,masuk
+stok_masuk_keluar,explore80,EXPLORE80,10,10,kode,EXPLORE80,masuk
+stok_masuk_keluar,farmquat250,FARMQUAT250,42,42,kode,FARMQUAT250,masuk
+stok_masuk_keluar,fastac 15 ec,Fastac 15 EC,1,1,nama,FSTC,masuk
+stok_masuk_keluar,fd1,FD1,1,1,mapping tersimpan -> kode,FRD1,masuk
+stok_masuk_keluar,fd2,FD2,2,2,mapping tersimpan -> kode,FRD2,masuk
+stok_masuk_keluar,fdr2,FDR2,1,1,mapping tersimpan -> kode,FRD2,masuk
+stok_masuk_keluar,fenit50,FENIT50,1,1,mapping tersimpan -> kode,FENITE50,masuk
+stok_masuk_keluar,fenit5e0,FENIT5E0,1,1,mapping tersimpan -> kode,FENITE50,masuk
+stok_masuk_keluar,fenite 150 od,Fenite 150 OD,1,1,nama + harga,FENITE50,masuk
+stok_masuk_keluar,fenite100,FENITE100,26,26,kode,FENITE100,masuk
+stok_masuk_keluar,fenite50,FENITE50,40,40,kode,FENITE50,masuk
+stok_masuk_keluar,fertiphos curah,Fertiphos Curah,3,3,nama,"FRTPHS1, FRTPHS50KG",masuk
+stok_masuk_keluar,fili50,FILI50,1,1,mapping tersimpan -> kode,FILIA50,masuk
+stok_masuk_keluar,filia 525 se,Filia 525 SE,2,2,nama,FILIA50,masuk
+stok_masuk_keluar,filia50,FILIA50,50,50,kode,FILIA50,masuk
+stok_masuk_keluar,fostin 610 ec,Fostin 610 EC,1,1,nama,FSTN100,masuk
+stok_masuk_keluar,frd1,FRD1,41,41,kode,FRD1,masuk
+stok_masuk_keluar,frd2,FRD2,19,19,kode,FRD2,masuk
+stok_masuk_keluar,frtphs1,FRTPHS1,10,10,kode,FRTPHS1,masuk
+stok_masuk_keluar,frtphs50kg,FRTPHS50KG,26,26,kode,FRTPHS50KG,masuk
+stok_masuk_keluar,frtps50kg,FRTPS50KG,1,1,mapping tersimpan -> kode,FRTPHS50KG,masuk
+stok_masuk_keluar,fstc,FSTC,30,30,kode,FSTC,masuk
+stok_masuk_keluar,fstn100,FSTN100,24,24,kode,FSTN100,masuk
+stok_masuk_keluar,fstscr500,FSTSCR500,4,4,kode,FSTSCR500,masuk
+stok_masuk_keluar,ftsn100,FTSN100,1,1,mapping tersimpan -> kode,FSTN100,masuk
+stok_masuk_keluar,furadan 3gr,Furadan 3GR,2,0,nama,,ditolak
+stok_masuk_keluar,gandasil b,Gandasil B,1,0,nama,,ditolak
+stok_masuk_keluar,gandasil d,Gandasil D,2,1,nama,GDSLD500,sebagian ditolak
+stok_masuk_keluar,gats,GATS,27,27,kode,GATS,masuk
+stok_masuk_keluar,gdlsd,GDLSD,1,1,mapping tersimpan -> kode,GDSLD,masuk
+stok_masuk_keluar,gdslb,GDSLB,24,24,kode,GDSLB,masuk
+stok_masuk_keluar,gdslb500,GDSLB500,2,2,kode,GDSLB500,masuk
+stok_masuk_keluar,gdsld,GDSLD,18,18,kode,GDSLD,masuk
+stok_masuk_keluar,gdsld050,GDSLD050,1,1,mapping tersimpan -> kode,GDSLD500,masuk
+stok_masuk_keluar,gdsld500,GDSLD500,20,20,kode,GDSLD500,masuk
+stok_masuk_keluar,gembor air,Gembor Air,2,2,nama,GMBR3L,masuk
+stok_masuk_keluar,gibgro,GIBGRO,43,43,kode,GIBGRO,masuk
+stok_masuk_keluar,gibgro 10 sp,Gibgro 10 SP,2,2,nama,GIBGRO,masuk
+stok_masuk_keluar,gibgropn,GIBGROPN,12,12,kode,GIBGROPN,masuk
+stok_masuk_keluar,gibrgopn,GIBRGOPN,1,1,mapping tersimpan -> kode,GIBGROPN,masuk
+stok_masuk_keluar,gkng,GKNG,27,27,kode,GKNG,masuk
+stok_masuk_keluar,glubest1l,GLUBEST1L,2,2,kode,GLUBEST1L,masuk
+stok_masuk_keluar,gmb3l,GMB3L,1,1,mapping tersimpan -> kode,GMBR3L,masuk
+stok_masuk_keluar,gmb3rl,GMB3RL,1,1,mapping tersimpan -> kode,GMBR3L,masuk
+stok_masuk_keluar,gmbr3l,GMBR3L,30,30,kode,GMBR3L,masuk
+stok_masuk_keluar,gobest100,GOBEST100,2,2,kode,GOBEST100,masuk
+stok_masuk_keluar,gosong top 276 sl,Gosong Top 276 SL,1,0,nama,,ditolak
+stok_masuk_keluar,gosongtop250,GOSONGTOP250,3,3,kode,GOSONGTOP250,masuk
+stok_masuk_keluar,gosongtop500,GOSONGTOP500,27,27,kode,GOSONGTOP500,masuk
+stok_masuk_keluar,gramoxone 276 sl,Gramoxone 276 SL,2,2,nama + harga,GRXK,masuk
+stok_masuk_keluar,green stick,Green Stick,2,2,nama,GRNSTIK,masuk
+stok_masuk_keluar,green tonik,Green Tonik,2,2,nama,GRNTNK1,masuk
+stok_masuk_keluar,grnstik,GRNSTIK,32,32,kode,GRNSTIK,masuk
+stok_masuk_keluar,grntnk1,GRNTNK1,17,17,kode,GRNTNK1,masuk
+stok_masuk_keluar,grsntik,GRSNTIK,1,1,mapping tersimpan -> kode,GRNSTIK,masuk
+stok_masuk_keluar,grtnk1,GRTNK1,1,1,mapping tersimpan -> kode,GRNTNK1,masuk
+stok_masuk_keluar,grxb,GRXB,2,2,kode,GRXB,masuk
+stok_masuk_keluar,grxk,GRXK,18,18,kode,GRXK,masuk
+stok_masuk_keluar,gsdlb,GSDLB,1,1,mapping tersimpan -> kode,GDSLB,masuk
+stok_masuk_keluar,gsdld,GSDLD,2,2,mapping tersimpan -> kode,GDSLD,masuk
+stok_masuk_keluar,gunting kuning,Gunting Kuning,1,1,nama,GKNG,masuk
+stok_masuk_keluar,gxb,GXB,1,1,mapping tersimpan -> kode,GRXB,masuk
+stok_masuk_keluar,gxrb,GXRB,1,1,mapping tersimpan -> kode,GRXB,masuk
+stok_masuk_keluar,gxrk,GXRK,1,1,mapping tersimpan -> kode,GRXK,masuk
+stok_masuk_keluar,humgirow500,HUMGIROW500,1,1,mapping tersimpan -> kode,HUMIGROW500,masuk
+stok_masuk_keluar,humigrow500,HUMIGROW500,34,34,kode,HUMIGROW500,masuk
+stok_masuk_keluar,instama1l,INSTAMA1L,1,1,mapping tersimpan -> kode,INSTAMAX1L,masuk
+stok_masuk_keluar,instamax 240 sl,Instamax 240 SL,2,2,nama,INSTAMAX1L,masuk
+stok_masuk_keluar,instamax1l,INSTAMAX1L,18,18,kode,INSTAMAX1L,masuk
+stok_masuk_keluar,isadora400,ISADORA400,1,1,kode,ISADORA400,masuk
+stok_masuk_keluar,jaringbsr,JARINGBSR,30,30,kode,JARINGBSR,masuk
+stok_masuk_keluar,jetspray,Jetspray,2,0,nama,,ditolak
+stok_masuk_keluar,jsp1l,JSP1L,26,26,kode,JSP1L,masuk
+stok_masuk_keluar,jsp500,JSP500,8,8,kode,JSP500,masuk
+stok_masuk_keluar,kalinet500,KALINET500,1,1,kode,KALINET500,masuk
+stok_masuk_keluar,kanitrat maxxi agri,Kanitrat Maxxi Agri,1,1,nama + harga,KANITRAT1,masuk
+stok_masuk_keluar,kanitrat1,KANITRAT1,25,25,kode,KANITRAT1,masuk
+stok_masuk_keluar,kanitrat500,KANITRAT500,1,1,kode,KANITRAT500,masuk
+stok_masuk_keluar,kanon 400 ec,Kanon 400 EC,2,2,nama,KANON100,masuk
+stok_masuk_keluar,kanon100,KANON100,10,10,kode,KANON100,masuk
+stok_masuk_keluar,kapur dolomite,Kapur Dolomite,3,3,nama,DLMT,masuk
+stok_masuk_keluar,kc5l0kg,KC5L0KG,1,1,mapping tersimpan -> kode,KCL50KG,masuk
+stok_masuk_keluar,kcl,KCL,25,25,kode,KCL,masuk
+stok_masuk_keluar,kcl curah,KCL Curah,2,2,nama,"KCL, KCL50KG",masuk
+stok_masuk_keluar,kcl50kg,KCL50KG,36,36,kode,KCL50KG,masuk
+stok_masuk_keluar,kinglon 667 ec,Kinglon 667 EC,1,1,nama,KINGLON100,masuk
+stok_masuk_keluar,kinglon100,KINGLON100,17,17,kode,KINGLON100,masuk
+stok_masuk_keluar,kingtonik1,KINGTONIK1,2,2,kode,KINGTONIK1,masuk
+stok_masuk_keluar,klimax,KLIMAX,7,7,kode,KLIMAX,masuk
+stok_masuk_keluar,knopth1,KNOPTH1,28,28,kode,KNOPTH1,masuk
+stok_masuk_keluar,knopth2,KNOPTH2,21,21,kode,KNOPTH2,masuk
+stok_masuk_keluar,knorh2,KNORH2,1,1,mapping tersimpan -> kode,KNOMRH2,masuk
+stok_masuk_keluar,knpth1,KNPTH1,1,1,mapping tersimpan -> kode,KNOPTH1,masuk
+stok_masuk_keluar,knup,KNUP,1,1,mapping tersimpan -> kode,KONUP,masuk
+stok_masuk_keluar,konpth2,KONPTH2,1,1,mapping tersimpan -> kode,KNOPTH2,masuk
+stok_masuk_keluar,konup,KONUP,18,18,kode,KONUP,masuk
+stok_masuk_keluar,konup 480 sl,Konup 480 SL,1,1,nama,KONUP,masuk
+stok_masuk_keluar,kovin plus 80p,Kovin Plus 80P,4,4,nama,KOVINPLUS,masuk
+stok_masuk_keluar,kovinplus,KOVINPLUS,56,56,kode,KOVINPLUS,masuk
+stok_masuk_keluar,kreslon 480 ec,Kreslon 480 EC,1,1,nama,KRSLN,masuk
+stok_masuk_keluar,kresnabat40,KRESNABAT40,7,7,kode,KRESNABAT40,masuk
+stok_masuk_keluar,kresnacid 250 ec,Kresnacid 250 EC,1,1,nama,KRSNCD,masuk
+stok_masuk_keluar,kresnatop,KRESNATOP,17,17,kode,KRESNATOP,masuk
+stok_masuk_keluar,kresnatop 500 sc,Kresnatop 500 SC,1,1,nama,KRESNATOP,masuk
+stok_masuk_keluar,krlsn,KRLSN,1,1,mapping tersimpan -> kode,KRSLN,masuk
+stok_masuk_keluar,krscnd,KRSCND,1,1,mapping tersimpan -> kode,KRSNCD,masuk
+stok_masuk_keluar,krsln,KRSLN,29,29,kode,KRSLN,masuk
+stok_masuk_keluar,krsncd,KRSNCD,27,27,kode,KRSNCD,masuk
+stok_masuk_keluar,krtbrn,KRTBRN,15,15,kode,KRTBRN,masuk
+stok_masuk_keluar,kyrs500,KYRS500,2,2,kode,KYRS500,masuk
+stok_masuk_keluar,liq,LIQ,27,27,kode,LIQ,masuk
+stok_masuk_keluar,m21,M21,15,15,kode,M21,masuk
+stok_masuk_keluar,magnesium sulfat pak tani,Magnesium Sulfat Pak Tani,3,3,nama,MGSULFATE,masuk
+stok_masuk_keluar,manzate 82 wp,Manzate 82 WP,1,1,nama,MANZATE500,masuk
+stok_masuk_keluar,manzate500,MANZATE500,19,19,kode,MANZATE500,masuk
+stok_masuk_keluar,marsha25,MARSHA25,1,1,mapping tersimpan -> kode,MARSHAL25,masuk
+stok_masuk_keluar,marshal 25 ds,Marshal 25 DS,1,1,nama,MARSHAL25,masuk
+stok_masuk_keluar,marshal25,MARSHAL25,18,18,kode,MARSHAL25,masuk
+stok_masuk_keluar,martrex500,MARTREX500,22,22,kode,MARTREX500,masuk
+stok_masuk_keluar,maxxfosate250,MAXXFOSATE250,24,24,kode,MAXXFOSATE250,masuk
+stok_masuk_keluar,maxxigro b,Maxxigro B,3,3,nama,MAXXIGROB500,masuk
+stok_masuk_keluar,maxxigro d,Maxxigro D,1,1,nama,MAXXIGROD500,masuk
+stok_masuk_keluar,maxxigrob500,MAXXIGROB500,30,30,kode,MAXXIGROB500,masuk
+stok_masuk_keluar,maxxigrod500,MAXXIGROD500,28,28,kode,MAXXIGROD500,masuk
+stok_masuk_keluar,mekarmap,MekarMAP,1,1,nama,MEKARMAP1,masuk
+stok_masuk_keluar,mekarmap1,MEKARMAP1,24,24,kode,MEKARMAP1,masuk
+stok_masuk_keluar,metazb1,METAZB1,1,1,mapping tersimpan -> kode,METAZEB1,masuk
+stok_masuk_keluar,metazeb 80 wp,Metazeb 80 WP,1,1,nama,METAZEB1,masuk
+stok_masuk_keluar,metazeb1,METAZEB1,29,29,kode,METAZEB1,masuk
+stok_masuk_keluar,mgsulfate,MGSULFATE,35,35,kode,MGSULFATE,masuk
+stok_masuk_keluar,mguslfate,MGUSLFATE,1,1,mapping tersimpan -> kode,MGSULFATE,masuk
+stok_masuk_keluar,mipcinta 50 wp,Mipcinta 50 WP,2,2,nama,MIPCINTA100,masuk
+stok_masuk_keluar,mipcinta00,MIPCINTA00,1,1,mapping tersimpan -> kode,MIPCINTA100,masuk
+stok_masuk_keluar,mipcinta100,MIPCINTA100,44,44,kode,MIPCINTA100,masuk
+stok_masuk_keluar,mkarmap1,MKARMAP1,1,1,mapping tersimpan -> kode,MEKARMAP1,masuk
+stok_masuk_keluar,mkp pak tani,MKP Pak Tani,1,1,nama,MKP1,masuk
+stok_masuk_keluar,mkp1,MKP1,53,53,kode,MKP1,masuk
+stok_masuk_keluar,molase,MOLASE,27,27,kode,MOLASE,masuk
+stok_masuk_keluar,mst 2l,MST 2L,3,3,kode,MST 2L,masuk
+stok_masuk_keluar,mtdr,MTDR,16,16,kode,MTDR,masuk
+stok_masuk_keluar,mtslndo,MTSLNDO,11,11,kode,MTSLNDO,masuk
+stok_masuk_keluar,nativo 75 wg,Nativo 75 WG,2,2,nama,NTVK,masuk
+stok_masuk_keluar,nkpm1,NKPM1,1,1,mapping tersimpan -> kode,NPKM1,masuk
+stok_masuk_keluar,nkptwn1,NKPTWN1,1,1,mapping tersimpan -> kode,NPKTWN1,masuk
+stok_masuk_keluar,nkpyrml,NKPYRML,1,1,mapping tersimpan -> kode,NPKYRML,masuk
+stok_masuk_keluar,nordox 56 wp,Nordox 56 WP,1,1,nama,NRDX,masuk
+stok_masuk_keluar,noxone1l,NOXONE1L,2,2,kode,NOXONE1L,masuk
+stok_masuk_keluar,npk cap tawon,NPK Cap Tawon,1,1,nama,NPKTWN1,masuk
+stok_masuk_keluar,npk mutiara,NPK Mutiara,2,2,nama,NPKM1,masuk
+stok_masuk_keluar,npk pak tani,NPK Pak Tani,3,3,nama,NPKPT,masuk
+stok_masuk_keluar,npkamong5,NPKAMONG5,15,15,kode,NPKAMONG5,masuk
+stok_masuk_keluar,npkm1,NPKM1,38,38,kode,NPKM1,masuk
+stok_masuk_keluar,npkmgrw,NPKMGRW,4,4,kode,NPKMGRW,masuk
+stok_masuk_keluar,npkpt,NPKPT,29,29,kode,NPKPT,masuk
+stok_masuk_keluar,npkryml,NPKRYML,1,1,mapping tersimpan -> kode,NPKYRML,masuk
+stok_masuk_keluar,npktwn1,NPKTWN1,32,32,kode,NPKTWN1,masuk
+stok_masuk_keluar,npkyrml,NPKYRML,15,15,kode,NPKYRML,masuk
+stok_masuk_keluar,npmk1,NPMK1,1,1,mapping tersimpan -> kode,NPKM1,masuk
+stok_masuk_keluar,nrdx,NRDX,31,31,kode,NRDX,masuk
+stok_masuk_keluar,ntvk,NTVK,42,42,kode,NTVK,masuk
+stok_masuk_keluar,nugrass,NUGRASS,16,16,kode,NUGRASS,masuk
+stok_masuk_keluar,nugrass 69 ec,Nugrass 69 EC,3,3,nama,NUGRASS,masuk
+stok_masuk_keluar,pegasus80,PEGASUS80,5,5,kode,PEGASUS80,masuk
+stok_masuk_keluar,penum25,PENUM25,1,1,mapping tersimpan -> kode,PLENUM25,masuk
+stok_masuk_keluar,petrogeol 800l,Petrogeol 800L,1,1,nama,PTRGNL,masuk
+stok_masuk_keluar,"petrokum 0,005 bb","Petrokum 0,005 BB",1,1,nama,PETROKUM100,masuk
+stok_masuk_keluar,petrokum100,PETROKUM100,43,43,kode,PETROKUM100,masuk
+stok_masuk_keluar,pgasus80,PGASUS80,1,1,mapping tersimpan -> kode,PEGASUS80,masuk
+stok_masuk_keluar,plenum25,PLENUM25,24,24,kode,PLENUM25,masuk
+stok_masuk_keluar,pleum25,PLEUM25,1,1,mapping tersimpan -> kode,PLENUM25,masuk
+stok_masuk_keluar,plybg15,PLYBG15,22,22,kode,PLYBG15,masuk
+stok_masuk_keluar,plybg20,PLYBG20,11,11,kode,PLYBG20,masuk
+stok_masuk_keluar,plybg35,PLYBG35,32,32,kode,PLYBG35,masuk
+stok_masuk_keluar,plybg40,PLYBG40,3,3,kode,PLYBG40,masuk
+stok_masuk_keluar,plybg45,PLYBG45,1,1,kode,PLYBG45,masuk
+stok_masuk_keluar,plybg50,PLYBG50,28,28,kode,PLYBG50,masuk
+stok_masuk_keluar,pocmf1l,POCMF1L,4,4,kode,POCMF1L,masuk
+stok_masuk_keluar,polybag tanaman 35x35,Polybag Tanaman 35x35,2,2,nama,PLYBG35,masuk
+stok_masuk_keluar,polybag tanaman 40x40,Polybag Tanaman 40x40,1,1,nama,PLYBG40,masuk
+stok_masuk_keluar,polybag tanaman 50x50,Polybag Tanaman 50x50,2,2,nama,PLYBG50,masuk
+stok_masuk_keluar,prevathon100,PREVATHON100,12,12,kode,PREVATHON100,masuk
+stok_masuk_keluar,ptrgnl,PTRGNL,27,27,kode,PTRGNL,masuk
+stok_masuk_keluar,pupuk amazing grow pembuahan,Pupuk Amazing Grow Pembuahan,2,2,nama,AGB,masuk
+stok_masuk_keluar,pupuk amazing grow pertumbuhan,Pupuk Amazing Grow Pertumbuhan,1,1,nama,AGT,masuk
+stok_masuk_keluar,radockcl,RADOCKCL,2,2,kode,RADOCKCL,masuk
+stok_masuk_keluar,rdpb,RDPB,43,43,kode,RDPB,masuk
+stok_masuk_keluar,rdpk,RDPK,17,17,kode,RDPK,masuk
+stok_masuk_keluar,rdstr100,RDSTR100,2,2,kode,RDSTR100,masuk
+stok_masuk_keluar,rgnt,RGNT,15,15,kode,RGNT,masuk
+stok_masuk_keluar,rgntb,RGNTB,33,33,kode,RGNTB,masuk
+stok_masuk_keluar,riovil 50 sc,Riovil 50 SC,1,1,nama,RIOVIL100,masuk
+stok_masuk_keluar,riovil100,RIOVIL100,31,31,kode,RIOVIL100,masuk
+stok_masuk_keluar,rmps100,RMPS100,15,15,kode,RMPS100,masuk
+stok_masuk_keluar,rngtb,RNGTB,1,1,mapping tersimpan -> kode,RGNTB,masuk
+stok_masuk_keluar,roundup 486 sl,Roundup 486 SL,3,1,nama + harga,RDPK,sebagian ditolak
+stok_masuk_keluar,rpdb,RPDB,1,1,mapping tersimpan -> kode,RDPB,masuk
+stok_masuk_keluar,samite 135 ec,Samite 135 EC,2,2,nama,SAMITE100,masuk
+stok_masuk_keluar,samite100,SAMITE100,26,26,kode,SAMITE100,masuk
+stok_masuk_keluar,samte100,SAMTE100,1,1,mapping tersimpan -> kode,SAMITE100,masuk
+stok_masuk_keluar,sapporo 52 ec,Sapporo 52 EC,2,2,nama,SAPPORO100,masuk
+stok_masuk_keluar,sapporo100,SAPPORO100,41,41,kode,SAPPORO100,masuk
+stok_masuk_keluar,scr80,SCR80,16,16,kode,SCR80,masuk
+stok_masuk_keluar,sdmhtrn,SDMHTRN,1,1,mapping tersimpan -> kode,SDMTHRN,masuk
+stok_masuk_keluar,sdmthrn,SDMTHRN,29,29,kode,SDMTHRN,masuk
+stok_masuk_keluar,sdtmhrn,SDTMHRN,2,2,mapping tersimpan -> kode,SDMTHRN,masuk
+stok_masuk_keluar,seetop1l,SEETOP1L,7,7,kode,SEETOP1L,masuk
+stok_masuk_keluar,serendy,SERENDY,1,1,kode,SERENDY,masuk
+stok_masuk_keluar,sidafos1l,SIDAFOS1L,11,11,kode,SIDAFOS1L,masuk
+stok_masuk_keluar,sidatan 410 sl,Sidatan 410 SL,1,1,nama,SIDATAN400,masuk
+stok_masuk_keluar,sidatan400,SIDATAN400,17,17,kode,SIDATAN400,masuk
+stok_masuk_keluar,sontan,SONTAN,1,1,mapping tersimpan -> kode,SPONTAN,masuk
+stok_masuk_keluar,spontan,SPONTAN,32,32,kode,SPONTAN,masuk
+stok_masuk_keluar,spontan 400 sl,Spontan 400 SL,2,2,nama,SPONTAN,masuk
+stok_masuk_keluar,spontan king 400 sl,Spontan King 400 SL,1,1,nama,SPONTANKING,masuk
+stok_masuk_keluar,spontanking,SPONTANKING,22,22,kode,SPONTANKING,masuk
+stok_masuk_keluar,sprfs100,SPRFS100,1,1,kode,SPRFS100,masuk
+stok_masuk_keluar,starban 585 ec,Starban 585 EC,1,1,nama,STRBN100,masuk
+stok_masuk_keluar,starlon100,STARLON100,10,10,kode,STARLON100,masuk
+stok_masuk_keluar,strbn00,STRBN00,1,1,mapping tersimpan -> kode,STRBN100,masuk
+stok_masuk_keluar,strbn100,STRBN100,21,21,kode,STRBN100,masuk
+stok_masuk_keluar,suerel100,SUEREL100,1,1,mapping tersimpan -> kode,SUPEREL100,masuk
+stok_masuk_keluar,sumo 50 ec,Sumo 50 EC,1,1,nama,SUMO80,masuk
+stok_masuk_keluar,sumo80,SUMO80,31,31,kode,SUMO80,masuk
+stok_masuk_keluar,superel 480 sl,Superel 480 SL,2,2,nama,SUPEREL100,masuk
+stok_masuk_keluar,superel100,SUPEREL100,53,53,kode,SUPEREL100,masuk
+stok_masuk_keluar,tamacron,TAMACRON,13,13,kode,TAMACRON,masuk
+stok_masuk_keluar,tma 6 865 sl,TMA 6 865 SL,4,4,nama,TMA400,masuk
+stok_masuk_keluar,tma400,TMA400,27,27,kode,TMA400,masuk
+stok_masuk_keluar,topsin 500 ec,Topsin 500 EC,1,1,nama,TPSN,masuk
+stok_masuk_keluar,tpsn,TPSN,36,36,kode,TPSN,masuk
+stok_masuk_keluar,tricho00,TRICHO00,1,1,mapping tersimpan -> kode,TRICHO500,masuk
+stok_masuk_keluar,tricho500,TRICHO500,34,34,kode,TRICHO500,masuk
+stok_masuk_keluar,trobos 200 sl,Trobos 200 SL,4,4,nama,TROBOS100,masuk
+stok_masuk_keluar,trobos100,TROBOS100,54,54,kode,TROBOS100,masuk
+stok_masuk_keluar,uea50kg,UEA50KG,1,1,mapping tersimpan -> kode,UREA50KG,masuk
+stok_masuk_keluar,ultrdp,ULTRDP,20,20,kode,ULTRDP,masuk
+stok_masuk_keluar,urea,UREA,10,10,kode,UREA,masuk
+stok_masuk_keluar,urea curah,Urea Curah,1,1,nama,UREA,masuk
+stok_masuk_keluar,urea50kg,UREA50KG,35,35,kode,UREA50KG,masuk
+stok_masuk_keluar,vgr400,VGR400,1,1,mapping tersimpan -> kode,VLGR400,masuk
+stok_masuk_keluar,vlg4r00,VLG4R00,1,1,mapping tersimpan -> kode,VLGR400,masuk
+stok_masuk_keluar,vlgr400,VLGR400,31,31,kode,VLGR400,masuk
+stok_masuk_keluar,vulgar 865 sl,Vulgar 865 SL,1,1,nama,VLGR400,masuk
+stok_masuk_keluar,waux,WAUX,3,3,kode,WAUX,masuk
+stok_masuk_keluar,winder 100 ec,Winder 100 EC,2,2,nama,WINDER100,masuk
+stok_masuk_keluar,winder100,WINDER100,46,46,kode,WINDER100,masuk
+stok_masuk_keluar,windr100,WINDR100,1,1,mapping tersimpan -> kode,WINDER100,masuk
+stok_masuk_keluar,wnider100,WNIDER100,1,1,mapping tersimpan -> kode,WINDER100,masuk
+stok_masuk_keluar,youstick500,YOUSTICK500,19,19,kode,YOUSTICK500,masuk
+stok_masuk_keluar,znso4,ZNSO4,10,10,kode,ZNSO4,masuk
+pemecahan,dlmt,DLMT,97,97,kode,DLMT,masuk
+pemecahan,dmlt,DMLT,2,2,mapping tersimpan -> kode,DLMT,masuk
+pemecahan,ekape500,EKAPE500,1,1,kandidat sempit (skor 0.94),EMKAPE500,masuk
+pemecahan,ekmape500,EKMAPE500,2,2,kandidat sempit (skor 1.00),EMKAPE500,masuk
+pemecahan,emakpe500,EMAKPE500,1,1,kandidat sempit (skor 1.00),EMKAPE500,masuk
+pemecahan,emape500,EMAPE500,1,1,mapping tersimpan -> kode,EMKAPE500,masuk
+pemecahan,emkap500,EMKAP500,1,1,kandidat sempit (skor 0.94),EMKAPE500,masuk
+pemecahan,emkap5e00,EMKAP5E00,3,3,kandidat sempit (skor 1.00),EMKAPE500,masuk
+pemecahan,emkape050,EMKAPE050,1,1,kandidat sempit (skor 1.00),EMKAPE500,masuk
+pemecahan,emkape500,EMKAPE500,413,413,kode,EMKAPE500,masuk
+pemecahan,emkpe500,EMKPE500,1,1,kandidat sempit (skor 0.94),EMKAPE500,masuk
+pemecahan,frtphs1,FRTPHS1,28,28,kode,FRTPHS1,masuk
+pemecahan,kanitrat500,KANITRAT500,10,10,kode,KANITRAT500,masuk
+pemecahan,kcl,KCL,103,103,kode,KCL,masuk
+pemecahan,uea,UEA,1,1,kandidat sempit (skor 0.86),UREA,masuk
+pemecahan,urea,UREA,43,43,kode,UREA,masuk
+rakit_paket,pakegdsl,PAKEGDSL,1,1,kandidat sempit (skor 0.94),PAKETGDSL,masuk
+rakit_paket,paketbuah250,PAKETBUAH250,3,3,kode,PAKETBUAH250,masuk
+rakit_paket,paketgdsl,PAKETGDSL,2,2,kode,PAKETGDSL,masuk
+rakit_paket,paketgnrtf,PAKETGNRTF,1,1,kode,PAKETGNRTF,masuk
+rakit_paket,pakettumbuh250,PAKETTUMBUH250,33,33,kode,PAKETTUMBUH250,masuk
+rakit_paket,paketutmbuh250,PAKETUTMBUH250,1,1,kandidat sempit (skor 1.00),PAKETTUMBUH250,masuk
+opname,abacel,ABACEL,4,4,kode,ABACEL,masuk
+opname,agb,AGB,8,8,kode,AGB,masuk
+opname,agcel250,AGCEL250,7,7,kode,AGCEL250,masuk
+opname,agl,AGL,5,5,kode,AGL,masuk
+opname,agt,AGT,6,6,kode,AGT,masuk
+opname,alika50,ALIKA50,6,6,kode,ALIKA50,masuk
+opname,alita100,ALITA100,6,6,kode,ALITA100,masuk
+opname,ambtn500,AMBTN500,4,4,kode,AMBTN500,masuk
+opname,aminonano,AMINONANO,4,4,kode,AMINONANO,masuk
+opname,amstrtop50,AMSTRTOP50,3,3,kode,AMSTRTOP50,masuk
+opname,antila500,ANTILA500,7,7,kode,ANTILA500,masuk
+opname,antrcl,ANTRCL,5,5,kode,ANTRCL,masuk
+opname,antrcl500,ANTRCL500,6,6,kode,ANTRCL500,masuk
+opname,anwavin100,ANWAVIN100,7,7,kode,ANWAVIN100,masuk
+opname,asaiboron1,ASAIBORON1,1,1,mapping tersimpan -> kode,ASIABORON1,masuk
+opname,asiaboron1,ASIABORON1,7,7,kode,ASIABORON1,masuk
+opname,atnk,ATNK,2,2,kode,ATNK,masuk
+opname,avidor100,AVIDOR100,3,3,kode,AVIDOR100,masuk
+opname,bblss,BBLSS,5,5,kode,BBLSS,masuk
+opname,bestar1l,BESTAR1L,6,6,kode,BESTAR1L,masuk
+opname,bfs1l,BFS1L,5,5,kode,BFS1L,masuk
+opname,binik100,BINIK100,1,1,mapping tersimpan -> kode,BIONIK100,masuk
+opname,biocalsium1,BIOCALSIUM1,10,10,kode,BIOCALSIUM1,masuk
+opname,bionik100,BIONIK100,7,7,kode,BIONIK100,masuk
+opname,biotek,BIOTEK,5,5,kode,BIOTEK,masuk
+opname,blstc,BLSTC,6,6,kode,BLSTC,masuk
+opname,broadplus40,BROADPLUS40,4,4,kode,BROADPLUS40,masuk
+opname,brvtp1l,BRVTP1L,8,8,kode,BRVTP1L,masuk
+opname,brvxn,BRVXN,7,7,kode,BRVXN,masuk
+opname,calsiumspr1,CALSIUMSPR1,4,4,kode,CALSIUMSPR1,masuk
+opname,cng1,CNG1,6,6,kode,CNG1,masuk
+opname,cph,CPH,5,5,kode,CPH,masuk
+opname,cprcd00,CPRCD00,1,1,mapping tersimpan -> kode,CPRCD100,masuk
+opname,cprcd100,CPRCD100,2,2,kode,CPRCD100,masuk
+opname,crc,CRC,7,7,kode,CRC,masuk
+opname,dangke100,DANGKE100,4,4,kode,DANGKE100,masuk
+opname,dcsb,DCSB,5,5,kode,DCSB,masuk
+opname,dcsk,DCSK,4,4,kode,DCSK,masuk
+opname,debesttan100,DEBESTTAN100,3,3,kode,DEBESTTAN100,masuk
+opname,dithane200,DITHANE200,5,5,kode,DITHANE200,masuk
+opname,dlmt,DLMT,5,5,kode,DLMT,masuk
+opname,dlmt50kg,DLMT50KG,7,7,kode,DLMT50KG,masuk
+opname,em4b,EM4B,7,7,kode,EM4B,masuk
+opname,em4c,EM4C,3,3,kode,EM4C,masuk
+opname,em4k,EM4K,5,5,kode,EM4K,masuk
+opname,em4p,EM4P,4,4,kode,EM4P,masuk
+opname,emkape1,EMKAPE1,6,6,kode,EMKAPE1,masuk
+opname,emkape500,EMKAPE500,4,4,kode,EMKAPE500,masuk
+opname,erosgold100,EROSGOLD100,5,5,kode,EROSGOLD100,masuk
+opname,etrekkcl,ETREKKCL,2,2,kode,ETREKKCL,masuk
+opname,explore80,EXPLORE80,6,6,kode,EXPLORE80,masuk
+opname,farmquat250,FARMQUAT250,9,9,kode,FARMQUAT250,masuk
+opname,fenite100,FENITE100,4,4,kode,FENITE100,masuk
+opname,fenite50,FENITE50,7,7,kode,FENITE50,masuk
+opname,filia50,FILIA50,3,3,kode,FILIA50,masuk
+opname,frd1,FRD1,6,6,kode,FRD1,masuk
+opname,frd2,FRD2,4,4,kode,FRD2,masuk
+opname,frtphs1,FRTPHS1,6,6,kode,FRTPHS1,masuk
+opname,frtphs50kg,FRTPHS50KG,5,5,kode,FRTPHS50KG,masuk
+opname,fstc,FSTC,7,7,kode,FSTC,masuk
+opname,fstn100,FSTN100,6,6,kode,FSTN100,masuk
+opname,fstscr500,FSTSCR500,5,5,kode,FSTSCR500,masuk
+opname,ftsscr500,FTSSCR500,1,1,mapping tersimpan -> kode,FSTSCR500,masuk
+opname,gats,GATS,6,6,kode,GATS,masuk
+opname,gdslb,GDSLB,4,4,kode,GDSLB,masuk
+opname,gdslb500,GDSLB500,5,5,kode,GDSLB500,masuk
+opname,gdsld,GDSLD,6,6,kode,GDSLD,masuk
+opname,gdsld500,GDSLD500,6,6,kode,GDSLD500,masuk
+opname,gempur1,GEMPUR1,4,4,kode,GEMPUR1,masuk
+opname,gibgro,GIBGRO,3,3,kode,GIBGRO,masuk
+opname,gibgropn,GIBGROPN,4,4,kode,GIBGROPN,masuk
+opname,gkng,GKNG,4,4,kode,GKNG,masuk
+opname,glubest1l,GLUBEST1L,4,4,kode,GLUBEST1L,masuk
+opname,gmbr3l,GMBR3L,7,7,kode,GMBR3L,masuk
+opname,gobest100,GOBEST100,6,6,kode,GOBEST100,masuk
+opname,gosongotp500,GOSONGOTP500,1,1,mapping tersimpan -> kode,GOSONGTOP500,masuk
+opname,gosongtop250,GOSONGTOP250,6,6,kode,GOSONGTOP250,masuk
+opname,gosongtop500,GOSONGTOP500,3,3,kode,GOSONGTOP500,masuk
+opname,grnstik,GRNSTIK,4,4,kode,GRNSTIK,masuk
+opname,grntnk1,GRNTNK1,6,6,kode,GRNTNK1,masuk
+opname,grxb,GRXB,5,5,kode,GRXB,masuk
+opname,grxk,GRXK,6,6,kode,GRXK,masuk
+opname,humigrow500,HUMIGROW500,6,6,kode,HUMIGROW500,masuk
+opname,instamax1l,INSTAMAX1L,4,4,kode,INSTAMAX1L,masuk
+opname,isadora400,ISADORA400,7,7,kode,ISADORA400,masuk
+opname,jaringbsr,JARINGBSR,6,6,kode,JARINGBSR,masuk
+opname,jaringsdg,JARINGSDG,6,6,kode,JARINGSDG,masuk
+opname,jsp1l,JSP1L,4,4,kode,JSP1L,masuk
+opname,jsp500,JSP500,6,6,kode,JSP500,masuk
+opname,kalinet500,KALINET500,8,8,kode,KALINET500,masuk
+opname,kanitrat1,KANITRAT1,5,5,kode,KANITRAT1,masuk
+opname,kanitrat500,KANITRAT500,6,6,kode,KANITRAT500,masuk
+opname,kanon100,KANON100,6,6,kode,KANON100,masuk
+opname,kcl,KCL,7,7,kode,KCL,masuk
+opname,kcl50kg,KCL50KG,5,5,kode,KCL50KG,masuk
+opname,kinglon100,KINGLON100,8,8,kode,KINGLON100,masuk
+opname,kingtonik1,KINGTONIK1,5,5,kode,KINGTONIK1,masuk
+opname,klimax,KLIMAX,5,5,kode,KLIMAX,masuk
+opname,knomrh2,KNOMRH2,8,8,kode,KNOMRH2,masuk
+opname,knopth1,KNOPTH1,7,7,kode,KNOPTH1,masuk
+opname,knopth2,KNOPTH2,2,2,kode,KNOPTH2,masuk
+opname,komrh2,KOMRH2,1,1,mapping tersimpan -> kode,KNOMRH2,masuk
+opname,konup,KONUP,5,5,kode,KONUP,masuk
+opname,kovinplus,KOVINPLUS,7,7,kode,KOVINPLUS,masuk
+opname,kresnaat40,KRESNAAT40,1,1,mapping tersimpan -> kode,KRESNABAT40,masuk
+opname,kresnabat40,KRESNABAT40,6,6,kode,KRESNABAT40,masuk
+opname,kresnatop,KRESNATOP,7,7,kode,KRESNATOP,masuk
+opname,krsln,KRSLN,3,3,kode,KRSLN,masuk
+opname,krsncd,KRSNCD,8,8,kode,KRSNCD,masuk
+opname,krtbrn,KRTBRN,7,7,kode,KRTBRN,masuk
+opname,kyrs050,KYRS050,1,1,mapping tersimpan -> kode,KYRS500,masuk
+opname,kyrs500,KYRS500,3,3,kode,KYRS500,masuk
+opname,lindomin400,LINDOMIN400,7,7,kode,LINDOMIN400,masuk
+opname,liq,LIQ,6,6,kode,LIQ,masuk
+opname,m21,M21,7,7,kode,M21,masuk
+opname,manohara1,MANOHARA1,5,5,kode,MANOHARA1,masuk
+opname,manzate500,MANZATE500,7,7,kode,MANZATE500,masuk
+opname,marshal25,MARSHAL25,4,4,kode,MARSHAL25,masuk
+opname,martrex500,MARTREX500,5,5,kode,MARTREX500,masuk
+opname,maxxfosate250,MAXXFOSATE250,7,7,kode,MAXXFOSATE250,masuk
+opname,maxxigrd500,MAXXIGRD500,1,0,tidak dikenal,,ditolak
+opname,maxxigrob500,MAXXIGROB500,7,7,kode,MAXXIGROB500,masuk
+opname,maxxigrod500,MAXXIGROD500,3,3,kode,MAXXIGROD500,masuk
+opname,megazeb,MEGAZEB,7,7,kode,MEGAZEB,masuk
+opname,mekarmap1,MEKARMAP1,5,5,kode,MEKARMAP1,masuk
+opname,metazeb1,METAZEB1,6,6,kode,METAZEB1,masuk
+opname,mgsulfate,MGSULFATE,5,5,kode,MGSULFATE,masuk
+opname,mipcinta100,MIPCINTA100,7,7,kode,MIPCINTA100,masuk
+opname,mkp1,MKP1,4,4,kode,MKP1,masuk
+opname,molase,MOLASE,7,7,kode,MOLASE,masuk
+opname,mst 2l,MST 2L,6,6,kode,MST 2L,masuk
+opname,mtdr,MTDR,4,4,kode,MTDR,masuk
+opname,mtslndo,MTSLNDO,7,7,kode,MTSLNDO,masuk
+opname,noxone1l,NOXONE1L,7,7,kode,NOXONE1L,masuk
+opname,npkamong5,NPKAMONG5,5,5,kode,NPKAMONG5,masuk
+opname,npkm1,NPKM1,5,5,kode,NPKM1,masuk
+opname,npkmgrw,NPKMGRW,10,10,kode,NPKMGRW,masuk
+opname,npkpt,NPKPT,2,2,kode,NPKPT,masuk
+opname,npktwn1,NPKTWN1,5,5,kode,NPKTWN1,masuk
+opname,npkyrml,NPKYRML,6,6,kode,NPKYRML,masuk
+opname,nrdx,NRDX,5,5,kode,NRDX,masuk
+opname,ntvk,NTVK,5,5,kode,NTVK,masuk
+opname,nugrass,NUGRASS,7,7,kode,NUGRASS,masuk
+opname,pakebuah250,PAKEBUAH250,1,1,mapping tersimpan -> kode,PAKETBUAH250,masuk
+opname,paketag,PAKETAG,5,5,kode,PAKETAG,masuk
+opname,paketbuah250,PAKETBUAH250,4,4,kode,PAKETBUAH250,masuk
+opname,paketgdsl,PAKETGDSL,3,3,kode,PAKETGDSL,masuk
+opname,paketgnrtf,PAKETGNRTF,8,8,kode,PAKETGNRTF,masuk
+opname,pakettumbuh250,PAKETTUMBUH250,7,7,kode,PAKETTUMBUH250,masuk
+opname,pegasus80,PEGASUS80,6,6,kode,PEGASUS80,masuk
+opname,petrokum100,PETROKUM100,6,6,kode,PETROKUM100,masuk
+opname,plenum25,PLENUM25,7,7,kode,PLENUM25,masuk
+opname,plyb2g5,PLYB2G5,1,1,mapping tersimpan -> kode,PLYBG25,masuk
+opname,plybg15,PLYBG15,9,9,kode,PLYBG15,masuk
+opname,plybg20,PLYBG20,6,6,kode,PLYBG20,masuk
+opname,plybg25,PLYBG25,6,6,kode,PLYBG25,masuk
+opname,plybg30,PLYBG30,5,5,kode,PLYBG30,masuk
+opname,plybg35,PLYBG35,4,4,kode,PLYBG35,masuk
+opname,plybg40,PLYBG40,2,2,kode,PLYBG40,masuk
+opname,plybg45,PLYBG45,6,6,kode,PLYBG45,masuk
+opname,plybg50,PLYBG50,4,4,kode,PLYBG50,masuk
+opname,plygb30,PLYGB30,1,1,mapping tersimpan -> kode,PLYBG30,masuk
+opname,pocmf1l,POCMF1L,9,9,kode,POCMF1L,masuk
+opname,prevathon100,PREVATHON100,5,5,kode,PREVATHON100,masuk
+opname,ptrgnl,PTRGNL,7,7,kode,PTRGNL,masuk
+opname,radockcl,RADOCKCL,3,3,kode,RADOCKCL,masuk
+opname,rdpb,RDPB,4,4,kode,RDPB,masuk
+opname,rdpk,RDPK,3,3,kode,RDPK,masuk
+opname,rdstr100,RDSTR100,7,7,kode,RDSTR100,masuk
+opname,rgnt,RGNT,3,3,kode,RGNT,masuk
+opname,rgntb,RGNTB,6,6,kode,RGNTB,masuk
+opname,riovil100,RIOVIL100,6,6,kode,RIOVIL100,masuk
+opname,rmps100,RMPS100,5,5,kode,RMPS100,masuk
+opname,samite100,SAMITE100,11,11,kode,SAMITE100,masuk
+opname,sapporo100,SAPPORO100,3,3,kode,SAPPORO100,masuk
+opname,scr80,SCR80,5,5,kode,SCR80,masuk
+opname,sdmthrn,SDMTHRN,5,5,kode,SDMTHRN,masuk
+opname,seetop1l,SEETOP1L,8,8,kode,SEETOP1L,masuk
+opname,serendy,SERENDY,6,6,kode,SERENDY,masuk
+opname,sidafos1l,SIDAFOS1L,4,4,kode,SIDAFOS1L,masuk
+opname,sidatan400,SIDATAN400,5,5,kode,SIDATAN400,masuk
+opname,spontan,SPONTAN,5,5,kode,SPONTAN,masuk
+opname,spontanking,SPONTANKING,4,4,kode,SPONTANKING,masuk
+opname,sprfs100,SPRFS100,8,8,kode,SPRFS100,masuk
+opname,starlon100,STARLON100,7,7,kode,STARLON100,masuk
+opname,strbn100,STRBN100,5,5,kode,STRBN100,masuk
+opname,sumo80,SUMO80,6,6,kode,SUMO80,masuk
+opname,superel100,SUPEREL100,8,8,kode,SUPEREL100,masuk
+opname,tamacron,TAMACRON,4,4,kode,TAMACRON,masuk
+opname,tma400,TMA400,6,6,kode,TMA400,masuk
+opname,tpsn,TPSN,7,7,kode,TPSN,masuk
+opname,tricho500,TRICHO500,6,6,kode,TRICHO500,masuk
+opname,trico500,TRICO500,1,1,mapping tersimpan -> kode,TRICHO500,masuk
+opname,trobos100,TROBOS100,8,8,kode,TROBOS100,masuk
+opname,ultrdp,ULTRDP,8,8,kode,ULTRDP,masuk
+opname,urea,UREA,5,5,kode,UREA,masuk
+opname,urea50kg,UREA50KG,6,6,kode,UREA50KG,masuk
+opname,vlgr400,VLGR400,7,7,kode,VLGR400,masuk
+opname,waux,WAUX,8,8,kode,WAUX,masuk
+opname,winder100,WINDER100,5,5,kode,WINDER100,masuk
+opname,youstick500,YOUSTICK500,7,7,kode,YOUSTICK500,masuk
+opname,znso4,ZNSO4,4,4,kode,ZNSO4,masuk
+metrik_marketplace,abacel,ABACEL,29,29,kode,ABACEL,masuk
+metrik_marketplace,abacel 18 ec,Abacel 18 EC,30,30,nama,ABACEL,masuk
+metrik_marketplace,agb,AGB,28,28,kode,AGB,masuk
+metrik_marketplace,agl,AGL,35,35,kode,AGL,masuk
+metrik_marketplace,agt,AGT,37,37,kode,AGT,masuk
+metrik_marketplace,alika 247 zc,Alika 247 ZC,23,23,nama,ALIKA50,masuk
+metrik_marketplace,alika50,ALIKA50,36,36,kode,ALIKA50,masuk
+metrik_marketplace,amazing grow booster kelengkeng,Amazing Grow Booster Kelengkeng,24,24,nama,AGL,masuk
+metrik_marketplace,antracol 70 wp,Antracol 70 WP,47,47,nama + harga,"ANTRCL, ANTRCL500",masuk
+metrik_marketplace,antrcl,ANTRCL,38,38,kode,ANTRCL,masuk
+metrik_marketplace,antrcl500,ANTRCL500,33,33,kode,ANTRCL500,masuk
+metrik_marketplace,anwavin 500 ec,Anwavin 500 EC,25,25,nama,ANWAVIN100,masuk
+metrik_marketplace,anwavin100,ANWAVIN100,34,34,kode,ANWAVIN100,masuk
+metrik_marketplace,avidor 25 wp,Avidor 25 WP,27,27,nama,AVIDOR100,masuk
+metrik_marketplace,avidor100,AVIDOR100,32,32,kode,AVIDOR100,masuk
+metrik_marketplace,balistic 50 sc,Balistic 50 SC,24,24,nama,BLSTC,masuk
+metrik_marketplace,bfs1l,BFS1L,32,32,kode,BFS1L,masuk
+metrik_marketplace,bio calsium,Bio Calsium,22,22,nama,BIOCALSIUM1,masuk
+metrik_marketplace,biocalsium1,BIOCALSIUM1,37,37,kode,BIOCALSIUM1,masuk
+metrik_marketplace,bionik 400 ec,Bionik 400 EC,16,16,nama,BIONIK100,masuk
+metrik_marketplace,bionik100,BIONIK100,43,43,kode,BIONIK100,masuk
+metrik_marketplace,biotek,Biotek,59,59,kode,BIOTEK,masuk
+metrik_marketplace,blstc,BLSTC,35,35,kode,BLSTC,masuk
+metrik_marketplace,bufos 150 sl,Bufos 150 SL,27,27,nama,BFS1L,masuk
+metrik_marketplace,cn-g kalsium nitrat,CN-G Kalsium Nitrat,22,22,nama,CNG1,masuk
+metrik_marketplace,cng1,CNG1,37,37,kode,CNG1,masuk
+metrik_marketplace,cprcd100,CPRCD100,40,40,kode,CPRCD100,masuk
+metrik_marketplace,cuprocide 77 wp,Cuprocide 77 WP,19,19,nama,CPRCD100,masuk
+metrik_marketplace,dangke 40 wp,Dangke 40 WP,22,22,nama,DANGKE100,masuk
+metrik_marketplace,dangke100,DANGKE100,37,37,kode,DANGKE100,masuk
+metrik_marketplace,dcsb,DCSB,41,41,kode,DCSB,masuk
+metrik_marketplace,decis 25 ec,Decis 25 EC,18,18,nama + harga,DCSB,masuk
+metrik_marketplace,e-trek anti rayap,E-Trek anti rayap,19,19,nama,ETREKKCL,masuk
+metrik_marketplace,em4 perikanan & tambak,EM4 Perikanan & Tambak,24,24,nama,EM4P,masuk
+metrik_marketplace,em4 pertanian,EM4 Pertanian,24,24,nama,EM4K,masuk
+metrik_marketplace,em4k,EM4K,35,35,kode,EM4K,masuk
+metrik_marketplace,em4p,EM4P,35,35,kode,EM4P,masuk
+metrik_marketplace,emkape maxxi agri,Emkape Maxxi Agri,52,52,nama + harga,"EMKAPE1, EMKAPE500",masuk
+metrik_marketplace,emkape1,EMKAPE1,30,30,kode,EMKAPE1,masuk
+metrik_marketplace,emkape500,EMKAPE500,36,36,kode,EMKAPE500,masuk
+metrik_marketplace,etrekkcl,ETREKKCL,40,40,kode,ETREKKCL,masuk
+metrik_marketplace,farmquat 276 sl,Farmquat 276 SL,23,23,nama,FARMQUAT250,masuk
+metrik_marketplace,farmquat250,FARMQUAT250,36,36,kode,FARMQUAT250,masuk
+metrik_marketplace,fastac 15 ec,Fastac 15 EC,20,20,nama,FSTC,masuk
+metrik_marketplace,fenite 150 od,Fenite 150 OD,52,52,nama + harga,"FENITE100, FENITE50",masuk
+metrik_marketplace,fenite100,FENITE100,30,30,kode,FENITE100,masuk
+metrik_marketplace,fenite50,FENITE50,36,36,kode,FENITE50,masuk
+metrik_marketplace,fertiphos curah,Fertiphos Curah,17,17,nama,FRTPHS1,masuk
+metrik_marketplace,filia 525 se,Filia 525 SE,29,29,nama,FILIA50,masuk
+metrik_marketplace,filia50,FILIA50,30,30,kode,FILIA50,masuk
+metrik_marketplace,fostin 610 ec,Fostin 610 EC,22,22,nama,FSTN100,masuk
+metrik_marketplace,frd1,FRD1,36,36,kode,FRD1,masuk
+metrik_marketplace,frtphs1,FRTPHS1,42,42,kode,FRTPHS1,masuk
+metrik_marketplace,fstc,FSTC,39,39,kode,FSTC,masuk
+metrik_marketplace,fstn100,FSTN100,37,37,kode,FSTN100,masuk
+metrik_marketplace,furadan 3gr,Furadan 3GR,23,23,nama + harga,FRD1,masuk
+metrik_marketplace,gandasil b,Gandasil B,22,22,nama + harga,GDSLB,masuk
+metrik_marketplace,gats,GATS,27,27,kode,GATS,masuk
+metrik_marketplace,gdslb,GDSLB,37,37,kode,GDSLB,masuk
+metrik_marketplace,gembor air,Gembor Air,19,19,nama,GMBR3L,masuk
+metrik_marketplace,gibgro,GIBGRO,31,31,kode,GIBGRO,masuk
+metrik_marketplace,gibgro 10 sp,Gibgro 10 SP,28,28,nama,GIBGRO,masuk
+metrik_marketplace,gkng,GKNG,40,40,kode,GKNG,masuk
+metrik_marketplace,gmbr3l,GMBR3L,40,40,kode,GMBR3L,masuk
+metrik_marketplace,gosong top 276 sl,Gosong Top 276 SL,25,25,nama + harga,GOSONGTOP500,masuk
+metrik_marketplace,gosongtop500,GOSONGTOP500,34,34,kode,GOSONGTOP500,masuk
+metrik_marketplace,green stick,Green Stick,35,35,nama,GRNSTIK,masuk
+metrik_marketplace,grnstik,GRNSTIK,24,24,kode,GRNSTIK,masuk
+metrik_marketplace,gunting ats,Gunting ATS,32,32,nama,GATS,masuk
+metrik_marketplace,gunting kuning,Gunting Kuning,19,19,nama,GKNG,masuk
+metrik_marketplace,humigrow,Humigrow,24,24,nama,HUMIGROW500,masuk
+metrik_marketplace,humigrow500,HUMIGROW500,35,35,kode,HUMIGROW500,masuk
+metrik_marketplace,jaring buah besar,Jaring Buah Besar,19,19,nama,JARINGBSR,masuk
+metrik_marketplace,jaringbsr,JARINGBSR,40,40,kode,JARINGBSR,masuk
+metrik_marketplace,knopth1,KNOPTH1,38,38,kode,KNOPTH1,masuk
+metrik_marketplace,kovin plus 80p,Kovin Plus 80P,25,25,nama,KOVINPLUS,masuk
+metrik_marketplace,kovinplus,KOVINPLUS,34,34,kode,KOVINPLUS,masuk
+metrik_marketplace,kreslon 480 ec,Kreslon 480 EC,26,26,nama,KRSLN,masuk
+metrik_marketplace,krsln,KRSLN,33,33,kode,KRSLN,masuk
+metrik_marketplace,magnesium sulfat pak tani,Magnesium Sulfat Pak Tani,28,28,nama,MGSULFATE,masuk
+metrik_marketplace,maxxigro b,Maxxigro B,26,26,nama,MAXXIGROB500,masuk
+metrik_marketplace,maxxigrob500,MAXXIGROB500,33,33,kode,MAXXIGROB500,masuk
+metrik_marketplace,mekarmap,MekarMAP,22,22,nama,MEKARMAP1,masuk
+metrik_marketplace,mekarmap1,MEKARMAP1,37,37,kode,MEKARMAP1,masuk
+metrik_marketplace,metazeb 80 wp,Metazeb 80 WP,27,27,nama,METAZEB1,masuk
+metrik_marketplace,metazeb1,METAZEB1,32,32,kode,METAZEB1,masuk
+metrik_marketplace,mgsulfate,MGSULFATE,31,31,kode,MGSULFATE,masuk
+metrik_marketplace,mipcinta 50 wp,Mipcinta 50 WP,18,18,nama,MIPCINTA100,masuk
+metrik_marketplace,mipcinta100,MIPCINTA100,41,41,kode,MIPCINTA100,masuk
+metrik_marketplace,mkp pak tani,MKP Pak Tani,25,25,nama,MKP1,masuk
+metrik_marketplace,mkp1,MKP1,34,34,kode,MKP1,masuk
+metrik_marketplace,nativo 75 wg,Nativo 75 WG,28,28,nama,NTVK,masuk
+metrik_marketplace,npk cap tawon,NPK Cap Tawon,21,21,nama,NPKTWN1,masuk
+metrik_marketplace,npk mutiara,NPK Mutiara,24,24,nama,NPKM1,masuk
+metrik_marketplace,npk pak tani,NPK Pak Tani,21,21,nama,NPKPT,masuk
+metrik_marketplace,npkm1,NPKM1,35,35,kode,NPKM1,masuk
+metrik_marketplace,npkpt,NPKPT,38,38,kode,NPKPT,masuk
+metrik_marketplace,npktwn1,NPKTWN1,38,38,kode,NPKTWN1,masuk
+metrik_marketplace,ntvk,NTVK,31,31,kode,NTVK,masuk
+metrik_marketplace,"petrokum 0,005 bb","Petrokum 0,005 BB",27,27,nama,PETROKUM100,masuk
+metrik_marketplace,petrokum100,PETROKUM100,32,32,kode,PETROKUM100,masuk
+metrik_marketplace,plenum 50 wg,Plenum 50 WG,20,20,nama,PLENUM25,masuk
+metrik_marketplace,plenum25,PLENUM25,39,39,kode,PLENUM25,masuk
+metrik_marketplace,plybg35,PLYBG35,38,38,kode,PLYBG35,masuk
+metrik_marketplace,plybg50,PLYBG50,31,31,kode,PLYBG50,masuk
+metrik_marketplace,pn pak tani (kno3 putih kristal),PN Pak Tani (KNO3 putih kristal),21,21,nama,KNOPTH1,masuk
+metrik_marketplace,polybag tanaman 35x35,Polybag Tanaman 35x35,21,21,nama,PLYBG35,masuk
+metrik_marketplace,polybag tanaman 50x50,Polybag Tanaman 50x50,28,28,nama,PLYBG50,masuk
+metrik_marketplace,pupuk amazing grow pembuahan,Pupuk Amazing Grow Pembuahan,31,31,nama,AGB,masuk
+metrik_marketplace,pupuk amazing grow pertumbuhan,Pupuk Amazing Grow Pertumbuhan,22,22,nama,AGT,masuk
+metrik_marketplace,rdpb,RDPB,41,41,kode,RDPB,masuk
+metrik_marketplace,regent 50 ec,Regent 50 EC,23,23,nama + harga,RGNTB,masuk
+metrik_marketplace,rgntb,RGNTB,36,36,kode,RGNTB,masuk
+metrik_marketplace,roundup 486 sl,Roundup 486 SL,18,18,nama + harga,RDPB,masuk
+metrik_marketplace,samite 135 ec,Samite 135 EC,25,25,nama,SAMITE100,masuk
+metrik_marketplace,samite100,SAMITE100,34,34,kode,SAMITE100,masuk
+metrik_marketplace,sapporo 52 ec,Sapporo 52 EC,20,20,nama,SAPPORO100,masuk
+metrik_marketplace,sapporo100,SAPPORO100,39,39,kode,SAPPORO100,masuk
+metrik_marketplace,sdmthrn,SDMTHRN,33,33,kode,SDMTHRN,masuk
+metrik_marketplace,sidamethrin 50 ec,Sidamethrin 50 EC,26,26,nama,SDMTHRN,masuk
+metrik_marketplace,spontan,SPONTAN,29,29,kode,SPONTAN,masuk
+metrik_marketplace,spontan 400 sl,Spontan 400 SL,30,30,nama,SPONTAN,masuk
+metrik_marketplace,sumo 50 ec,Sumo 50 EC,23,23,nama,SUMO80,masuk
+metrik_marketplace,sumo80,SUMO80,36,36,kode,SUMO80,masuk
+metrik_marketplace,superel 480 sl,Superel 480 SL,20,20,nama,SUPEREL100,masuk
+metrik_marketplace,superel100,SUPEREL100,39,39,kode,SUPEREL100,masuk
+metrik_marketplace,topsin 500 ec,Topsin 500 EC,22,22,nama,TPSN,masuk
+metrik_marketplace,tpsn,TPSN,37,37,kode,TPSN,masuk
+metrik_marketplace,tricho-bact,Tricho-Bact,23,23,nama,TRICHO500,masuk
+metrik_marketplace,tricho500,TRICHO500,36,36,kode,TRICHO500,masuk
+metrik_marketplace,trobos 200 sl,Trobos 200 SL,21,21,nama,TROBOS100,masuk
+metrik_marketplace,trobos100,TROBOS100,38,38,kode,TROBOS100,masuk
+metrik_marketplace,vlgr400,VLGR400,35,35,kode,VLGR400,masuk
+metrik_marketplace,vulgar 865 sl,Vulgar 865 SL,24,24,nama,VLGR400,masuk
+metrik_marketplace,winder 100 ec,Winder 100 EC,31,31,nama,WINDER100,masuk
+metrik_marketplace,winder100,WINDER100,28,28,kode,WINDER100,masuk

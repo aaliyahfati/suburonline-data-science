@@ -1,0 +1,191 @@
+sku,product_id,nama,kategori,is_sellable,is_bundle,satuan_stok,kelompok_induk,nama_induk,sku_induk,faktor_ke_induk,is_induk_pemecahan,base_unit,faktor,isi_per_pembelian,satuan_beli,harga_kulakan,hpp,harga_jual_online,harga_jual_offline,sumber_harga,supplier_utama
+AGT,1,Pupuk Amazing Grow Pertumbuhan,Nutrisi dan ZPT,True,False,unit,1.0,Pupuk Amazing Grow Pertumbuhan,,,False,pcs,1.0,10.0,pcs (min. beli 10),8500.0,9000.0,24938.0,20000.0,PRIMER,SUP-03
+AGB,2,Pupuk Amazing Grow Pembuahan,Nutrisi dan ZPT,True,False,unit,2.0,Pupuk Amazing Grow Pembuahan,,,False,pcs,1.0,10.0,pcs (min. beli 10),8500.0,9000.0,24938.0,20000.0,PRIMER,SUP-03
+AGL,3,Amazing Grow Booster Kelengkeng,Nutrisi dan ZPT,True,False,unit,3.0,Amazing Grow Booster Kelengkeng,,,False,pcs,1.0,10.0,pcs (min. beli 10),17000.0,17500.0,33762.0,28000.0,PRIMER,SUP-03
+STARLON100,4,Starlon 665 EC,Insektisida,True,False,unit,4.0,Starlon 665 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),30000.0,30000.0,46830.0,41000.0,DUMMY,SUP-04
+ANWAVIN100,5,Anwavin 500 EC,Insektisida,True,False,unit,5.0,Anwavin 500 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),19500.0,19500.0,27615.0,24000.0,DUMMY,SUP-04
+CPRCD100,6,Cuprocide 77 WP,Fungisida,True,False,unit,6.0,Cuprocide 77 WP,,,False,pcs,1.0,10.0,pcs (min. beli 10),17500.0,17500.0,30398.0,24500.0,DUMMY,SUP-05
+GOBEST100,7,Gobest 250 SC,Herbisida,True,False,unit,7.0,Gobest 250 SC,,,False,pcs,1.0,10.0,pcs (min. beli 10),25000.0,25000.0,44940.0,36000.0,DUMMY,SUP-06
+LINDOMIN400,8,Lindomin 865 SL,Herbisida,True,False,unit,8.0,Lindomin 865 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),38500.0,38500.0,69195.0,58500.0,DUMMY,
+TMA400,9,TMA 6 865 SL,Herbisida,True,False,unit,9.0,TMA 6 865 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),30000.0,30000.0,51608.0,42000.0,DUMMY,SUP-06
+VLGR400,10,Vulgar 865 SL,Herbisida,True,False,unit,10.0,Vulgar 865 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),31500.0,31500.0,61005.0,52000.0,DUMMY,SUP-06
+HUMIGROW500,11,Humigrow,Nutrisi dan ZPT,True,False,unit,11.0,Humigrow,,,False,pcs,1.0,10.0,pcs (min. beli 10),41000.0,41000.0,68750.0,58000.0,DUMMY,SUP-03
+DLMT,12,Kapur Dolomite,Pupuk,True,False,unit,12.0,Kapur Pertanian Kebomas,DLMT50KG,0.5,False,kg,0.5,50.0,karung,2000.0,2250.0,4252.0,3500.0,DUMMY,SUP-01
+KYRS500,13,Kayaris,Herbisida,True,False,unit,13.0,Kayaris,,,False,pcs,1.0,10.0,pcs (min. beli 10),115000.0,115000.0,189945.0,157000.0,DUMMY,SUP-06
+KLIMAX,14,Klimax 20 EC,Insektisida,True,False,unit,14.0,Klimax 20 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),42500.0,42500.0,76178.0,65000.0,DUMMY,SUP-04
+KRESNABAT40,15,Kresnabat 50 WP,Fungisida,True,False,unit,15.0,Kresnabat 50 WP,,,False,pcs,1.0,10.0,pcs (min. beli 10),19000.0,19000.0,37958.0,30500.0,DUMMY,SUP-05
+ATNK,16,Atonik 6.0 L,Nutrisi dan ZPT,True,False,unit,16.0,Atonik 6.0 L,,,False,pcs,1.0,10.0,pcs (min. beli 10),15000.0,15000.0,28875.0,23500.0,DUMMY,SUP-03
+KRSNCD,17,Kresnacid 250 EC,Insektisida,True,False,unit,17.0,Kresnacid 250 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),19000.0,19000.0,27458.0,24000.0,DUMMY,SUP-04
+SDMTHRN,18,Sidamethrin 50 EC,Insektisida,True,False,unit,18.0,Sidamethrin 50 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),12500.0,12500.0,23205.0,19000.0,DUMMY,SUP-04
+JSP1L,19,Jetspray,Perlengkapan,True,False,unit,19.0,Jetspray,,,False,pcs,1.0,10.0,pcs (min. beli 10),8300.0,8300.0,18690.0,15000.0,DUMMY,SUP-07
+MANOHARA1,20,Manohara,Pupuk,True,False,unit,20.0,Manohara,,,False,pcs,1.0,10.0,pcs (min. beli 10),23000.0,23000.0,37852.0,32000.0,DUMMY,
+MST 2L,21,Misty Hand Sprayer,Perlengkapan,True,False,unit,21.0,Misty Hand Sprayer,,,False,pcs,1.0,10.0,pcs (min. beli 10),29000.0,29000.0,46462.0,40500.0,DUMMY,SUP-07
+NPKTWN1,22,NPK Cap Tawon,Pupuk,True,False,unit,22.0,NPK Cap Tawon,,,False,pcs,1.0,10.0,pcs (min. beli 10),20000.0,20000.0,35228.0,30000.0,PRIMER,SUP-02
+SAPPORO100,23,Sapporo 52 EC,Insektisida,True,False,unit,23.0,Sapporo 52 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),55000.0,55000.0,88305.0,76000.0,DUMMY,SUP-04
+M21,24,M-21 Decomposer,Nutrisi dan ZPT,True,False,unit,24.0,M-21 Decomposer,,,False,pcs,1.0,10.0,pcs (min. beli 10),51000.0,51000.0,82635.0,67500.0,DUMMY,SUP-03
+GMBR3L,25,Gembor Air,Perlengkapan,True,False,unit,25.0,Gembor Air,,,False,pcs,1.0,10.0,pcs (min. beli 10),26000.0,26000.0,39480.0,32500.0,DUMMY,SUP-07
+GEMPUR1,26,Gempur 480 SL,Herbisida,True,False,unit,26.0,Gempur 480 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),58500.0,58500.0,142299.0,121500.0,DUMMY,
+LIQ,27,B1 Liquinox,Nutrisi dan ZPT,True,False,unit,27.0,B1 Liquinox,,,False,pcs,1.0,10.0,pcs (min. beli 10),11000.0,11000.0,19181.0,16500.0,DUMMY,SUP-03
+ISADORA400,28,Isadora 75 SP,Insektisida,True,False,unit,28.0,Isadora 75 SP,,,False,pcs,1.0,10.0,pcs (min. beli 10),70000.0,70000.0,104160.0,89000.0,DUMMY,
+BIONIK100,29,Bionik 400 EC,Insektisida,True,False,unit,29.0,Bionik 400 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),18000.0,18000.0,30398.0,26500.0,DUMMY,SUP-04
+ASIABORON1,30,Asia Boron,Pupuk,True,False,unit,30.0,Asia Boron,,,False,pcs,1.0,10.0,pcs (min. beli 10),11000.0,11250.0,21945.0,18000.0,PRIMER,SUP-02
+MEKARMAP1,31,MekarMAP,Pupuk,True,False,unit,31.0,MekarMAP,,,False,pcs,1.0,10.0,pcs (min. beli 10),41500.0,41500.0,69195.0,57000.0,PRIMER,SUP-02
+MGSULFATE,32,Magnesium Sulfat Pak Tani,Pupuk,True,False,unit,32.0,Magnesium Sulfat Pak Tani,,,False,pcs,1.0,10.0,pcs (min. beli 10),14000.0,14250.0,25755.0,19000.0,PRIMER,SUP-02
+PETROKUM100,33,"Petrokum 0,005 BB",Insektisida,True,False,unit,33.0,"Petrokum 0,005 BB",,,False,pcs,1.0,10.0,pcs (min. beli 10),5000.0,5000.0,14018.0,12500.0,DUMMY,SUP-04
+SEETOP1L,34,See Top 525 SL,Herbisida,True,False,unit,34.0,See Top 525 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),70000.0,70000.0,104948.0,89000.0,DUMMY,SUP-06
+SIDAFOS1L,35,Sidafos 480 SL,Herbisida,True,False,unit,35.0,Sidafos 480 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),57000.0,57000.0,80168.0,70500.0,DUMMY,SUP-06
+WINDER100,36,Winder 100 EC,Insektisida,True,False,unit,36.0,Winder 100 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),31000.0,31000.0,56910.0,50000.0,DUMMY,SUP-04
+ALIKA50,37,Alika 247 ZC,Insektisida,True,False,unit,37.0,Alika 247 ZC,,,False,pcs,1.0,10.0,pcs (min. beli 10),34000.0,34000.0,55808.0,46000.0,DUMMY,SUP-04
+SIDATAN400,38,Sidatan 410 SL,Insektisida,True,False,unit,38.0,Sidatan 410 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),36000.0,36000.0,64628.0,55000.0,DUMMY,SUP-04
+DEBESTTAN100,39,De Besttan 60 WP,Insektisida,True,False,unit,39.0,De Besttan 60 WP,,,False,pcs,1.0,10.0,pcs (min. beli 10),51000.0,51000.0,99960.0,87500.0,DUMMY,SUP-04
+BROADPLUS40,40,BroadPlus 77 WP,Herbisida,True,False,unit,40.0,BroadPlus 77 WP,,,False,pcs,1.0,10.0,pcs (min. beli 10),11500.0,11500.0,17535.0,15500.0,DUMMY,SUP-06
+PREVATHON100,41,Prevathon 50 SC,Insektisida,True,False,unit,41.0,Prevathon 50 SC,,,False,pcs,1.0,10.0,pcs (min. beli 10),64000.0,64000.0,91140.0,75000.0,DUMMY,SUP-04
+EROSGOLD100,42,EROS GOLD 0.75/30 DF,Herbisida,True,False,unit,42.0,EROS GOLD 0.75/30 DF,,,False,pcs,1.0,10.0,pcs (min. beli 10),18500.0,18500.0,26958.0,22000.0,DUMMY,SUP-06
+ABACEL,43,Abacel 18 EC,Insektisida,True,False,unit,43.0,Abacel 18 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),25000.0,25000.0,47512.0,40000.0,DUMMY,SUP-04
+SERENDY,44,Serendy 28 WP,Herbisida,True,False,unit,44.0,Serendy 28 WP,,,False,pcs,1.0,10.0,pcs (min. beli 10),26000.0,26000.0,48195.0,42500.0,DUMMY,
+CNG1,45,CN-G Kalsium Nitrat,Pupuk,True,False,unit,45.0,CN-G Kalsium Nitrat,,,False,pcs,1.0,10.0,pcs (min. beli 10),20000.0,20000.0,34415.0,27000.0,PRIMER,SUP-02
+MIPCINTA100,46,Mipcinta 50 WP,Insektisida,True,False,unit,46.0,Mipcinta 50 WP,,,False,pcs,1.0,10.0,pcs (min. beli 10),11500.0,11500.0,19438.0,16000.0,DUMMY,SUP-04
+PLENUM25,47,Plenum 50 WG,Insektisida,True,False,unit,47.0,Plenum 50 WG,,,False,pcs,1.0,10.0,pcs (min. beli 10),35500.0,35500.0,63892.0,55000.0,DUMMY,SUP-04
+FENITE100,48,Fenite 150 OD,Insektisida,True,False,unit,48.0,Fenite 150 OD,,,False,pcs,1.0,10.0,pcs (min. beli 10),92000.0,92000.0,157132.0,129500.0,DUMMY,SUP-04
+FENITE50,49,Fenite 150 OD,Insektisida,True,False,unit,49.0,Fenite 150 OD,,,False,pcs,1.0,10.0,pcs (min. beli 10),49000.0,49000.0,81322.0,71000.0,DUMMY,SUP-04
+SAMITE100,50,Samite 135 EC,Insektisida,True,False,unit,50.0,Samite 135 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),28000.0,28000.0,38535.0,32500.0,DUMMY,SUP-04
+DITHANE200,51,Dithane M-45 80 WP,Fungisida,True,False,unit,51.0,Dithane M-45 80 WP,,,False,pcs,1.0,10.0,pcs (min. beli 10),34000.0,34000.0,56962.0,48500.0,DUMMY,SUP-05
+SUMO80,52,Sumo 50 EC,Insektisida,True,False,unit,52.0,Sumo 50 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),19500.0,19500.0,35122.0,30500.0,DUMMY,SUP-04
+KALINET500,53,Kalinet Kalium Cair,Pupuk,True,False,unit,53.0,Kalinet Kalium Cair,,,False,pcs,1.0,10.0,pcs (min. beli 10),51000.0,51000.0,92085.0,75500.0,DUMMY,
+FILIA50,54,Filia 525 SE,Fungisida,True,False,unit,54.0,Filia 525 SE,,,False,pcs,1.0,10.0,pcs (min. beli 10),28000.0,28000.0,39848.0,32000.0,DUMMY,SUP-05
+PAKETAG,55,Paket AG Buah dan Tumbuh,Nutrisi dan ZPT,True,True,unit,,(paket),,,False,,,,,17000.0,17500.0,47513.0,,PRIMER,
+PAKETGDSL,56,Paket Gandasil B dan D,Nutrisi dan ZPT,True,True,unit,,(paket),,,False,,,,,24000.0,24000.0,37748.0,,DUMMY,
+PAKETTUMBUH250,57,Paket Pertumbuhan,Pupuk,True,True,unit,,(paket),,,False,,,,,19500.0,19500.0,41265.0,35000.0,PRIMER,
+PAKETBUAH250,58,Paket Pembuahan,Pupuk,True,True,unit,,(paket),,,False,,,,,24250.0,24250.0,47985.0,40000.0,PRIMER,
+PAKETGNRTF,59,Paket Generatif,Pupuk,True,True,unit,,(paket),,,False,,,,,114000.0,114000.0,191573.0,,PRIMER,
+MAXXFOSATE250,60,Maxxfosate 490 SL,Herbisida,True,False,unit,55.0,Maxxfosate 490 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),20000.0,20000.0,40425.0,34000.0,DUMMY,SUP-06
+SPONTANKING,61,Spontan King 400 SL,Insektisida,True,False,unit,56.0,Spontan King 400 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),85000.0,85000.0,153090.0,122500.0,DUMMY,SUP-04
+METAZEB1,62,Metazeb 80 WP,Fungisida,True,False,unit,57.0,Metazeb 80 WP,,,False,pcs,1.0,10.0,pcs (min. beli 10),113000.0,113000.0,191468.0,164500.0,DUMMY,SUP-05
+ALITA100,63,Alita 150 EC,Herbisida,True,False,unit,58.0,Alita 150 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),37000.0,37000.0,71529.0,62500.0,DUMMY,SUP-06
+GOSONGTOP250,64,Gosong Top 276 SL,Herbisida,True,False,unit,59.0,Gosong Top 276 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),17500.0,17500.0,29136.0,24000.0,DUMMY,SUP-06
+GOSONGTOP500,65,Gosong Top 276 SL,Herbisida,True,False,unit,60.0,Gosong Top 276 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),30000.0,30000.0,47880.0,40000.0,DUMMY,SUP-06
+FARMQUAT250,66,Farmquat 276 SL,Herbisida,True,False,unit,61.0,Farmquat 276 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),16500.0,16500.0,27982.0,23000.0,DUMMY,SUP-06
+AGCEL250,67,Agcel 500 SL,Nutrisi dan ZPT,True,False,unit,62.0,Agcel 500 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),40000.0,40000.0,57278.0,48500.0,DUMMY,SUP-03
+EXPLORE80,68,Explore 250 EC,Fungisida,True,False,unit,63.0,Explore 250 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),38000.0,38000.0,70035.0,59500.0,DUMMY,SUP-05
+NPKAMONG5,69,NPK Among Tani,Pupuk,True,False,unit,64.0,NPK Among Tani,,,False,pcs,1.0,10.0,pcs (min. beli 10),77500.0,77500.0,126000.0,110000.0,PRIMER,SUP-02
+BRVTP1L,70,BravoTop 555 SL,Herbisida,True,False,unit,65.0,BravoTop 555 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),53000.0,53000.0,85978.0,70000.0,DUMMY,SUP-06
+AMINONANO,71,Amino Nano,Nutrisi dan ZPT,True,False,unit,66.0,Amino Nano,,,False,pcs,1.0,10.0,pcs (min. beli 10),55000.0,55000.0,111668.0,90000.0,DUMMY,SUP-03
+GLUBEST1L,72,Glubest 200 SL,Herbisida,True,False,unit,67.0,Glubest 200 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),65000.0,65000.0,111352.0,98000.0,DUMMY,SUP-06
+KINGLON100,73,Kinglon 667 EC,Insektisida,True,False,unit,68.0,Kinglon 667 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),26000.0,26000.0,42315.0,35000.0,DUMMY,SUP-04
+INSTAMAX1L,74,Instamax 240 SL,Herbisida,True,False,unit,69.0,Instamax 240 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),76000.0,76000.0,148312.0,129500.0,DUMMY,SUP-06
+NOXONE1L,75,Noxone 276 SL,Herbisida,True,False,unit,70.0,Noxone 276 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),46000.0,46000.0,83370.0,69000.0,DUMMY,SUP-06
+EMKAPE1,76,Emkape Maxxi Agri,Pupuk,True,False,unit,71.0,Emkape Maxxi Agri,,,True,pcs,1.0,10.0,pcs (min. beli 10),49000.0,49000.0,77963.0,64000.0,PRIMER,SUP-02
+BESTAR1L,77,Bestar 200 SL,Herbisida,True,False,unit,72.0,Bestar 200 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),57500.0,57500.0,88778.0,73500.0,DUMMY,SUP-06
+SUPEREL100,78,Superel 480 SL,Herbisida,True,False,unit,73.0,Superel 480 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),17000.0,17000.0,29610.0,24500.0,DUMMY,SUP-06
+RIOVIL100,79,Riovil 50 SC,Fungisida,True,False,unit,74.0,Riovil 50 SC,,,False,pcs,1.0,10.0,pcs (min. beli 10),20000.0,20000.0,35146.0,29000.0,DUMMY,SUP-05
+PEGASUS80,80,Pegasus 500 SC,Insektisida,True,False,unit,75.0,Pegasus 500 SC,,,False,pcs,1.0,10.0,pcs (min. beli 10),84000.0,84000.0,113190.0,92500.0,DUMMY,SUP-04
+GATS,81,Gunting ATS,Perlengkapan,True,False,unit,76.0,Gunting ATS,,,False,pcs,1.0,10.0,pcs (min. beli 10),23000.0,23000.0,36435.0,29500.0,DUMMY,SUP-07
+GKNG,82,Gunting Kuning,Perlengkapan,True,False,unit,77.0,Gunting Kuning,,,False,pcs,1.0,10.0,pcs (min. beli 10),28000.0,28000.0,43680.0,36000.0,DUMMY,SUP-07
+GRXB,83,Gramoxone 276 SL,Herbisida,True,False,unit,78.0,Gramoxone 276 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),63500.0,63500.0,112140.0,99500.0,DUMMY,SUP-06
+GRXK,84,Gramoxone 276 SL,Herbisida,True,False,unit,79.0,Gramoxone 276 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),23000.0,23000.0,44205.0,38000.0,DUMMY,SUP-06
+MANZATE500,85,Manzate 82 WP,Fungisida,True,False,unit,80.0,Manzate 82 WP,,,False,pcs,1.0,10.0,pcs (min. beli 10),54000.0,54000.0,93135.0,79000.0,DUMMY,SUP-05
+ETREKKCL,86,E-Trek anti rayap,Insektisida,True,False,unit,81.0,E-Trek anti rayap,,,False,pcs,1.0,10.0,pcs (min. beli 10),9000.0,9000.0,14752.0,12000.0,DUMMY,SUP-04
+EM4K,87,EM4 Pertanian,Nutrisi dan ZPT,True,False,unit,82.0,EM4 Pertanian,,,False,pcs,1.0,10.0,pcs (min. beli 10),28500.0,28500.0,57435.0,49500.0,DUMMY,SUP-03
+EM4C,88,EM4 Peternakan,Nutrisi dan ZPT,True,False,unit,83.0,EM4 Peternakan,,,False,pcs,1.0,10.0,pcs (min. beli 10),28500.0,28500.0,59062.0,49500.0,DUMMY,SUP-03
+EM4P,89,EM4 Perikanan & Tambak,Nutrisi dan ZPT,True,False,unit,84.0,EM4 Perikanan & Tambak,,,False,pcs,1.0,10.0,pcs (min. beli 10),28500.0,28500.0,45171.0,39000.0,DUMMY,SUP-03
+EM4B,90,EM4 Limbah / Toilet,Nutrisi dan ZPT,True,False,unit,85.0,EM4 Limbah / Toilet,,,False,pcs,1.0,10.0,pcs (min. beli 10),28500.0,28500.0,56645.0,46500.0,DUMMY,
+NPKMGRW,91,NPK Mutiara GROWER,Pupuk,True,False,unit,86.0,NPK Mutiara GROWER,,,False,pcs,1.0,10.0,pcs (min. beli 10),20000.0,20250.0,35228.0,30000.0,PRIMER,SUP-02
+NPKM1,92,NPK Mutiara,Pupuk,True,False,unit,87.0,NPK Mutiara,,,False,pcs,1.0,10.0,pcs (min. beli 10),20000.0,20250.0,35228.0,30000.0,PRIMER,SUP-02
+NPKYRML,93,NPK YaraMila,Pupuk,True,False,unit,88.0,NPK YaraMila,,,False,pcs,1.0,10.0,pcs (min. beli 10),17500.0,17750.0,31500.0,27500.0,PRIMER,SUP-02
+NPKPT,94,NPK Pak Tani,Pupuk,True,False,unit,89.0,NPK Pak Tani,,,False,pcs,1.0,10.0,pcs (min. beli 10),20000.0,20250.0,35228.0,30000.0,PRIMER,SUP-02
+ULTRDP,95,Ultradap Pak Tani,Pupuk,True,False,unit,90.0,Ultradap Pak Tani,,,False,pcs,1.0,10.0,pcs (min. beli 10),48000.0,48250.0,75338.0,63000.0,PRIMER,SUP-02
+YOUSTICK500,96,You Stick,Perlengkapan,True,False,unit,91.0,You Stick,,,False,pcs,1.0,10.0,pcs (min. beli 10),20500.0,20500.0,29820.0,25000.0,DUMMY,SUP-07
+GRNSTIK,97,Green Stick,Perlengkapan,True,False,unit,92.0,Green Stick,,,False,pcs,1.0,10.0,pcs (min. beli 10),11000.0,11000.0,20212.0,17000.0,DUMMY,SUP-07
+GRNTNK1,98,Green Tonik,Nutrisi dan ZPT,True,False,unit,93.0,Green Tonik,,,False,pcs,1.0,10.0,pcs (min. beli 10),18000.0,18000.0,26670.0,22500.0,DUMMY,SUP-03
+GDSLB,99,Gandasil B,Nutrisi dan ZPT,True,False,unit,94.0,Gandasil B,,,False,pcs,1.0,10.0,pcs (min. beli 10),13000.0,13000.0,25042.0,22000.0,DUMMY,SUP-03
+GDSLB500,100,Gandasil B,Nutrisi dan ZPT,True,False,unit,95.0,Gandasil B,,,False,pcs,1.0,10.0,pcs (min. beli 10),50000.0,50000.0,83422.0,67000.0,DUMMY,
+GDSLD,101,Gandasil D,Nutrisi dan ZPT,True,False,unit,96.0,Gandasil D,,,False,pcs,1.0,10.0,pcs (min. beli 10),11000.0,11000.0,17850.0,15000.0,DUMMY,SUP-03
+GDSLD500,102,Gandasil D,Nutrisi dan ZPT,True,False,unit,97.0,Gandasil D,,,False,pcs,1.0,10.0,pcs (min. beli 10),47000.0,47000.0,91822.0,79500.0,DUMMY,SUP-03
+GIBGRO,103,Gibgro 10 SP,Nutrisi dan ZPT,True,False,unit,98.0,Gibgro 10 SP,,,False,pcs,1.0,10.0,pcs (min. beli 10),4000.0,4000.0,8295.0,7000.0,DUMMY,SUP-03
+GIBGROPN,104,Gibgro Panen 20 SP,Nutrisi dan ZPT,True,False,unit,99.0,Gibgro Panen 20 SP,,,False,pcs,1.0,10.0,pcs (min. beli 10),7000.0,7000.0,11550.0,9500.0,DUMMY,SUP-03
+AMBTN500,105,Ambition,Nutrisi dan ZPT,True,False,unit,100.0,Ambition,,,False,pcs,1.0,10.0,pcs (min. beli 10),87000.0,87000.0,137655.0,111500.0,DUMMY,SUP-03
+AMSTRTOP50,106,Amistar Top 325 SC,Fungisida,True,False,unit,101.0,Amistar Top 325 SC,,,False,pcs,1.0,10.0,pcs (min. beli 10),56000.0,56000.0,93188.0,81000.0,DUMMY,SUP-05
+ANTILA500,107,Antila 80 WP,Fungisida,True,False,unit,102.0,Antila 80 WP,,,False,pcs,1.0,10.0,pcs (min. beli 10),37500.0,37500.0,65152.0,56500.0,DUMMY,
+ANTRCL,108,Antracol 70 WP,Fungisida,True,False,unit,103.0,Antracol 70 WP,,,False,pcs,1.0,10.0,pcs (min. beli 10),42500.0,42500.0,65730.0,57500.0,DUMMY,SUP-05
+ANTRCL500,109,Antracol 70 WP,Fungisida,True,False,unit,104.0,Antracol 70 WP,,,False,pcs,1.0,10.0,pcs (min. beli 10),81000.0,81000.0,146855.0,125000.0,DUMMY,SUP-05
+AVIDOR100,110,Avidor 25 WP,Insektisida,True,False,unit,105.0,Avidor 25 WP,,,False,pcs,1.0,10.0,pcs (min. beli 10),23000.0,23000.0,39550.0,35000.0,DUMMY,SUP-04
+BBLSS,111,Bablass 490 SL,Herbisida,True,False,unit,106.0,Bablass 490 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),54000.0,54000.0,112298.0,93500.0,DUMMY,SUP-06
+BLSTC,112,Balistic 50 SC,Insektisida,True,False,unit,107.0,Balistic 50 SC,,,False,pcs,1.0,10.0,pcs (min. beli 10),32500.0,32500.0,65888.0,57000.0,DUMMY,SUP-04
+BIOCALSIUM1,113,Bio Calsium,Pupuk,True,False,unit,108.0,Bio Calsium,,,False,pcs,1.0,10.0,pcs (min. beli 10),12500.0,12500.0,22102.0,18000.0,DUMMY,SUP-02
+CALSIUMSPR1,114,Calsium Super,Pupuk,True,False,unit,109.0,Calsium Super,,,False,pcs,1.0,10.0,pcs (min. beli 10),15000.0,15000.0,23678.0,20500.0,DUMMY,SUP-02
+BIOTEK,115,Biotek,Insektisida,True,False,unit,110.0,Biotek,,,False,pcs,1.0,10.0,pcs (min. beli 10),17500.0,17500.0,30135.0,26000.0,DUMMY,SUP-04
+BRVXN,116,Bravoxone 276 SL,Herbisida,True,False,unit,111.0,Bravoxone 276 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),45000.0,45000.0,80325.0,70500.0,DUMMY,SUP-06
+BFS1L,117,Bufos 150 SL,Herbisida,True,False,unit,112.0,Bufos 150 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),52000.0,52000.0,90038.0,74000.0,DUMMY,SUP-06
+CPH,118,Cepha 480 SL,Insektisida,True,False,unit,113.0,Cepha 480 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),28500.0,28500.0,50509.0,40500.0,DUMMY,
+CRC,119,Curacron 500 EC,Insektisida,True,False,unit,114.0,Curacron 500 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),31000.0,31000.0,56601.0,48000.0,DUMMY,SUP-04
+DANGKE100,120,Dangke 40 WP,Insektisida,True,False,unit,115.0,Dangke 40 WP,,,False,pcs,1.0,10.0,pcs (min. beli 10),23500.0,23500.0,39653.0,32000.0,DUMMY,SUP-04
+DCSK,121,Decis 25 EC,Insektisida,True,False,unit,116.0,Decis 25 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),17000.0,17000.0,32235.0,26000.0,DUMMY,SUP-04
+DCSB,122,Decis 25 EC,Insektisida,True,False,unit,117.0,Decis 25 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),31000.0,31000.0,58958.0,48500.0,DUMMY,SUP-04
+EMKAPE500,123,Emkape Maxxi Agri,Pupuk,True,False,unit,71.0,Emkape Maxxi Agri,EMKAPE1,0.5,False,pcs,0.5,10.0,pcs (min. beli 10),24500.0,24500.0,45675.0,37000.0,PRIMER,SUP-02
+EXTRAPCKG,124,extra kardus + bubblewrap,Perlengkapan,True,False,unit,118.0,extra kardus + bubblewrap,,,False,pcs,1.0,100.0,pcs (min. beli 10),2000.0,2000.0,4252.0,,DUMMY,
+FSTC,125,Fastac 15 EC,Insektisida,True,False,unit,119.0,Fastac 15 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),16000.0,16000.0,25095.0,20500.0,DUMMY,SUP-04
+FSTSCR500,126,Fastscore,Fungisida,True,False,unit,120.0,Fastscore,,,False,pcs,1.0,10.0,pcs (min. beli 10),76000.0,76000.0,140894.0,121500.0,DUMMY,SUP-05
+FRTPHS1,127,Fertiphos Curah,Pupuk,True,False,unit,121.0,Fertiphos Pak Tani,FRTPHS50KG,1.0,False,kg,1.0,50.0,karung,4100.0,4350.0,8820.0,7000.0,DUMMY,SUP-01
+FSTN100,128,Fostin 610 EC,Insektisida,True,False,unit,122.0,Fostin 610 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),19000.0,19000.0,31920.0,27000.0,DUMMY,SUP-04
+FRD1,129,Furadan 3GR,Insektisida,True,False,unit,123.0,Furadan 3GR,,,False,pcs,1.0,10.0,pcs (min. beli 10),21000.0,21000.0,38115.0,31500.0,DUMMY,SUP-04
+FRD2,130,Furadan 3GR,Insektisida,True,False,unit,124.0,Furadan 3GR,,,False,pcs,1.0,10.0,pcs (min. beli 10),37000.0,37000.0,54495.0,48000.0,DUMMY,SUP-04
+JARINGSDG,131,Jaring Buah Sedang,Perlengkapan,True,False,unit,125.0,Jaring Buah Sedang,,,False,pcs,1.0,10.0,pcs (min. beli 10),3000.0,3000.0,6280.0,5000.0,DUMMY,
+JARINGBSR,132,Jaring Buah Besar,Perlengkapan,True,False,unit,126.0,Jaring Buah Besar,,,False,pcs,1.0,10.0,pcs (min. beli 10),5000.0,5000.0,8032.0,6500.0,DUMMY,SUP-07
+JSP500,133,Jetspray,Perlengkapan,True,False,unit,127.0,Jetspray,,,False,pcs,1.0,10.0,pcs (min. beli 10),7700.0,7700.0,12999.0,10500.0,DUMMY,SUP-07
+KANITRAT500,134,Kanitrat Maxxi Agri,Pupuk,True,False,unit,128.0,Kanitrat Maxxi Agri,KANITRAT1,0.5,False,pcs,0.5,10.0,pcs (min. beli 10),16500.0,16750.0,26775.0,23000.0,DUMMY,SUP-02
+KANITRAT1,135,Kanitrat Maxxi Agri,Pupuk,True,False,unit,128.0,Kanitrat Maxxi Agri,,,True,pcs,1.0,10.0,pcs (min. beli 10),34000.0,34000.0,63788.0,55000.0,DUMMY,SUP-02
+KANON100,136,Kanon 400 EC,Insektisida,True,False,unit,129.0,Kanon 400 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),16000.0,16000.0,28560.0,24500.0,DUMMY,SUP-04
+KRTBRN,137,Karate Plus Boroni,Pupuk,True,False,unit,130.0,Karate Plus Boroni,,,False,pcs,1.0,10.0,pcs (min. beli 10),16500.0,16750.0,27318.0,22000.0,PRIMER,SUP-02
+KCL,138,KCL Curah,Pupuk,True,False,unit,131.0,Pupuk KCL Mahkota,KCL50KG,0.5,False,kg,0.5,50.0,karung,5500.0,5750.0,15802.0,13500.0,DUMMY,SUP-01
+KINGTONIK1,139,King Tonik,Nutrisi dan ZPT,True,False,unit,132.0,King Tonik,,,False,pcs,1.0,10.0,pcs (min. beli 10),16000.0,16000.0,29138.0,24500.0,DUMMY,SUP-03
+KNOMRH2,140,CPN Pak Tani (KNO3 merah),Pupuk,True,False,unit,133.0,CPN Pak Tani (KNO3 merah),,,False,pcs,1.0,10.0,pcs (min. beli 10),61000.0,61000.0,121118.0,103500.0,DUMMY,
+KNOPTH1,141,PN Pak Tani (KNO3 putih kristal),Pupuk,True,False,unit,134.0,PN Pak Tani (KNO3 putih kristal),,,False,pcs,1.0,10.0,pcs (min. beli 10),38000.0,38000.0,56228.0,48500.0,DUMMY,SUP-02
+KNOPTH2,142,PN Pak Tani (KNO3 putih prill),Pupuk,True,False,unit,135.0,PN Pak Tani (KNO3 putih prill),,,False,pcs,1.0,10.0,pcs (min. beli 10),75500.0,75500.0,125160.0,101500.0,DUMMY,SUP-02
+KONUP,143,Konup 480 SL,Herbisida,True,False,unit,136.0,Konup 480 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),42000.0,42000.0,69458.0,56500.0,DUMMY,SUP-06
+KOVINPLUS,144,Kovin Plus 80P,Insektisida,True,False,unit,137.0,Kovin Plus 80P,,,False,pcs,1.0,10.0,pcs (min. beli 10),2500.0,2500.0,4988.0,4000.0,DUMMY,SUP-04
+KRSLN,145,Kreslon 480 EC,Insektisida,True,False,unit,138.0,Kreslon 480 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),22500.0,22500.0,39952.0,35000.0,DUMMY,SUP-04
+KRESNATOP,146,Kresnatop 500 SC,Herbisida,True,False,unit,139.0,Kresnatop 500 SC,,,False,pcs,1.0,10.0,pcs (min. beli 10),95000.0,95000.0,167895.0,145500.0,DUMMY,SUP-06
+MARSHAL25,147,Marshal 25 DS,Insektisida,True,False,unit,140.0,Marshal 25 DS,,,False,pcs,1.0,10.0,pcs (min. beli 10),8000.0,8000.0,17640.0,15500.0,DUMMY,SUP-04
+MARTREX500,148,Mar-trex 500 EC,Insektisida,True,False,unit,141.0,Mar-trex 500 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),9500.0,9500.0,21000.0,17500.0,DUMMY,SUP-04
+MTDR,149,Matador 25 EC,Insektisida,True,False,unit,142.0,Matador 25 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),22000.0,22000.0,42578.0,36000.0,DUMMY,SUP-04
+MAXXIGROB500,150,Maxxigro B,Nutrisi dan ZPT,True,False,unit,143.0,Maxxigro B,,,False,pcs,1.0,10.0,pcs (min. beli 10),31000.0,31000.0,70508.0,60500.0,DUMMY,SUP-03
+MAXXIGROD500,151,Maxxigro D,Nutrisi dan ZPT,True,False,unit,144.0,Maxxigro D,,,False,pcs,1.0,10.0,pcs (min. beli 10),26000.0,26000.0,38272.0,33500.0,DUMMY,SUP-03
+MEGAZEB,152,Megazeb 80 WP,Fungisida,True,False,unit,145.0,Megazeb 80 WP,,,False,pcs,1.0,10.0,pcs (min. beli 10),45000.0,45000.0,69038.0,57000.0,DUMMY,
+MTSLNDO,153,Metsulindo Plus 80WP,Herbisida,True,False,unit,146.0,Metsulindo Plus 80WP,,,False,pcs,1.0,10.0,pcs (min. beli 10),10000.0,10000.0,17798.0,14500.0,DUMMY,SUP-06
+MKP1,154,MKP Pak Tani,Pupuk,True,False,unit,147.0,MKP Pak Tani,,,False,pcs,1.0,10.0,pcs (min. beli 10),56000.0,56500.0,87587.0,72000.0,PRIMER,SUP-02
+MOLASE,155,Molase,Nutrisi dan ZPT,True,False,unit,148.0,Molase,,,False,pcs,1.0,10.0,pcs (min. beli 10),5900.0,5900.0,12968.0,11000.0,DUMMY,SUP-03
+NTVK,156,Nativo 75 WG,Fungisida,True,False,unit,149.0,Nativo 75 WG,,,False,pcs,1.0,10.0,pcs (min. beli 10),17500.0,17500.0,28718.0,24000.0,DUMMY,SUP-05
+NRDX,157,Nordox 56 WP,Fungisida,True,False,unit,150.0,Nordox 56 WP,,,False,pcs,1.0,10.0,pcs (min. beli 10),26000.0,26000.0,43838.0,37000.0,DUMMY,SUP-05
+NUGRASS,158,Nugrass 69 EC,Herbisida,True,False,unit,151.0,Nugrass 69 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),38000.0,38000.0,70517.0,60500.0,DUMMY,SUP-06
+PTRGNL,159,Petrogeol 800L,Insektisida,True,False,unit,152.0,Petrogeol 800L,,,False,pcs,1.0,10.0,pcs (min. beli 10),5500.0,5500.0,11340.0,9500.0,DUMMY,SUP-04
+POCMF1L,160,POC Mitra Flora,Nutrisi dan ZPT,True,False,unit,153.0,POC Mitra Flora,,,False,pcs,1.0,10.0,pcs (min. beli 10),26500.0,26500.0,45360.0,39000.0,DUMMY,SUP-03
+PLYBG15,161,Polybag Tanaman 15x15,Perlengkapan,True,False,unit,154.0,Polybag Tanaman 15x15,,,False,pcs,1.0,10.0,pcs (min. beli 10),14500.0,14500.0,22155.0,19000.0,DUMMY,SUP-07
+PLYBG20,162,Polybag Tanaman 20x20,Perlengkapan,True,False,unit,155.0,Polybag Tanaman 20x20,,,False,pcs,1.0,10.0,pcs (min. beli 10),14500.0,14500.0,27300.0,23500.0,DUMMY,SUP-07
+PLYBG25,163,Polybag Tanaman 25x25,Perlengkapan,True,False,unit,156.0,Polybag Tanaman 25x25,,,False,pcs,1.0,10.0,pcs (min. beli 10),14500.0,14500.0,24045.0,21000.0,DUMMY,
+PLYBG30,164,Polybag Tanaman 30x30,Perlengkapan,True,False,unit,157.0,Polybag Tanaman 30x30,,,False,pcs,1.0,10.0,pcs (min. beli 10),14500.0,14500.0,23152.0,19500.0,DUMMY,
+PLYBG35,165,Polybag Tanaman 35x35,Perlengkapan,True,False,unit,158.0,Polybag Tanaman 35x35,,,False,pcs,1.0,10.0,pcs (min. beli 10),14500.0,14500.0,26670.0,22500.0,DUMMY,SUP-07
+PLYBG40,166,Polybag Tanaman 40x40,Perlengkapan,True,False,unit,159.0,Polybag Tanaman 40x40,,,False,pcs,1.0,10.0,pcs (min. beli 10),14500.0,14500.0,28875.0,23000.0,DUMMY,SUP-07
+PLYBG45,167,Polybag Tanaman 45x45,Perlengkapan,True,False,unit,160.0,Polybag Tanaman 45x45,,,False,pcs,1.0,10.0,pcs (min. beli 10),14500.0,14500.0,25205.0,21000.0,DUMMY,SUP-07
+PLYBG50,168,Polybag Tanaman 50x50,Perlengkapan,True,False,unit,161.0,Polybag Tanaman 50x50,,,False,pcs,1.0,10.0,pcs (min. beli 10),14500.0,14500.0,23940.0,21000.0,DUMMY,SUP-07
+RADOCKCL,169,Radoc 500 EC,Insektisida,True,False,unit,162.0,Radoc 500 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),9000.0,9000.0,14700.0,12000.0,DUMMY,
+RGNTB,170,Regent 50 EC,Insektisida,True,False,unit,163.0,Regent 50 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),43000.0,43000.0,77752.0,62500.0,DUMMY,SUP-04
+RGNT,171,Regent 50 EC,Insektisida,True,False,unit,164.0,Regent 50 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),23500.0,23500.0,33495.0,28500.0,DUMMY,SUP-04
+RDPB,172,Roundup 486 SL,Herbisida,True,False,unit,165.0,Roundup 486 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),80000.0,80000.0,118755.0,97000.0,DUMMY,SUP-06
+RDPK,173,Roundup 486 SL,Herbisida,True,False,unit,166.0,Roundup 486 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),23000.0,23000.0,36278.0,31500.0,DUMMY,SUP-06
+RDSTR100,174,Rudstar 250 EC,Herbisida,True,False,unit,167.0,Rudstar 250 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),30000.0,30000.0,50820.0,44500.0,DUMMY,SUP-06
+RMPS100,175,Rumpas 120 EW,Herbisida,True,False,unit,168.0,Rumpas 120 EW,,,False,pcs,1.0,10.0,pcs (min. beli 10),45500.0,45500.0,67095.0,54000.0,DUMMY,SUP-06
+SCR80,176,Score 250 EC,Fungisida,True,False,unit,169.0,Score 250 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),54000.0,54000.0,83842.0,69000.0,DUMMY,SUP-05
+SPONTAN,177,Spontan 400 SL,Insektisida,True,False,unit,170.0,Spontan 400 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),51000.0,51000.0,96232.0,83500.0,DUMMY,SUP-04
+STRBN100,178,Starban 585 EC,Insektisida,True,False,unit,171.0,Starban 585 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),21500.0,21500.0,33442.0,29000.0,DUMMY,SUP-04
+SPRFS100,179,Superfos 550 EC,Insektisida,True,False,unit,172.0,Superfos 550 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),16500.0,16500.0,33862.0,29000.0,DUMMY,
+TAMACRON,180,Tamacron 500 EC,Insektisida,True,False,unit,173.0,Tamacron 500 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),80000.0,80000.0,130025.0,110500.0,DUMMY,SUP-04
+TPSN,181,Topsin 500 EC,Fungisida,True,False,unit,174.0,Topsin 500 EC,,,False,pcs,1.0,10.0,pcs (min. beli 10),16000.0,16000.0,32760.0,28500.0,DUMMY,SUP-05
+TRICHO500,182,Tricho-Bact,Fungisida,True,False,unit,175.0,Tricho-Bact,,,False,pcs,1.0,10.0,pcs (min. beli 10),27000.0,27000.0,48056.0,38000.0,DUMMY,SUP-05
+TROBOS100,183,Trobos 200 SL,Nutrisi dan ZPT,True,False,unit,176.0,Trobos 200 SL,,,False,pcs,1.0,10.0,pcs (min. beli 10),15000.0,15000.0,22680.0,20000.0,DUMMY,SUP-03
+UREA,184,Urea Curah,Pupuk,True,False,unit,177.0,Pupuk Urea Petro,UREA50KG,0.5,False,kg,0.5,50.0,karung,6750.0,7000.0,16958.0,14500.0,DUMMY,SUP-01
+WAUX,185,Wauxin,Insektisida,True,False,unit,178.0,Wauxin,,,False,pcs,1.0,10.0,pcs (min. beli 10),4000.0,4000.0,6668.0,5500.0,DUMMY,SUP-04
+ZNSO4,186,Zinkko Pupuk Mikro,Pupuk,True,False,unit,179.0,Zinkko Pupuk Mikro,,,False,pcs,1.0,10.0,pcs (min. beli 10),12500.0,12500.0,22522.0,19500.0,DUMMY,SUP-02
+UREA50KG,187,Pupuk Urea Petro (karung 50 kg),Pupuk,False,False,kg,177.0,Pupuk Urea Petro,,,True,kg,50.0,50.0,"karung (SKU induk, tidak dijual)",,,,,,SUP-01
+KCL50KG,188,Pupuk KCL Mahkota (karung 50 kg),Pupuk,False,False,kg,131.0,Pupuk KCL Mahkota,,,True,kg,50.0,50.0,"karung (SKU induk, tidak dijual)",,,,,,SUP-01
+DLMT50KG,189,Kapur Pertanian Kebomas (karung 50 kg),Pupuk,False,False,kg,12.0,Kapur Pertanian Kebomas,,,True,kg,50.0,50.0,"karung (SKU induk, tidak dijual)",,,,,,SUP-01
+FRTPHS50KG,190,Fertiphos Pak Tani (karung 50 kg),Pupuk,False,False,kg,121.0,Fertiphos Pak Tani,,,True,kg,50.0,50.0,"karung (SKU induk, tidak dijual)",,,,,,SUP-01

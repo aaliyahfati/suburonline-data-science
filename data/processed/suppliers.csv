@@ -1,0 +1,8 @@
+supplier_code,nama_supplier,kelompok_produk,lead_time_hari
+SUP-01,Supplier 01 (dummy),Pupuk curah dan karung,3
+SUP-02,Supplier 02 (dummy),Pupuk NPK dan mikro,5
+SUP-03,Supplier 03 (dummy),Nutrisi dan ZPT,4
+SUP-04,Supplier 04 (dummy),Insektisida,3
+SUP-05,Supplier 05 (dummy),Fungisida,5
+SUP-06,Supplier 06 (dummy),Herbisida,5
+SUP-07,Supplier 07 (dummy),Perlengkapan,7
