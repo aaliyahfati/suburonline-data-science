@@ -1,0 +1,191 @@
+sku,product_id,parent_id,parent_name,base_unit,faktor_per_unit_jual,isi_per_pembelian,satuan_beli,is_bundle,label
+AGT,1,1,Pupuk Amazing Grow Pertumbuhan,pcs,1,10,pcs (min. beli 10),0,DUMMY
+AGB,2,2,Pupuk Amazing Grow Pembuahan,pcs,1,10,pcs (min. beli 10),0,DUMMY
+AGL,3,3,Amazing Grow Booster Kelengkeng,pcs,1,10,pcs (min. beli 10),0,DUMMY
+STARLON100,4,4,Starlon 665 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+ANWAVIN100,5,5,Anwavin 500 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+CPRCD100,6,6,Cuprocide 77 WP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+GOBEST100,7,7,Gobest 250 SC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+LINDOMIN400,8,8,Lindomin 865 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+TMA400,9,9,TMA 6 865 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+VLGR400,10,10,Vulgar 865 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+HUMIGROW500,11,11,Humigrow,pcs,1,10,pcs (min. beli 10),0,DUMMY
+DLMT,12,12,Kapur Pertanian Kebomas,kg,0.5,50,karung,0,DUMMY
+KYRS500,13,13,Kayaris,pcs,1,10,pcs (min. beli 10),0,DUMMY
+KLIMAX,14,14,Klimax 20 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+KRESNABAT40,15,15,Kresnabat 50 WP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+ATNK,16,16,Atonik 6.0 L,pcs,1,10,pcs (min. beli 10),0,DUMMY
+KRSNCD,17,17,Kresnacid 250 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+SDMTHRN,18,18,Sidamethrin 50 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+JSP1L,19,19,Jetspray,pcs,1,10,pcs (min. beli 10),0,DUMMY
+MANOHARA1,20,20,Manohara,pcs,1,10,pcs (min. beli 10),0,DUMMY
+MST 2L,21,21,Misty Hand Sprayer,pcs,1,10,pcs (min. beli 10),0,DUMMY
+NPKTWN1,22,22,NPK Cap Tawon,pcs,1,10,pcs (min. beli 10),0,DUMMY
+SAPPORO100,23,23,Sapporo 52 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+M21,24,24,M-21 Decomposer,pcs,1,10,pcs (min. beli 10),0,DUMMY
+GMBR3L,25,25,Gembor Air,pcs,1,10,pcs (min. beli 10),0,DUMMY
+GEMPUR1,26,26,Gempur 480 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+LIQ,27,27,B1 Liquinox,pcs,1,10,pcs (min. beli 10),0,DUMMY
+ISADORA400,28,28,Isadora 75 SP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+BIONIK100,29,29,Bionik 400 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+ASIABORON1,30,30,Asia Boron,pcs,1,10,pcs (min. beli 10),0,DUMMY
+MEKARMAP1,31,31,MekarMAP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+MGSULFATE,32,32,Magnesium Sulfat Pak Tani,pcs,1,10,pcs (min. beli 10),0,DUMMY
+PETROKUM100,33,33,"Petrokum 0,005 BB",pcs,1,10,pcs (min. beli 10),0,DUMMY
+SEETOP1L,34,34,See Top 525 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+SIDAFOS1L,35,35,Sidafos 480 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+WINDER100,36,36,Winder 100 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+ALIKA50,37,37,Alika 247 ZC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+SIDATAN400,38,38,Sidatan 410 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+DEBESTTAN100,39,39,De Besttan 60 WP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+BROADPLUS40,40,40,BroadPlus 77 WP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+PREVATHON100,41,41,Prevathon 50 SC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+EROSGOLD100,42,42,EROS GOLD 0.75/30 DF,pcs,1,10,pcs (min. beli 10),0,DUMMY
+ABACEL,43,43,Abacel 18 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+SERENDY,44,44,Serendy 28 WP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+CNG1,45,45,CN-G Kalsium Nitrat,pcs,1,10,pcs (min. beli 10),0,DUMMY
+MIPCINTA100,46,46,Mipcinta 50 WP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+PLENUM25,47,47,Plenum 50 WG,pcs,1,10,pcs (min. beli 10),0,DUMMY
+FENITE100,48,48,Fenite 150 OD,pcs,1,10,pcs (min. beli 10),0,DUMMY
+FENITE50,49,49,Fenite 150 OD,pcs,1,10,pcs (min. beli 10),0,DUMMY
+SAMITE100,50,50,Samite 135 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+DITHANE200,51,51,Dithane M-45 80 WP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+SUMO80,52,52,Sumo 50 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+KALINET500,53,53,Kalinet Kalium Cair,pcs,1,10,pcs (min. beli 10),0,DUMMY
+FILIA50,54,54,Filia 525 SE,pcs,1,10,pcs (min. beli 10),0,DUMMY
+PAKETAG,55,,(paket),,,,,1,DUMMY
+PAKETGDSL,56,,(paket),,,,,1,DUMMY
+PAKETTUMBUH250,57,,(paket),,,,,1,DUMMY
+PAKETBUAH250,58,,(paket),,,,,1,DUMMY
+PAKETGNRTF,59,,(paket),,,,,1,DUMMY
+MAXXFOSATE250,60,55,Maxxfosate 490 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+SPONTANKING,61,56,Spontan King 400 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+METAZEB1,62,57,Metazeb 80 WP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+ALITA100,63,58,Alita 150 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+GOSONGTOP250,64,59,Gosong Top 276 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+GOSONGTOP500,65,60,Gosong Top 276 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+FARMQUAT250,66,61,Farmquat 276 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+AGCEL250,67,62,Agcel 500 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+EXPLORE80,68,63,Explore 250 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+NPKAMONG5,69,64,NPK Among Tani,pcs,1,10,pcs (min. beli 10),0,DUMMY
+BRVTP1L,70,65,BravoTop 555 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+AMINONANO,71,66,Amino Nano,pcs,1,10,pcs (min. beli 10),0,DUMMY
+GLUBEST1L,72,67,Glubest 200 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+KINGLON100,73,68,Kinglon 667 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+INSTAMAX1L,74,69,Instamax 240 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+NOXONE1L,75,70,Noxone 276 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+EMKAPE1,76,71,Emkape Maxxi Agri,pcs,1,10,pcs (min. beli 10),0,DUMMY
+BESTAR1L,77,72,Bestar 200 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+SUPEREL100,78,73,Superel 480 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+RIOVIL100,79,74,Riovil 50 SC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+PEGASUS80,80,75,Pegasus 500 SC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+GATS,81,76,Gunting ATS,pcs,1,10,pcs (min. beli 10),0,DUMMY
+GKNG,82,77,Gunting Kuning,pcs,1,10,pcs (min. beli 10),0,DUMMY
+GRXB,83,78,Gramoxone 276 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+GRXK,84,79,Gramoxone 276 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+MANZATE500,85,80,Manzate 82 WP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+ETREKKCL,86,81,E-Trek anti rayap,pcs,1,10,pcs (min. beli 10),0,DUMMY
+EM4K,87,82,EM4 Pertanian,pcs,1,10,pcs (min. beli 10),0,DUMMY
+EM4C,88,83,EM4 Peternakan,pcs,1,10,pcs (min. beli 10),0,DUMMY
+EM4P,89,84,EM4 Perikanan & Tambak,pcs,1,10,pcs (min. beli 10),0,DUMMY
+EM4B,90,85,EM4 Limbah / Toilet,pcs,1,10,pcs (min. beli 10),0,DUMMY
+NPKMGRW,91,86,NPK Mutiara GROWER,pcs,1,10,pcs (min. beli 10),0,DUMMY
+NPKM1,92,87,NPK Mutiara,pcs,1,10,pcs (min. beli 10),0,DUMMY
+NPKYRML,93,88,NPK YaraMila,pcs,1,10,pcs (min. beli 10),0,DUMMY
+NPKPT,94,89,NPK Pak Tani,pcs,1,10,pcs (min. beli 10),0,DUMMY
+ULTRDP,95,90,Ultradap Pak Tani,pcs,1,10,pcs (min. beli 10),0,DUMMY
+YOUSTICK500,96,91,You Stick,pcs,1,10,pcs (min. beli 10),0,DUMMY
+GRNSTIK,97,92,Green Stick,pcs,1,10,pcs (min. beli 10),0,DUMMY
+GRNTNK1,98,93,Green Tonik,pcs,1,10,pcs (min. beli 10),0,DUMMY
+GDSLB,99,94,Gandasil B,pcs,1,10,pcs (min. beli 10),0,DUMMY
+GDSLB500,100,95,Gandasil B,pcs,1,10,pcs (min. beli 10),0,DUMMY
+GDSLD,101,96,Gandasil D,pcs,1,10,pcs (min. beli 10),0,DUMMY
+GDSLD500,102,97,Gandasil D,pcs,1,10,pcs (min. beli 10),0,DUMMY
+GIBGRO,103,98,Gibgro 10 SP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+GIBGROPN,104,99,Gibgro Panen 20 SP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+AMBTN500,105,100,Ambition,pcs,1,10,pcs (min. beli 10),0,DUMMY
+AMSTRTOP50,106,101,Amistar Top 325 SC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+ANTILA500,107,102,Antila 80 WP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+ANTRCL,108,103,Antracol 70 WP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+ANTRCL500,109,104,Antracol 70 WP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+AVIDOR100,110,105,Avidor 25 WP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+BBLSS,111,106,Bablass 490 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+BLSTC,112,107,Balistic 50 SC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+BIOCALSIUM1,113,108,Bio Calsium,pcs,1,10,pcs (min. beli 10),0,DUMMY
+CALSIUMSPR1,114,109,Calsium Super,pcs,1,10,pcs (min. beli 10),0,DUMMY
+BIOTEK,115,110,Biotek,pcs,1,10,pcs (min. beli 10),0,DUMMY
+BRVXN,116,111,Bravoxone 276 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+BFS1L,117,112,Bufos 150 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+CPH,118,113,Cepha 480 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+CRC,119,114,Curacron 500 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+DANGKE100,120,115,Dangke 40 WP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+DCSK,121,116,Decis 25 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+DCSB,122,117,Decis 25 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+EMKAPE500,123,71,Emkape Maxxi Agri,pcs,0.5,10,pcs (min. beli 10),0,DUMMY
+EXTRAPCKG,124,118,extra kardus + bubblewrap,pcs,1,100,pcs (min. beli 10),0,DUMMY
+FSTC,125,119,Fastac 15 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+FSTSCR500,126,120,Fastscore,pcs,1,10,pcs (min. beli 10),0,DUMMY
+FRTPHS1,127,121,Fertiphos Pak Tani,kg,1,50,karung,0,DUMMY
+FSTN100,128,122,Fostin 610 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+FRD1,129,123,Furadan 3GR,pcs,1,10,pcs (min. beli 10),0,DUMMY
+FRD2,130,124,Furadan 3GR,pcs,1,10,pcs (min. beli 10),0,DUMMY
+JARINGSDG,131,125,Jaring Buah Sedang,pcs,1,10,pcs (min. beli 10),0,DUMMY
+JARINGBSR,132,126,Jaring Buah Besar,pcs,1,10,pcs (min. beli 10),0,DUMMY
+JSP500,133,127,Jetspray,pcs,1,10,pcs (min. beli 10),0,DUMMY
+KANITRAT500,134,128,Kanitrat Maxxi Agri,pcs,0.5,10,pcs (min. beli 10),0,DUMMY
+KANITRAT1,135,128,Kanitrat Maxxi Agri,pcs,1,10,pcs (min. beli 10),0,DUMMY
+KANON100,136,129,Kanon 400 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+KRTBRN,137,130,Karate Plus Boroni,pcs,1,10,pcs (min. beli 10),0,DUMMY
+KCL,138,131,Pupuk KCL Mahkota,kg,0.5,50,karung,0,DUMMY
+KINGTONIK1,139,132,King Tonik,pcs,1,10,pcs (min. beli 10),0,DUMMY
+KNOMRH2,140,133,CPN Pak Tani (KNO3 merah),pcs,1,10,pcs (min. beli 10),0,DUMMY
+KNOPTH1,141,134,PN Pak Tani (KNO3 putih kristal),pcs,1,10,pcs (min. beli 10),0,DUMMY
+KNOPTH2,142,135,PN Pak Tani (KNO3 putih prill),pcs,1,10,pcs (min. beli 10),0,DUMMY
+KONUP,143,136,Konup 480 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+KOVINPLUS,144,137,Kovin Plus 80P,pcs,1,10,pcs (min. beli 10),0,DUMMY
+KRSLN,145,138,Kreslon 480 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+KRESNATOP,146,139,Kresnatop 500 SC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+MARSHAL25,147,140,Marshal 25 DS,pcs,1,10,pcs (min. beli 10),0,DUMMY
+MARTREX500,148,141,Mar-trex 500 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+MTDR,149,142,Matador 25 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+MAXXIGROB500,150,143,Maxxigro B,pcs,1,10,pcs (min. beli 10),0,DUMMY
+MAXXIGROD500,151,144,Maxxigro D,pcs,1,10,pcs (min. beli 10),0,DUMMY
+MEGAZEB,152,145,Megazeb 80 WP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+MTSLNDO,153,146,Metsulindo Plus 80WP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+MKP1,154,147,MKP Pak Tani,pcs,1,10,pcs (min. beli 10),0,DUMMY
+MOLASE,155,148,Molase,pcs,1,10,pcs (min. beli 10),0,DUMMY
+NTVK,156,149,Nativo 75 WG,pcs,1,10,pcs (min. beli 10),0,DUMMY
+NRDX,157,150,Nordox 56 WP,pcs,1,10,pcs (min. beli 10),0,DUMMY
+NUGRASS,158,151,Nugrass 69 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+PTRGNL,159,152,Petrogeol 800L,pcs,1,10,pcs (min. beli 10),0,DUMMY
+POCMF1L,160,153,POC Mitra Flora,pcs,1,10,pcs (min. beli 10),0,DUMMY
+PLYBG15,161,154,Polybag Tanaman 15x15,pcs,1,10,pcs (min. beli 10),0,DUMMY
+PLYBG20,162,155,Polybag Tanaman 20x20,pcs,1,10,pcs (min. beli 10),0,DUMMY
+PLYBG25,163,156,Polybag Tanaman 25x25,pcs,1,10,pcs (min. beli 10),0,DUMMY
+PLYBG30,164,157,Polybag Tanaman 30x30,pcs,1,10,pcs (min. beli 10),0,DUMMY
+PLYBG35,165,158,Polybag Tanaman 35x35,pcs,1,10,pcs (min. beli 10),0,DUMMY
+PLYBG40,166,159,Polybag Tanaman 40x40,pcs,1,10,pcs (min. beli 10),0,DUMMY
+PLYBG45,167,160,Polybag Tanaman 45x45,pcs,1,10,pcs (min. beli 10),0,DUMMY
+PLYBG50,168,161,Polybag Tanaman 50x50,pcs,1,10,pcs (min. beli 10),0,DUMMY
+RADOCKCL,169,162,Radoc 500 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+RGNTB,170,163,Regent 50 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+RGNT,171,164,Regent 50 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+RDPB,172,165,Roundup 486 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+RDPK,173,166,Roundup 486 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+RDSTR100,174,167,Rudstar 250 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+RMPS100,175,168,Rumpas 120 EW,pcs,1,10,pcs (min. beli 10),0,DUMMY
+SCR80,176,169,Score 250 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+SPONTAN,177,170,Spontan 400 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+STRBN100,178,171,Starban 585 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+SPRFS100,179,172,Superfos 550 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+TAMACRON,180,173,Tamacron 500 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+TPSN,181,174,Topsin 500 EC,pcs,1,10,pcs (min. beli 10),0,DUMMY
+TRICHO500,182,175,Tricho-Bact,pcs,1,10,pcs (min. beli 10),0,DUMMY
+TROBOS100,183,176,Trobos 200 SL,pcs,1,10,pcs (min. beli 10),0,DUMMY
+UREA,184,177,Pupuk Urea Petro,kg,0.5,50,karung,0,DUMMY
+WAUX,185,178,Wauxin,pcs,1,10,pcs (min. beli 10),0,DUMMY
+ZNSO4,186,179,Zinkko Pupuk Mikro,pcs,1,10,pcs (min. beli 10),0,DUMMY
+UREA50KG,187,177,Pupuk Urea Petro,kg,50,50,"karung (SKU induk, tidak dijual)",0,DUMMY
+KCL50KG,188,131,Pupuk KCL Mahkota,kg,50,50,"karung (SKU induk, tidak dijual)",0,DUMMY
+DLMT50KG,189,12,Kapur Pertanian Kebomas,kg,50,50,"karung (SKU induk, tidak dijual)",0,DUMMY
+FRTPHS50KG,190,121,Fertiphos Pak Tani,kg,50,50,"karung (SKU induk, tidak dijual)",0,DUMMY
