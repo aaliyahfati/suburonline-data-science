@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Hasil antara, bisa dibuat ulang dari notebook 01
+data/interim/*
+!data/interim/.gitkeep
+
+# Log perubahan (16 MB), tidak perlu dibagikan
+data/processed/change_log.csv
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
