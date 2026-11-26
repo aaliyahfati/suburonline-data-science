@@ -1674,7 +1674,7 @@ stok_masuk_keluar,fenit5e0,FENIT5E0,1,1,mapping tersimpan -> kode,FENITE50,masuk
 stok_masuk_keluar,fenite 150 od,Fenite 150 OD,1,1,nama + harga,FENITE50,masuk
 stok_masuk_keluar,fenite100,FENITE100,26,26,kode,FENITE100,masuk
 stok_masuk_keluar,fenite50,FENITE50,40,40,kode,FENITE50,masuk
-stok_masuk_keluar,fertiphos curah,Fertiphos Curah,3,3,nama,"FRTPHS1, FRTPHS50KG",masuk
+stok_masuk_keluar,fertiphos curah,Fertiphos Curah,3,3,nama,FRTPHS50KG,masuk
 stok_masuk_keluar,fili50,FILI50,1,1,mapping tersimpan -> kode,FILIA50,masuk
 stok_masuk_keluar,filia 525 se,Filia 525 SE,2,2,nama,FILIA50,masuk
 stok_masuk_keluar,filia50,FILIA50,50,50,kode,FILIA50,masuk
@@ -1743,7 +1743,7 @@ stok_masuk_keluar,kanitrat1,KANITRAT1,25,25,kode,KANITRAT1,masuk
 stok_masuk_keluar,kanitrat500,KANITRAT500,1,1,kode,KANITRAT500,masuk
 stok_masuk_keluar,kanon 400 ec,Kanon 400 EC,2,2,nama,KANON100,masuk
 stok_masuk_keluar,kanon100,KANON100,10,10,kode,KANON100,masuk
-stok_masuk_keluar,kapur dolomite,Kapur Dolomite,3,3,nama,DLMT,masuk
+stok_masuk_keluar,kapur dolomite,Kapur Dolomite,3,3,nama,"DLMT, DLMT50KG",masuk
 stok_masuk_keluar,kc5l0kg,KC5L0KG,1,1,mapping tersimpan -> kode,KCL50KG,masuk
 stok_masuk_keluar,kcl,KCL,25,25,kode,KCL,masuk
 stok_masuk_keluar,kcl curah,KCL Curah,2,2,nama,"KCL, KCL50KG",masuk

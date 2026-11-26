@@ -714,7 +714,7 @@ tanggal,sku,stok_fisik,stok_sistem,selisih,satuan_stok,catatan,aturan_sku,berkas
 2025-11-30,CPH,8.0,8.0,0.0,unit,,kode,stok_opname_2025-11-30.xlsx,49
 2025-11-30,CRC,7.0,11.0,-4.0,unit,,kode,stok_opname_2025-11-30.xlsx,50
 2025-11-30,DCSB,24.0,45.0,-21.0,unit,,kode,stok_opname_2025-11-30.xlsx,51
-2025-11-30,DLMT,27.0,-9.0,36.0,unit,,kode,stok_opname_2025-11-30.xlsx,5
+2025-11-30,DLMT,27.0,-11.0,38.0,unit,,kode,stok_opname_2025-11-30.xlsx,5
 2025-11-30,EM4B,8.0,8.0,0.0,unit,,kode,stok_opname_2025-11-30.xlsx,37
 2025-11-30,EMKAPE1,14.0,-40.0,54.0,unit,,kode,stok_opname_2025-11-30.xlsx,30
 2025-11-30,EMKAPE500,3.0,-12.0,15.0,unit,,kode,stok_opname_2025-11-30.xlsx,52
@@ -778,7 +778,7 @@ tanggal,sku,stok_fisik,stok_sistem,selisih,satuan_stok,catatan,aturan_sku,berkas
 2026-02-28,BIOCALSIUM1,20.0,21.0,-1.0,unit,,kode,stok_opname_2026-02-28.xlsx,20
 2026-02-28,BIONIK100,46.0,58.0,-12.0,unit,,kode,stok_opname_2026-02-28.xlsx,6
 2026-02-28,DCSB,32.0,4.0,28.0,unit,,kode,stok_opname_2026-02-28.xlsx,22
-2026-02-28,DLMT50KG,0.0,0.5,-0.5,kg,"SKU induk 50 kg, dalam kg (karung utuh dan sisa)",kode,stok_opname_2026-02-28.xlsx,39
+2026-02-28,DLMT50KG,0.0,100.5,-100.5,kg,"SKU induk 50 kg, dalam kg (karung utuh dan sisa)",kode,stok_opname_2026-02-28.xlsx,39
 2026-02-28,EM4K,15.0,9.0,6.0,unit,,kode,stok_opname_2026-02-28.xlsx,14
 2026-02-28,FARMQUAT250,11.0,12.0,-1.0,unit,,kode,stok_opname_2026-02-28.xlsx,12
 2026-02-28,FSTC,0.0,1.0,-1.0,unit,,kode,stok_opname_2026-02-28.xlsx,23
@@ -823,7 +823,7 @@ tanggal,sku,stok_fisik,stok_sistem,selisih,satuan_stok,catatan,aturan_sku,berkas
 2026-05-31,BIOTEK,4.0,15.0,-11.0,unit,,kode,stok_opname_2026-05-31.xlsx,31
 2026-05-31,BLSTC,44.0,85.0,-41.0,unit,,kode,stok_opname_2026-05-31.xlsx,30
 2026-05-31,FENITE50,35.0,72.0,-37.0,unit,,kode,stok_opname_2026-05-31.xlsx,15
-2026-05-31,FRTPHS50KG,50.0,0.0,50.0,kg,"SKU induk 50 kg, dalam kg (karung utuh dan sisa)",kode,stok_opname_2026-05-31.xlsx,44
+2026-05-31,FRTPHS50KG,50.0,50.0,0.0,kg,"SKU induk 50 kg, dalam kg (karung utuh dan sisa)",kode,stok_opname_2026-05-31.xlsx,44
 2026-05-31,GKNG,8.0,-37.0,45.0,unit,,kode,stok_opname_2026-05-31.xlsx,23
 2026-05-31,GMBR3L,8.0,-8.0,16.0,unit,,kode,stok_opname_2026-05-31.xlsx,8
 2026-05-31,INSTAMAX1L,9.0,16.0,-7.0,unit,,kode,stok_opname_2026-05-31.xlsx,20
@@ -887,7 +887,7 @@ tanggal,sku,stok_fisik,stok_sistem,selisih,satuan_stok,catatan,aturan_sku,berkas
 2026-08-31,FENITE100,1.0,-7.0,8.0,unit,,kode,stok_opname_2026-08-31.xlsx,28
 2026-08-31,FENITE50,8.0,6.0,2.0,unit,,kode,stok_opname_2026-08-31.xlsx,29
 2026-08-31,FRD1,13.0,-45.0,58.0,unit,,kode,stok_opname_2026-08-31.xlsx,75
-2026-08-31,FRTPHS1,10.0,38.0,-28.0,unit,,kode,stok_opname_2026-08-31.xlsx,73
+2026-08-31,FRTPHS1,10.0,37.0,-27.0,unit,,kode,stok_opname_2026-08-31.xlsx,73
 2026-08-31,FSTC,5.0,16.0,-11.0,unit,,kode,stok_opname_2026-08-31.xlsx,72
 2026-08-31,FSTN100,2.0,-2.0,4.0,unit,,kode,stok_opname_2026-08-31.xlsx,74
 2026-08-31,GDSLB500,4.0,8.0,-4.0,unit,,kode,stok_opname_2026-08-31.xlsx,58
