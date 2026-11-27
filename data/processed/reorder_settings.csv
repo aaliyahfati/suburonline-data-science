@@ -1,0 +1,191 @@
+sku,nama,kategori,jenis_stok,satuan_stok,sku_induk,faktor_ke_induk,rata_harian_90h,supplier_utama,lead_time_hari,lead_time_asumsi,stok_pengaman,titik_pesan_ulang,batas_memecah,batas_merakit,catatan,periode_dasar
+AGT,Pupuk Amazing Grow Pertumbuhan,Nutrisi dan ZPT,beli,unit,,,0.922,SUP-03,4,False,2.0,5.7,,,,2026-08-03 s.d. 2026-10-31
+AGB,Pupuk Amazing Grow Pembuahan,Nutrisi dan ZPT,beli,unit,,,0.322,SUP-03,4,False,2.0,3.3,,,,2026-08-03 s.d. 2026-10-31
+AGL,Amazing Grow Booster Kelengkeng,Nutrisi dan ZPT,beli,unit,,,0.456,SUP-03,4,False,2.0,3.8,,,,2026-08-03 s.d. 2026-10-31
+STARLON100,Starlon 665 EC,Insektisida,beli,unit,,,0.267,SUP-04,3,False,2.0,2.8,,,,2026-08-03 s.d. 2026-10-31
+ANWAVIN100,Anwavin 500 EC,Insektisida,beli,unit,,,0.6,SUP-04,3,False,2.0,3.8,,,,2026-08-03 s.d. 2026-10-31
+CPRCD100,Cuprocide 77 WP,Fungisida,beli,unit,,,0.578,SUP-05,5,False,2.0,4.9,,,,2026-08-03 s.d. 2026-10-31
+GOBEST100,Gobest 250 SC,Herbisida,beli,unit,,,0.0,SUP-06,5,False,2.0,2.0,,,tidak laku 90 hari,2026-08-03 s.d. 2026-10-31
+LINDOMIN400,Lindomin 865 SL,Herbisida,beli,unit,,,0.0,,7,True,2.0,2.0,,,tidak laku 90 hari,2026-08-03 s.d. 2026-10-31
+TMA400,TMA 6 865 SL,Herbisida,beli,unit,,,0.367,SUP-06,5,False,2.0,3.8,,,,2026-08-03 s.d. 2026-10-31
+VLGR400,Vulgar 865 SL,Herbisida,beli,unit,,,0.744,SUP-06,5,False,2.0,5.7,,,,2026-08-03 s.d. 2026-10-31
+HUMIGROW500,Humigrow,Nutrisi dan ZPT,beli,unit,,,0.711,SUP-03,4,False,2.0,4.8,,,,2026-08-03 s.d. 2026-10-31
+DLMT,Kapur Dolomite,Pupuk,kemasan pecahan,unit,DLMT50KG,0.5,7.167,SUP-01,,False,2.0,,2.0,,,2026-08-03 s.d. 2026-10-31
+KYRS500,Kayaris,Herbisida,beli,unit,,,0.022,SUP-06,5,False,2.0,2.1,,,,2026-08-03 s.d. 2026-10-31
+KLIMAX,Klimax 20 EC,Insektisida,beli,unit,,,0.033,SUP-04,3,False,2.0,2.1,,,,2026-08-03 s.d. 2026-10-31
+KRESNABAT40,Kresnabat 50 WP,Fungisida,beli,unit,,,0.011,SUP-05,5,False,2.0,2.1,,,,2026-08-03 s.d. 2026-10-31
+ATNK,Atonik 6.0 L,Nutrisi dan ZPT,beli,unit,,,0.278,SUP-03,4,False,2.0,3.1,,,,2026-08-03 s.d. 2026-10-31
+KRSNCD,Kresnacid 250 EC,Insektisida,beli,unit,,,0.278,SUP-04,3,False,2.0,2.8,,,,2026-08-03 s.d. 2026-10-31
+SDMTHRN,Sidamethrin 50 EC,Insektisida,beli,unit,,,0.456,SUP-04,3,False,2.0,3.4,,,,2026-08-03 s.d. 2026-10-31
+JSP1L,Jetspray,Perlengkapan,beli,unit,,,0.311,SUP-07,7,False,2.0,4.2,,,,2026-08-03 s.d. 2026-10-31
+MANOHARA1,Manohara,Pupuk,beli,unit,,,0.0,,7,True,2.0,2.0,,,tidak laku 90 hari,2026-08-03 s.d. 2026-10-31
+MST 2L,Misty Hand Sprayer,Perlengkapan,beli,unit,,,0.056,SUP-07,7,False,2.0,2.4,,,,2026-08-03 s.d. 2026-10-31
+NPKTWN1,NPK Cap Tawon,Pupuk,beli,unit,,,0.522,SUP-02,5,False,2.0,4.6,,,,2026-08-03 s.d. 2026-10-31
+SAPPORO100,Sapporo 52 EC,Insektisida,beli,unit,,,1.511,SUP-04,3,False,2.0,6.5,,,,2026-08-03 s.d. 2026-10-31
+M21,M-21 Decomposer,Nutrisi dan ZPT,beli,unit,,,0.111,SUP-03,4,False,2.0,2.4,,,,2026-08-03 s.d. 2026-10-31
+GMBR3L,Gembor Air,Perlengkapan,beli,unit,,,0.489,SUP-07,7,False,2.0,5.4,,,,2026-08-03 s.d. 2026-10-31
+GEMPUR1,Gempur 480 SL,Herbisida,beli,unit,,,0.0,,7,True,2.0,2.0,,,tidak laku 90 hari,2026-08-03 s.d. 2026-10-31
+LIQ,B1 Liquinox,Nutrisi dan ZPT,beli,unit,,,0.2,SUP-03,4,False,2.0,2.8,,,,2026-08-03 s.d. 2026-10-31
+ISADORA400,Isadora 75 SP,Insektisida,beli,unit,,,0.0,,7,True,2.0,2.0,,,tidak laku 90 hari,2026-08-03 s.d. 2026-10-31
+BIONIK100,Bionik 400 EC,Insektisida,beli,unit,,,1.156,SUP-04,3,False,2.0,5.5,,,,2026-08-03 s.d. 2026-10-31
+ASIABORON1,Asia Boron,Pupuk,beli,unit,,,0.333,SUP-02,5,False,2.0,3.7,,,,2026-08-03 s.d. 2026-10-31
+MEKARMAP1,MekarMAP,Pupuk,beli,unit,,,0.578,SUP-02,5,False,2.0,4.9,,,,2026-08-03 s.d. 2026-10-31
+MGSULFATE,Magnesium Sulfat Pak Tani,Pupuk,beli,unit,,,0.333,SUP-02,5,False,2.0,3.7,,,,2026-08-03 s.d. 2026-10-31
+PETROKUM100,"Petrokum 0,005 BB",Insektisida,beli,unit,,,1.244,SUP-04,3,False,2.0,5.7,,,,2026-08-03 s.d. 2026-10-31
+SEETOP1L,See Top 525 SL,Herbisida,beli,unit,,,0.044,SUP-06,5,False,2.0,2.2,,,,2026-08-03 s.d. 2026-10-31
+SIDAFOS1L,Sidafos 480 SL,Herbisida,beli,unit,,,0.133,SUP-06,5,False,2.0,2.7,,,,2026-08-03 s.d. 2026-10-31
+WINDER100,Winder 100 EC,Insektisida,beli,unit,,,2.211,SUP-04,3,False,2.0,8.6,,,,2026-08-03 s.d. 2026-10-31
+ALIKA50,Alika 247 ZC,Insektisida,beli,unit,,,0.544,SUP-04,3,False,2.0,3.6,,,,2026-08-03 s.d. 2026-10-31
+SIDATAN400,Sidatan 410 SL,Insektisida,beli,unit,,,0.2,SUP-04,3,False,2.0,2.6,,,,2026-08-03 s.d. 2026-10-31
+DEBESTTAN100,De Besttan 60 WP,Insektisida,beli,unit,,,0.256,SUP-04,3,False,2.0,2.8,,,,2026-08-03 s.d. 2026-10-31
+BROADPLUS40,BroadPlus 77 WP,Herbisida,beli,unit,,,0.444,SUP-06,5,False,2.0,4.2,,,,2026-08-03 s.d. 2026-10-31
+PREVATHON100,Prevathon 50 SC,Insektisida,beli,unit,,,0.122,SUP-04,3,False,2.0,2.4,,,,2026-08-03 s.d. 2026-10-31
+EROSGOLD100,EROS GOLD 0.75/30 DF,Herbisida,beli,unit,,,0.411,SUP-06,5,False,2.0,4.1,,,,2026-08-03 s.d. 2026-10-31
+ABACEL,Abacel 18 EC,Insektisida,beli,unit,,,1.156,SUP-04,3,False,2.0,5.5,,,,2026-08-03 s.d. 2026-10-31
+SERENDY,Serendy 28 WP,Herbisida,beli,unit,,,0.0,,7,True,2.0,2.0,,,tidak laku 90 hari,2026-08-03 s.d. 2026-10-31
+CNG1,CN-G Kalsium Nitrat,Pupuk,beli,unit,,,1.422,SUP-02,5,False,2.0,9.1,,,,2026-08-03 s.d. 2026-10-31
+MIPCINTA100,Mipcinta 50 WP,Insektisida,beli,unit,,,1.622,SUP-04,3,False,2.0,6.9,,,,2026-08-03 s.d. 2026-10-31
+PLENUM25,Plenum 50 WG,Insektisida,beli,unit,,,0.422,SUP-04,3,False,2.0,3.3,,,,2026-08-03 s.d. 2026-10-31
+FENITE100,Fenite 150 OD,Insektisida,beli,unit,,,0.589,SUP-04,3,False,2.0,3.8,,,,2026-08-03 s.d. 2026-10-31
+FENITE50,Fenite 150 OD,Insektisida,beli,unit,,,1.4,SUP-04,3,False,2.0,6.2,,,,2026-08-03 s.d. 2026-10-31
+SAMITE100,Samite 135 EC,Insektisida,beli,unit,,,0.356,SUP-04,3,False,2.0,3.1,,,,2026-08-03 s.d. 2026-10-31
+DITHANE200,Dithane M-45 80 WP,Fungisida,beli,unit,,,0.111,SUP-05,5,False,2.0,2.6,,,,2026-08-03 s.d. 2026-10-31
+SUMO80,Sumo 50 EC,Insektisida,beli,unit,,,0.9,SUP-04,3,False,2.0,4.7,,,,2026-08-03 s.d. 2026-10-31
+KALINET500,Kalinet Kalium Cair,Pupuk,beli,unit,,,0.0,,7,True,2.0,2.0,,,tidak laku 90 hari,2026-08-03 s.d. 2026-10-31
+FILIA50,Filia 525 SE,Fungisida,beli,unit,,,1.856,SUP-05,5,False,2.0,11.3,,,,2026-08-03 s.d. 2026-10-31
+PAKETAG,Paket AG Buah dan Tumbuh,Nutrisi dan ZPT,paket,unit,,,0.0,,,False,2.0,,,2.0,tidak laku 90 hari,2026-08-03 s.d. 2026-10-31
+PAKETGDSL,Paket Gandasil B dan D,Nutrisi dan ZPT,paket,unit,,,0.022,,,False,2.0,,,2.0,,2026-08-03 s.d. 2026-10-31
+PAKETTUMBUH250,Paket Pertumbuhan,Pupuk,paket,unit,,,0.178,,,False,2.0,,,2.0,,2026-08-03 s.d. 2026-10-31
+PAKETBUAH250,Paket Pembuahan,Pupuk,paket,unit,,,0.056,,,False,2.0,,,2.0,,2026-08-03 s.d. 2026-10-31
+PAKETGNRTF,Paket Generatif,Pupuk,paket,unit,,,0.0,,,False,2.0,,,2.0,tidak laku 90 hari,2026-08-03 s.d. 2026-10-31
+MAXXFOSATE250,Maxxfosate 490 SL,Herbisida,beli,unit,,,0.367,SUP-06,5,False,2.0,3.8,,,,2026-08-03 s.d. 2026-10-31
+SPONTANKING,Spontan King 400 SL,Insektisida,beli,unit,,,0.2,SUP-04,3,False,2.0,2.6,,,,2026-08-03 s.d. 2026-10-31
+METAZEB1,Metazeb 80 WP,Fungisida,beli,unit,,,1.089,SUP-05,5,False,2.0,7.4,,,,2026-08-03 s.d. 2026-10-31
+ALITA100,Alita 150 EC,Herbisida,beli,unit,,,0.022,SUP-06,5,False,2.0,2.1,,,,2026-08-03 s.d. 2026-10-31
+GOSONGTOP250,Gosong Top 276 SL,Herbisida,beli,unit,,,0.056,SUP-06,5,False,2.0,2.3,,,,2026-08-03 s.d. 2026-10-31
+GOSONGTOP500,Gosong Top 276 SL,Herbisida,beli,unit,,,0.556,SUP-06,5,False,2.0,4.8,,,,2026-08-03 s.d. 2026-10-31
+FARMQUAT250,Farmquat 276 SL,Herbisida,beli,unit,,,1.467,SUP-06,5,False,2.0,9.3,,,,2026-08-03 s.d. 2026-10-31
+AGCEL250,Agcel 500 SL,Nutrisi dan ZPT,beli,unit,,,0.178,SUP-03,4,False,2.0,2.7,,,,2026-08-03 s.d. 2026-10-31
+EXPLORE80,Explore 250 EC,Fungisida,beli,unit,,,0.022,SUP-05,5,False,2.0,2.1,,,,2026-08-03 s.d. 2026-10-31
+NPKAMONG5,NPK Among Tani,Pupuk,beli,unit,,,0.189,SUP-02,5,False,2.0,2.9,,,,2026-08-03 s.d. 2026-10-31
+BRVTP1L,BravoTop 555 SL,Herbisida,beli,unit,,,0.111,SUP-06,5,False,2.0,2.6,,,,2026-08-03 s.d. 2026-10-31
+AMINONANO,Amino Nano,Nutrisi dan ZPT,beli,unit,,,0.056,SUP-03,4,False,2.0,2.2,,,,2026-08-03 s.d. 2026-10-31
+GLUBEST1L,Glubest 200 SL,Herbisida,beli,unit,,,0.0,SUP-06,5,False,2.0,2.0,,,tidak laku 90 hari,2026-08-03 s.d. 2026-10-31
+KINGLON100,Kinglon 667 EC,Insektisida,beli,unit,,,0.233,SUP-04,3,False,2.0,2.7,,,,2026-08-03 s.d. 2026-10-31
+INSTAMAX1L,Instamax 240 SL,Herbisida,beli,unit,,,0.289,SUP-06,5,False,2.0,3.4,,,,2026-08-03 s.d. 2026-10-31
+NOXONE1L,Noxone 276 SL,Herbisida,beli,unit,,,0.011,SUP-06,5,False,2.0,2.1,,,,2026-08-03 s.d. 2026-10-31
+EMKAPE1,Emkape Maxxi Agri,Pupuk,induk,unit,,,3.131,SUP-02,5,False,2.0,17.7,,,,2026-08-03 s.d. 2026-10-31
+BESTAR1L,Bestar 200 SL,Herbisida,beli,unit,,,0.156,SUP-06,5,False,2.0,2.8,,,,2026-08-03 s.d. 2026-10-31
+SUPEREL100,Superel 480 SL,Herbisida,beli,unit,,,4.333,SUP-06,5,False,2.0,23.7,,,,2026-08-03 s.d. 2026-10-31
+RIOVIL100,Riovil 50 SC,Fungisida,beli,unit,,,0.222,SUP-05,5,False,2.0,3.1,,,,2026-08-03 s.d. 2026-10-31
+PEGASUS80,Pegasus 500 SC,Insektisida,beli,unit,,,0.056,SUP-04,3,False,2.0,2.2,,,,2026-08-03 s.d. 2026-10-31
+GATS,Gunting ATS,Perlengkapan,beli,unit,,,0.422,SUP-07,7,False,2.0,5.0,,,,2026-08-03 s.d. 2026-10-31
+GKNG,Gunting Kuning,Perlengkapan,beli,unit,,,0.556,SUP-07,7,False,2.0,5.9,,,,2026-08-03 s.d. 2026-10-31
+GRXB,Gramoxone 276 SL,Herbisida,beli,unit,,,0.089,SUP-06,5,False,2.0,2.4,,,,2026-08-03 s.d. 2026-10-31
+GRXK,Gramoxone 276 SL,Herbisida,beli,unit,,,0.233,SUP-06,5,False,2.0,3.2,,,,2026-08-03 s.d. 2026-10-31
+MANZATE500,Manzate 82 WP,Fungisida,beli,unit,,,0.167,SUP-05,5,False,2.0,2.8,,,,2026-08-03 s.d. 2026-10-31
+ETREKKCL,E-Trek anti rayap,Insektisida,beli,unit,,,5.111,SUP-04,3,False,2.0,17.3,,,,2026-08-03 s.d. 2026-10-31
+EM4K,EM4 Pertanian,Nutrisi dan ZPT,beli,unit,,,0.522,SUP-03,4,False,2.0,4.1,,,,2026-08-03 s.d. 2026-10-31
+EM4C,EM4 Peternakan,Nutrisi dan ZPT,beli,unit,,,0.156,SUP-03,4,False,2.0,2.6,,,,2026-08-03 s.d. 2026-10-31
+EM4P,EM4 Perikanan & Tambak,Nutrisi dan ZPT,beli,unit,,,0.733,SUP-03,4,False,2.0,4.9,,,,2026-08-03 s.d. 2026-10-31
+EM4B,EM4 Limbah / Toilet,Nutrisi dan ZPT,beli,unit,,,0.0,,7,True,2.0,2.0,,,tidak laku 90 hari,2026-08-03 s.d. 2026-10-31
+NPKMGRW,NPK Mutiara GROWER,Pupuk,beli,unit,,,0.033,SUP-02,5,False,2.0,2.2,,,,2026-08-03 s.d. 2026-10-31
+NPKM1,NPK Mutiara,Pupuk,beli,unit,,,1.033,SUP-02,5,False,2.0,7.2,,,,2026-08-03 s.d. 2026-10-31
+NPKYRML,NPK YaraMila,Pupuk,beli,unit,,,0.3,SUP-02,5,False,2.0,3.5,,,,2026-08-03 s.d. 2026-10-31
+NPKPT,NPK Pak Tani,Pupuk,beli,unit,,,0.722,SUP-02,5,False,2.0,5.6,,,,2026-08-03 s.d. 2026-10-31
+ULTRDP,Ultradap Pak Tani,Pupuk,beli,unit,,,0.3,SUP-02,5,False,2.0,3.5,,,,2026-08-03 s.d. 2026-10-31
+YOUSTICK500,You Stick,Perlengkapan,beli,unit,,,0.167,SUP-07,7,False,2.0,3.2,,,,2026-08-03 s.d. 2026-10-31
+GRNSTIK,Green Stick,Perlengkapan,beli,unit,,,0.944,SUP-07,7,False,2.0,8.6,,,,2026-08-03 s.d. 2026-10-31
+GRNTNK1,Green Tonik,Nutrisi dan ZPT,beli,unit,,,0.167,SUP-03,4,False,2.0,2.7,,,,2026-08-03 s.d. 2026-10-31
+GDSLB,Gandasil B,Nutrisi dan ZPT,beli,unit,,,0.4,SUP-03,4,False,2.0,3.6,,,,2026-08-03 s.d. 2026-10-31
+GDSLB500,Gandasil B,Nutrisi dan ZPT,beli,unit,,,0.056,,7,True,2.0,2.4,,,,2026-08-03 s.d. 2026-10-31
+GDSLD,Gandasil D,Nutrisi dan ZPT,beli,unit,,,0.211,SUP-03,4,False,2.0,2.8,,,,2026-08-03 s.d. 2026-10-31
+GDSLD500,Gandasil D,Nutrisi dan ZPT,beli,unit,,,0.278,SUP-03,4,False,2.0,3.1,,,,2026-08-03 s.d. 2026-10-31
+GIBGRO,Gibgro 10 SP,Nutrisi dan ZPT,beli,unit,,,2.089,SUP-03,4,False,2.0,10.4,,,,2026-08-03 s.d. 2026-10-31
+GIBGROPN,Gibgro Panen 20 SP,Nutrisi dan ZPT,beli,unit,,,0.189,SUP-03,4,False,2.0,2.8,,,,2026-08-03 s.d. 2026-10-31
+AMBTN500,Ambition,Nutrisi dan ZPT,beli,unit,,,0.0,SUP-03,4,False,2.0,2.0,,,tidak laku 90 hari,2026-08-03 s.d. 2026-10-31
+AMSTRTOP50,Amistar Top 325 SC,Fungisida,beli,unit,,,0.022,SUP-05,5,False,2.0,2.1,,,,2026-08-03 s.d. 2026-10-31
+ANTILA500,Antila 80 WP,Fungisida,beli,unit,,,0.0,,7,True,2.0,2.0,,,tidak laku 90 hari,2026-08-03 s.d. 2026-10-31
+ANTRCL,Antracol 70 WP,Fungisida,beli,unit,,,0.367,SUP-05,5,False,2.0,3.8,,,,2026-08-03 s.d. 2026-10-31
+ANTRCL500,Antracol 70 WP,Fungisida,beli,unit,,,0.467,SUP-05,5,False,2.0,4.3,,,,2026-08-03 s.d. 2026-10-31
+AVIDOR100,Avidor 25 WP,Insektisida,beli,unit,,,2.556,SUP-04,3,False,2.0,9.7,,,,2026-08-03 s.d. 2026-10-31
+BBLSS,Bablass 490 SL,Herbisida,beli,unit,,,0.244,SUP-06,5,False,2.0,3.2,,,,2026-08-03 s.d. 2026-10-31
+BLSTC,Balistic 50 SC,Insektisida,beli,unit,,,2.578,SUP-04,3,False,2.0,9.7,,,,2026-08-03 s.d. 2026-10-31
+BIOCALSIUM1,Bio Calsium,Pupuk,beli,unit,,,0.333,SUP-02,5,False,2.0,3.7,,,,2026-08-03 s.d. 2026-10-31
+CALSIUMSPR1,Calsium Super,Pupuk,beli,unit,,,0.089,SUP-02,5,False,2.0,2.4,,,,2026-08-03 s.d. 2026-10-31
+BIOTEK,Biotek,Insektisida,beli,unit,,,2.233,SUP-04,3,False,2.0,8.7,,,,2026-08-03 s.d. 2026-10-31
+BRVXN,Bravoxone 276 SL,Herbisida,beli,unit,,,0.533,SUP-06,5,False,2.0,4.7,,,,2026-08-03 s.d. 2026-10-31
+BFS1L,Bufos 150 SL,Herbisida,beli,unit,,,0.656,SUP-06,5,False,2.0,5.3,,,,2026-08-03 s.d. 2026-10-31
+CPH,Cepha 480 SL,Insektisida,beli,unit,,,0.011,,7,True,2.0,2.1,,,,2026-08-03 s.d. 2026-10-31
+CRC,Curacron 500 EC,Insektisida,beli,unit,,,0.156,SUP-04,3,False,2.0,2.5,,,,2026-08-03 s.d. 2026-10-31
+DANGKE100,Dangke 40 WP,Insektisida,beli,unit,,,2.633,SUP-04,3,False,2.0,9.9,,,,2026-08-03 s.d. 2026-10-31
+DCSK,Decis 25 EC,Insektisida,beli,unit,,,0.111,SUP-04,3,False,2.0,2.3,,,,2026-08-03 s.d. 2026-10-31
+DCSB,Decis 25 EC,Insektisida,beli,unit,,,1.511,SUP-04,3,False,2.0,6.5,,,,2026-08-03 s.d. 2026-10-31
+EMKAPE500,Emkape Maxxi Agri,Pupuk,kemasan pecahan,unit,EMKAPE1,0.5,0.856,SUP-02,,False,2.0,,2.0,,,2026-08-03 s.d. 2026-10-31
+EXTRAPCKG,extra kardus + bubblewrap,Perlengkapan,bukan stok,unit,,,0.922,,,False,,,,,bukan barang stok (stok bahan kemasan tidak dilacak),2026-08-03 s.d. 2026-10-31
+FSTC,Fastac 15 EC,Insektisida,beli,unit,,,0.467,SUP-04,3,False,2.0,3.4,,,,2026-08-03 s.d. 2026-10-31
+FSTSCR500,Fastscore,Fungisida,beli,unit,,,0.022,SUP-05,5,False,2.0,2.1,,,,2026-08-03 s.d. 2026-10-31
+FRTPHS1,Fertiphos Curah,Pupuk,kemasan pecahan,unit,FRTPHS50KG,1.0,1.067,SUP-01,,False,2.0,,2.0,,,2026-08-03 s.d. 2026-10-31
+FSTN100,Fostin 610 EC,Insektisida,beli,unit,,,0.467,SUP-04,3,False,2.0,3.4,,,,2026-08-03 s.d. 2026-10-31
+FRD1,Furadan 3GR,Insektisida,beli,unit,,,1.356,SUP-04,3,False,2.0,6.1,,,,2026-08-03 s.d. 2026-10-31
+FRD2,Furadan 3GR,Insektisida,beli,unit,,,0.333,SUP-04,3,False,2.0,3.0,,,,2026-08-03 s.d. 2026-10-31
+JARINGSDG,Jaring Buah Sedang,Perlengkapan,beli,unit,,,0.011,,7,True,2.0,2.1,,,,2026-08-03 s.d. 2026-10-31
+JARINGBSR,Jaring Buah Besar,Perlengkapan,beli,unit,,,0.656,SUP-07,7,False,2.0,6.6,,,,2026-08-03 s.d. 2026-10-31
+JSP500,Jetspray,Perlengkapan,beli,unit,,,0.122,SUP-07,7,False,2.0,2.9,,,,2026-08-03 s.d. 2026-10-31
+KANITRAT500,Kanitrat Maxxi Agri,Pupuk,kemasan pecahan,unit,KANITRAT1,0.5,0.022,SUP-02,,False,2.0,,2.0,,,2026-08-03 s.d. 2026-10-31
+KANITRAT1,Kanitrat Maxxi Agri,Pupuk,induk,unit,,,0.2,SUP-02,5,False,2.0,3.0,,,,2026-08-03 s.d. 2026-10-31
+KANON100,Kanon 400 EC,Insektisida,beli,unit,,,0.167,SUP-04,3,False,2.0,2.5,,,,2026-08-03 s.d. 2026-10-31
+KRTBRN,Karate Plus Boroni,Pupuk,beli,unit,,,0.103,SUP-02,5,False,2.0,2.5,,,,2026-08-03 s.d. 2026-10-31
+KCL,KCL Curah,Pupuk,kemasan pecahan,unit,KCL50KG,0.5,9.644,SUP-01,,False,2.0,,2.0,,,2026-08-03 s.d. 2026-10-31
+KINGTONIK1,King Tonik,Nutrisi dan ZPT,beli,unit,,,0.0,SUP-03,4,False,2.0,2.0,,,tidak laku 90 hari,2026-08-03 s.d. 2026-10-31
+KNOMRH2,CPN Pak Tani (KNO3 merah),Pupuk,beli,unit,,,0.0,,7,True,2.0,2.0,,,tidak laku 90 hari,2026-08-03 s.d. 2026-10-31
+KNOPTH1,PN Pak Tani (KNO3 putih kristal),Pupuk,beli,unit,,,0.303,SUP-02,5,False,2.0,3.5,,,,2026-08-03 s.d. 2026-10-31
+KNOPTH2,PN Pak Tani (KNO3 putih prill),Pupuk,beli,unit,,,0.156,SUP-02,5,False,2.0,2.8,,,,2026-08-03 s.d. 2026-10-31
+KONUP,Konup 480 SL,Herbisida,beli,unit,,,0.256,SUP-06,5,False,2.0,3.3,,,,2026-08-03 s.d. 2026-10-31
+KOVINPLUS,Kovin Plus 80P,Insektisida,beli,unit,,,3.633,SUP-04,3,False,2.0,12.9,,,,2026-08-03 s.d. 2026-10-31
+KRSLN,Kreslon 480 EC,Insektisida,beli,unit,,,0.456,SUP-04,3,False,2.0,3.4,,,,2026-08-03 s.d. 2026-10-31
+KRESNATOP,Kresnatop 500 SC,Herbisida,beli,unit,,,0.256,SUP-06,5,False,2.0,3.3,,,,2026-08-03 s.d. 2026-10-31
+MARSHAL25,Marshal 25 DS,Insektisida,beli,unit,,,0.144,SUP-04,3,False,2.0,2.4,,,,2026-08-03 s.d. 2026-10-31
+MARTREX500,Mar-trex 500 EC,Insektisida,beli,unit,,,0.156,SUP-04,3,False,2.0,2.5,,,,2026-08-03 s.d. 2026-10-31
+MTDR,Matador 25 EC,Insektisida,beli,unit,,,0.078,SUP-04,3,False,2.0,2.2,,,,2026-08-03 s.d. 2026-10-31
+MAXXIGROB500,Maxxigro B,Nutrisi dan ZPT,beli,unit,,,0.533,SUP-03,4,False,2.0,4.1,,,,2026-08-03 s.d. 2026-10-31
+MAXXIGROD500,Maxxigro D,Nutrisi dan ZPT,beli,unit,,,0.367,SUP-03,4,False,2.0,3.5,,,,2026-08-03 s.d. 2026-10-31
+MEGAZEB,Megazeb 80 WP,Fungisida,beli,unit,,,0.0,,7,True,2.0,2.0,,,tidak laku 90 hari,2026-08-03 s.d. 2026-10-31
+MTSLNDO,Metsulindo Plus 80WP,Herbisida,beli,unit,,,0.144,SUP-06,5,False,2.0,2.7,,,,2026-08-03 s.d. 2026-10-31
+MKP1,MKP Pak Tani,Pupuk,beli,unit,,,3.233,SUP-02,5,False,2.0,18.2,,,,2026-08-03 s.d. 2026-10-31
+MOLASE,Molase,Nutrisi dan ZPT,beli,unit,,,0.367,SUP-03,4,False,2.0,3.5,,,,2026-08-03 s.d. 2026-10-31
+NTVK,Nativo 75 WG,Fungisida,beli,unit,,,1.033,SUP-05,5,False,2.0,7.2,,,,2026-08-03 s.d. 2026-10-31
+NRDX,Nordox 56 WP,Fungisida,beli,unit,,,0.2,SUP-05,5,False,2.0,3.0,,,,2026-08-03 s.d. 2026-10-31
+NUGRASS,Nugrass 69 EC,Herbisida,beli,unit,,,0.2,SUP-06,5,False,2.0,3.0,,,,2026-08-03 s.d. 2026-10-31
+PTRGNL,Petrogeol 800L,Insektisida,beli,unit,,,0.278,SUP-04,3,False,2.0,2.8,,,,2026-08-03 s.d. 2026-10-31
+POCMF1L,POC Mitra Flora,Nutrisi dan ZPT,beli,unit,,,0.022,SUP-03,4,False,2.0,2.1,,,,2026-08-03 s.d. 2026-10-31
+PLYBG15,Polybag Tanaman 15x15,Perlengkapan,beli,unit,,,0.411,SUP-07,7,False,2.0,4.9,,,,2026-08-03 s.d. 2026-10-31
+PLYBG20,Polybag Tanaman 20x20,Perlengkapan,beli,unit,,,0.133,SUP-07,7,False,2.0,2.9,,,,2026-08-03 s.d. 2026-10-31
+PLYBG25,Polybag Tanaman 25x25,Perlengkapan,beli,unit,,,0.0,,7,True,2.0,2.0,,,tidak laku 90 hari,2026-08-03 s.d. 2026-10-31
+PLYBG30,Polybag Tanaman 30x30,Perlengkapan,beli,unit,,,0.011,,7,True,2.0,2.1,,,,2026-08-03 s.d. 2026-10-31
+PLYBG35,Polybag Tanaman 35x35,Perlengkapan,beli,unit,,,1.167,SUP-07,7,False,2.0,10.2,,,,2026-08-03 s.d. 2026-10-31
+PLYBG40,Polybag Tanaman 40x40,Perlengkapan,beli,unit,,,0.022,SUP-07,7,False,2.0,2.2,,,,2026-08-03 s.d. 2026-10-31
+PLYBG45,Polybag Tanaman 45x45,Perlengkapan,beli,unit,,,0.0,SUP-07,7,False,2.0,2.0,,,tidak laku 90 hari,2026-08-03 s.d. 2026-10-31
+PLYBG50,Polybag Tanaman 50x50,Perlengkapan,beli,unit,,,0.378,SUP-07,7,False,2.0,4.6,,,,2026-08-03 s.d. 2026-10-31
+RADOCKCL,Radoc 500 EC,Insektisida,beli,unit,,,0.0,,7,True,2.0,2.0,,,tidak laku 90 hari,2026-08-03 s.d. 2026-10-31
+RGNTB,Regent 50 EC,Insektisida,beli,unit,,,0.922,SUP-04,3,False,2.0,4.8,,,,2026-08-03 s.d. 2026-10-31
+RGNT,Regent 50 EC,Insektisida,beli,unit,,,0.211,SUP-04,3,False,2.0,2.6,,,,2026-08-03 s.d. 2026-10-31
+RDPB,Roundup 486 SL,Herbisida,beli,unit,,,1.378,SUP-06,5,False,2.0,8.9,,,,2026-08-03 s.d. 2026-10-31
+RDPK,Roundup 486 SL,Herbisida,beli,unit,,,0.2,SUP-06,5,False,2.0,3.0,,,,2026-08-03 s.d. 2026-10-31
+RDSTR100,Rudstar 250 EC,Herbisida,beli,unit,,,0.067,SUP-06,5,False,2.0,2.3,,,,2026-08-03 s.d. 2026-10-31
+RMPS100,Rumpas 120 EW,Herbisida,beli,unit,,,0.144,SUP-06,5,False,2.0,2.7,,,,2026-08-03 s.d. 2026-10-31
+SCR80,Score 250 EC,Fungisida,beli,unit,,,0.144,SUP-05,5,False,2.0,2.7,,,,2026-08-03 s.d. 2026-10-31
+SPONTAN,Spontan 400 SL,Insektisida,beli,unit,,,0.589,SUP-04,3,False,2.0,3.8,,,,2026-08-03 s.d. 2026-10-31
+STRBN100,Starban 585 EC,Insektisida,beli,unit,,,0.3,SUP-04,3,False,2.0,2.9,,,,2026-08-03 s.d. 2026-10-31
+SPRFS100,Superfos 550 EC,Insektisida,beli,unit,,,0.011,,7,True,2.0,2.1,,,,2026-08-03 s.d. 2026-10-31
+TAMACRON,Tamacron 500 EC,Insektisida,beli,unit,,,0.089,SUP-04,3,False,2.0,2.3,,,,2026-08-03 s.d. 2026-10-31
+TPSN,Topsin 500 EC,Fungisida,beli,unit,,,1.3,SUP-05,5,False,2.0,8.5,,,,2026-08-03 s.d. 2026-10-31
+TRICHO500,Tricho-Bact,Fungisida,beli,unit,,,0.578,SUP-05,5,False,2.0,4.9,,,,2026-08-03 s.d. 2026-10-31
+TROBOS100,Trobos 200 SL,Nutrisi dan ZPT,beli,unit,,,4.7,SUP-03,4,False,2.0,20.8,,,,2026-08-03 s.d. 2026-10-31
+UREA,Urea Curah,Pupuk,kemasan pecahan,unit,UREA50KG,0.5,4.956,SUP-01,,False,2.0,,2.0,,,2026-08-03 s.d. 2026-10-31
+WAUX,Wauxin,Insektisida,beli,unit,,,0.022,SUP-04,3,False,2.0,2.1,,,,2026-08-03 s.d. 2026-10-31
+ZNSO4,Zinkko Pupuk Mikro,Pupuk,beli,unit,,,0.144,SUP-02,5,False,2.0,2.7,,,,2026-08-03 s.d. 2026-10-31
+UREA50KG,Pupuk Urea Petro (karung 50 kg),Pupuk,induk,kg,,,2.478,SUP-01,3,False,50.0,57.4,,,,2026-08-03 s.d. 2026-10-31
+KCL50KG,Pupuk KCL Mahkota (karung 50 kg),Pupuk,induk,kg,,,4.822,SUP-01,3,False,50.0,64.5,,,,2026-08-03 s.d. 2026-10-31
+DLMT50KG,Kapur Pertanian Kebomas (karung 50 kg),Pupuk,induk,kg,,,3.583,SUP-01,3,False,50.0,60.7,,,,2026-08-03 s.d. 2026-10-31
+FRTPHS50KG,Fertiphos Pak Tani (karung 50 kg),Pupuk,induk,kg,,,1.067,SUP-01,3,False,50.0,53.2,,,,2026-08-03 s.d. 2026-10-31
